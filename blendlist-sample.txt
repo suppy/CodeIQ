@@ -1,0 +1,9 @@
+SpiceA SpiceB
+SpiceA SpiceC
+SpiceB SpiceC
+SpiceC SpiceD
+SpiceD SpiceE
+SpiceE SpiceF
+SpiceF SpiceD
+SpiceE SpiceG
+SpiceF SpiceG

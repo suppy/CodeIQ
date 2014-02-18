@@ -15,3 +15,4 @@
 
 * [The Essence of Programming  結城 浩さん](https://codeiq.jp/ace/yuki_hiroshi/)
   - [チョコの量を減らせ！](https://codeiq.jp/ace/yuki_hiroshi/q197)(q197)
+  - [最高のカレーを作れ！](https://codeiq.jp/ace/yuki_hiroshi/q210)(q210)
