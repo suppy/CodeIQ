@@ -31,3 +31,4 @@
 
 * [CodeIQ運営事務局　アプリケーションエンジニアを募集する企業さん](https://codeiq.jp/ace/joboffer_apli/)
   - [PHP：兵士と巨人の川渡り](https://codeiq.jp/ace/joboffer_apli/q636)
+  - [Ruby：フルーツの数を数えよう](https://codeiq.jp/ace/joboffer_apli/q688)(q688)
