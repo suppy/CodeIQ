@@ -34,7 +34,7 @@
   - [カラフルな八面体を転がそう。](https://codeiq.jp/ace/nabetani_takenori/q708)(q708)
 
 * [CodeIQ運営事務局　アプリケーションエンジニアを募集する企業さん](https://codeiq.jp/ace/joboffer_apli/)
-  - [PHP：兵士と巨人の川渡り](https://codeiq.jp/ace/joboffer_apli/q636)
+  - [PHP：兵士と巨人の川渡り](https://codeiq.jp/ace/joboffer_apli/q636)(q636)
   - [Ruby：フルーツの数を数えよう](https://codeiq.jp/ace/joboffer_apli/q688)(q688)
 
 * [株式会社パワーハウス  障子 慎一＠番犬Pちゃんチャレンジ塾さん](https://codeiq.jp/ace/shoji_shinichi/)
@@ -45,4 +45,5 @@
   - [アッカーマンの呪い](https://codeiq.jp/ace/kawagashira_nobuyuki/q348)(q348)
 
 * [増井技術士事務所  今週のアルゴリズムの@masuipeoさん](https://codeiq.jp/ace/thisweek_masuipeo/)
+  - [今週のお題：飛車と角の利きを考えて！](https://codeiq.jp/ace/thisweek_masuipeo/q666)(q666)
   - [今週のお題：カードを裏返して！](https://codeiq.jp/ace/thisweek_masuipeo/q667)(q667)
