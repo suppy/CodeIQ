@@ -27,3 +27,6 @@
 
 * [@Nabetani  鍋谷 武典さん](https://codeiq.jp/ace/nabetani_takenori/)
   - [最大公約フィボナッチ数(?)](https://codeiq.jp/ace/nabetani_takenori/q649)(q649)
+
+* [CodeIQ運営事務局　アプリケーションエンジニアを募集する企業さん](https://codeiq.jp/ace/joboffer_apli/)
+  - [PHP：兵士と巨人の川渡り](https://codeiq.jp/ace/joboffer_apli/q636)
