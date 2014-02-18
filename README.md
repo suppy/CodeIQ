@@ -13,3 +13,5 @@
 * [東京Ruby会議10　佐々木 達也さん](https://codeiq.jp/ace/sasata299/)
   - [コードゴルフに挑戦！](https://codeiq.jp/ace/sasata299/q161)(q161)
 
+* [The Essence of Programming  結城 浩さん](https://codeiq.jp/ace/yuki_hiroshi/)
+  - [チョコの量を減らせ！](https://codeiq.jp/ace/yuki_hiroshi/q197)(q197)
