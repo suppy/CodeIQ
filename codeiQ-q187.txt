@@ -1,0 +1,6 @@
+ss.shoot('#invaderArea > div > div > div :first');
+ss.shoot('#invaderArea > div > div > div :last');
+ss.shoot('#invaderArea > div > div :odd:first');
+ss.shoot('#invaderArea > div > div > span :first');
+ss.shoot('#invaderArea > div :last > div > span :first');
+ss.shoot('#invaderArea > div :last > div > span > span');
