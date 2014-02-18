@@ -1,0 +1,1 @@
+Number(x*x*x/32768*(Number(x>0)*2-1)+y*y*y/512*(Number(y>0)*2-1)<=1)+Number(x*x*x/4096*(Number(x>0)*2-1)+y*y*y/4096*(Number(y>0)*2-1)<=1)*2
