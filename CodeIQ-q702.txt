@@ -1,0 +1,1 @@
+((Math.abs(x/32*x/32*x/32)+Math.abs(y/8*y/8*y/8)<=1)?1:0)+((Math.abs(x/16*x/16*x/16)+Math.abs(y/16*y/16*y/16)<=1)?2:0)
