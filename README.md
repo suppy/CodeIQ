@@ -43,3 +43,6 @@
 
 * [@nkawagashira  川頭 信之さん](https://codeiq.jp/ace/kawagashira_nobuyuki/)
   - [アッカーマンの呪い](https://codeiq.jp/ace/kawagashira_nobuyuki/q348)(q348)
+
+* [増井技術士事務所  今週のアルゴリズムの@masuipeoさん](https://codeiq.jp/ace/thisweek_masuipeo/)
+  - [今週のお題：カードを裏返して！](https://codeiq.jp/ace/thisweek_masuipeo/q667)(q667)
