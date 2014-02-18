@@ -9,6 +9,7 @@
   - [jQueryでカオモジーズを退治せよ](https://codeiq.jp/ace/yanai_masakazu/q226)(q226)
   - [コードゴルフ：バイリニア補間法](https://codeiq.jp/ace/yanai_masakazu/q225)(q225)
   - [コードゴルフ：ワールド マップ](https://codeiq.jp/ace/yanai_masakazu/q276)(q276)
+  - [シフト演算子を使った掛け算と割り算](https://codeiq.jp/ace/yanai_masakazu/q426)(q426)
   - [お正月版 各桁総和ダンジョン LV1](https://codeiq.jp/ace/yanai_masakazu/q656)(q656)
   - [お正月版 各桁総和ダンジョン LV2](https://codeiq.jp/ace/yanai_masakazu/q657)(q657)
   - [お正月版 各桁総和ダンジョン LV3](https://codeiq.jp/ace/yanai_masakazu/q658)(q658)
