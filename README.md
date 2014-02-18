@@ -10,6 +10,7 @@
   - [コードゴルフ：バイリニア補間法](https://codeiq.jp/ace/yanai_masakazu/q225)(q225)
   - [コードゴルフ：ワールド マップ](https://codeiq.jp/ace/yanai_masakazu/q276)(q276)
   - [お正月版 各桁総和ダンジョン LV1](https://codeiq.jp/ace/yanai_masakazu/q656)(q656)
+  - [お正月版 各桁総和ダンジョン LV2](https://codeiq.jp/ace/yanai_masakazu/q657)(q657)
   
 * [東京Ruby会議10　佐々木 達也さん](https://codeiq.jp/ace/sasata299/)
   - [コードゴルフに挑戦！](https://codeiq.jp/ace/sasata299/q161)(q161)
