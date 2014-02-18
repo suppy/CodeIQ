@@ -17,6 +17,7 @@
   - [チョコの量を減らせ！](https://codeiq.jp/ace/yuki_hiroshi/q197)(q197)
   - [最高のカレーを作れ！](https://codeiq.jp/ace/yuki_hiroshi/q210)(q210)
   - [星間飛行ルートを作ろう！](https://codeiq.jp/ace/yuki_hiroshi/q411)(q411)
+  - [交差点をすばやく数えよう！](https://codeiq.jp/ace/yuki_hiroshi/q432)(q432)
 
 * [Short Coder @ozy4dm  Ozyさん](https://codeiq.jp/ace/ozy4dm/)
   - [ショートコーディング：パスカルの△](https://codeiq.jp/ace/ozy4dm/q310)(q310)
