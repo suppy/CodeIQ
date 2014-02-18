@@ -32,3 +32,6 @@
 * [CodeIQ運営事務局　アプリケーションエンジニアを募集する企業さん](https://codeiq.jp/ace/joboffer_apli/)
   - [PHP：兵士と巨人の川渡り](https://codeiq.jp/ace/joboffer_apli/q636)
   - [Ruby：フルーツの数を数えよう](https://codeiq.jp/ace/joboffer_apli/q688)(q688)
+
+* [株式会社パワーハウス  障子 慎一＠番犬Pちゃんチャレンジ塾さん](https://codeiq.jp/ace/shoji_shinichi/)
+  - [プリッとAnswer「チョコの場所」](https://codeiq.jp/ace/shoji_shinichi/q700)(q700)
