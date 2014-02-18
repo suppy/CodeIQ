@@ -1,0 +1,12 @@
+$('#invaderArea span').each(function() {
+	ss.shoot(this);
+});
+$('#invaderArea div').each(function() {
+	ss.shoot(this);
+});
+$('#invaderArea pre').each(function() {
+	ss.shoot(this);
+});
+$('#invaderArea h5').each(function() {
+	ss.shoot(this);
+});
