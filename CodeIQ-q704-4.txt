@@ -1,0 +1,1 @@
+function(){s=t=0;a=x>>31;for(i=u=(x^a)-a;i--;)for(j=u;j--;s+=u)b=y>>31;for(i=v=(y^b)-b;i--;)for(j=v;j--;t+=v);return (s+(t<<6)<=32768)+((s+t<=4096)<<1)}()

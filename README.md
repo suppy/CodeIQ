@@ -14,6 +14,7 @@
   - [お正月版 各桁総和ダンジョン LV3](https://codeiq.jp/ace/yanai_masakazu/q658)(q658)
   - [スーパー楕円のダンジョン - LV1](https://codeiq.jp/ace/yanai_masakazu/q702)(q702)
   - [スーパー楕円のダンジョン - LV2](https://codeiq.jp/ace/yanai_masakazu/q703)(q703)
+  - [スーパー楕円のダンジョン - LV3](https://codeiq.jp/ace/yanai_masakazu/q704)(q704)
   
 * [東京Ruby会議10　佐々木 達也さん](https://codeiq.jp/ace/sasata299/)
   - [コードゴルフに挑戦！](https://codeiq.jp/ace/sasata299/q161)(q161)
