@@ -21,6 +21,7 @@
   - [最高のカレーを作れ！](https://codeiq.jp/ace/yuki_hiroshi/q210)(q210)
   - [星間飛行ルートを作ろう！](https://codeiq.jp/ace/yuki_hiroshi/q411)(q411)
   - [交差点をすばやく数えよう！](https://codeiq.jp/ace/yuki_hiroshi/q432)(q432)
+  - [王女様の宝石パターンを見つけよう！](https://codeiq.jp/ace/yuki_hiroshi/q684)(q684)
 
 * [Short Coder @ozy4dm  Ozyさん](https://codeiq.jp/ace/ozy4dm/)
   - [ショートコーディング：パスカルの△](https://codeiq.jp/ace/ozy4dm/q310)(q310)
