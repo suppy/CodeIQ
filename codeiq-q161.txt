@@ -1,0 +1,1 @@
+$*[0].upto($*[1]){|m|n=m.to_i;s=(n%3==0)?"Fizz":"";s+="Buzz"if(n%5==0);puts (s!="")?s:n}

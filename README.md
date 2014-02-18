@@ -5,3 +5,6 @@
 * [クロノス・クラウン合同会社  柳井 政和さん](https://codeiq.jp/ace/yanai_masakazu/)
   - [コードゴルフ：迷路](https://codeiq.jp/ace/yanai_masakazu/q154)(q154)
   
+* [東京Ruby会議10　佐々木 達也さん](https://codeiq.jp/ace/sasata299/)
+  - [コードゴルフに挑戦！](https://codeiq.jp/ace/sasata299/q161)(q161)
+
