@@ -1,0 +1,13 @@
+# 増井技術士事務所  今週のアルゴリズムの@masuipeoさんからのアルゴリズムの問題
+# 今週のお題：7セグメントコードの反転
+# https://codeiq.jp/ace/thisweek_masuipeo/q755
+
+# 挑戦日時 2014年2月26日 13:20
+
+
+# 増井技術士事務所 今週のアルゴリズムの@masuipeoさんから評価フィードバックが届きました。
+# 2014年3月5日
+# https://codeiq.jp/my_feedback.php?challenge_log_id=106306
+
+# 問題とあなたの解答内容を確認
+# https://codeiq.jp/challenge_answer.php?challenge_log_id=106306
