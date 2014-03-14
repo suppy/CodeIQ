@@ -51,6 +51,7 @@
   - [今週のお題：飛車と角の利きを考えて！](https://codeiq.jp/ace/thisweek_masuipeo/q666)(q666)
   - [今週のお題：カードを裏返して！](https://codeiq.jp/ace/thisweek_masuipeo/q667)(q667)
   - [今週のお題：運命の出会いは何通り？](https://codeiq.jp/ace/thisweek_masuipeo/q711)(q711)
+  - [今週のお題：「0」と「7」の回文数](https://codeiq.jp/ace/thisweek_masuipeo/q726)(q726)
 
 * [@naoya_t　naoya_tさん](https://codeiq.jp/ace/naoyat/)
   - [金塊か、キノコ料理か](https://codeiq.jp/ace/naoyat/q207)(q207)
