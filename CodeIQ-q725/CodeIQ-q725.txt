@@ -1,0 +1,1 @@
+!>.class_div$#id_div${inner_div$}*5+hr+table>(.row$>.col${inner_column$}*5)*2
