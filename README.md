@@ -56,4 +56,4 @@
   - [金塊か、キノコ料理か](https://codeiq.jp/ace/naoyat/q207)(q207)
 
 * [CodeIQコード銀行  コードお預かり窓口さん](https://codeiq.jp/ace/code_teller/)
-  - [コード銀行：3年C組の成績表](https://codeiq.jp/ace/code_teller/q712)
+  - [コード銀行：3年C組の成績表](https://codeiq.jp/ace/code_teller/q712)(q712)
