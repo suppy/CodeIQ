@@ -60,4 +60,5 @@
   - [コード銀行：階段ピョンピョン１２３！](https://codeiq.jp/ace/code_teller/q713)(q713)
 
 * [@tbpgr  tbpgrさん](https://codeiq.jp/ace/tbpgr/)
-  - [mmetでHTML高速記述 Lv1](https://codeiq.jp/ace/tbpgr/q725)(q725)
+  - [EmmetでHTML高速記述 Lv1](https://codeiq.jp/ace/tbpgr/q725)(q725)
+  - [EmmetでHTML高速記述 Lv2](https://codeiq.jp/ace/tbpgr/q746)(q746)

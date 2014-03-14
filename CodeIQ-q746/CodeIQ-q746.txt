@@ -1,0 +1,1 @@
+!>(.header>ol>.headers>h${title$}*5)+.body>(ul>.bodies>lorem5)+inp[name=input_name]#input_id+input:p[name=pass_name]#pass_id+p({before$}>br{after$})*5
