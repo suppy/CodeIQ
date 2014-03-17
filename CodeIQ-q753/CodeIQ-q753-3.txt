@@ -1,0 +1,1 @@
+(a.toFixed().slice(2)-(c=c.toFixed()).slice(c.length-1))?1:0

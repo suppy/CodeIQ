@@ -17,7 +17,8 @@
   - [スーパー楕円のダンジョン - LV2](https://codeiq.jp/ace/yanai_masakazu/q703)(q703)
   - [スーパー楕円のダンジョン - LV3](https://codeiq.jp/ace/yanai_masakazu/q704)(q704)
   - [5乗のダンジョン - LV1](https://codeiq.jp/ace/yanai_masakazu/q752)(q752)
-  
+  - [5乗のダンジョン - LV2](https://codeiq.jp/ace/yanai_masakazu/q753)(q753)
+
 * [東京Ruby会議10　佐々木 達也さん](https://codeiq.jp/ace/sasata299/)
   - [コードゴルフに挑戦！](https://codeiq.jp/ace/sasata299/q161)(q161)
 

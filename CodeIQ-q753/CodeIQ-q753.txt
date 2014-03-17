@@ -1,0 +1,1 @@
+(a.toPrecision().slice(2)-c.toPrecision().slice(c.toPrecision().length-1)==0)?0:1
