@@ -45,6 +45,7 @@
 * [株式会社パワーハウス  障子 慎一＠番犬Pちゃんチャレンジ塾さん](https://codeiq.jp/ace/shoji_shinichi/)
   - [プリッとAnswer「チョコの場所」](https://codeiq.jp/ace/shoji_shinichi/q700)(q700)
   - [プリッとAnswer「義理or本命」](https://codeiq.jp/ace/shoji_shinichi/q701)(q701)
+  - [プリッとAnswer「五人囃子」](https://codeiq.jp/ace/shoji_shinichi/q727)(q727)
 
 * [@nkawagashira  川頭 信之さん](https://codeiq.jp/ace/kawagashira_nobuyuki/)
   - [アッカーマンの呪い](https://codeiq.jp/ace/kawagashira_nobuyuki/q348)(q348)
