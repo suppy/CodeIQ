@@ -29,6 +29,7 @@
   - [トグルスイッチを切り換えよう！](https://codeiq.jp/ace/yuki_hiroshi/q312)(q312)
   - [星間飛行ルートを作ろう！](https://codeiq.jp/ace/yuki_hiroshi/q411)(q411)
   - [交差点をすばやく数えよう！](https://codeiq.jp/ace/yuki_hiroshi/q432)(q432)
+  - [古代文献を復元しよう！](https://codeiq.jp/ace/yuki_hiroshi/q468)(q468)
   - [王女様の宝石パターンを見つけよう！](https://codeiq.jp/ace/yuki_hiroshi/q684)(q684)
 
 * [Short Coder @ozy4dm  Ozyさん](https://codeiq.jp/ace/ozy4dm/)
