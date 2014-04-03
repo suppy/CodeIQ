@@ -63,6 +63,7 @@
   - [今週のお題：「0」と「7」の回文数](https://codeiq.jp/ace/thisweek_masuipeo/q726)(q726)
   - [今週のお題：サイコロの反転](https://codeiq.jp/ace/thisweek_masuipeo/q735)(q735)
   - [今週のお題：7セグメントコードの反転](https://codeiq.jp/ace/thisweek_masuipeo/q755)(q755)
+  - [今週のお題：「白」で埋め尽くせ！](https://codeiq.jp/ace/thisweek_masuipeo/q770)(q770)
 
 * [@naoya_t　naoya_tさん](https://codeiq.jp/ace/naoyat/)
   - [金塊か、キノコ料理か](https://codeiq.jp/ace/naoyat/q207)(q207)
