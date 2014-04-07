@@ -31,6 +31,7 @@
   - [交差点をすばやく数えよう！](https://codeiq.jp/ace/yuki_hiroshi/q432)(q432)
   - [古代文献を復元しよう！](https://codeiq.jp/ace/yuki_hiroshi/q468)(q468)
   - [王女様の宝石パターンを見つけよう！](https://codeiq.jp/ace/yuki_hiroshi/q684)(q684)
+  - [クリプタン帝国の暗号文を解読しよう！](https://codeiq.jp/ace/yuki_hiroshi/q781)(q781)
 
 * [Short Coder @ozy4dm  Ozyさん](https://codeiq.jp/ace/ozy4dm/)
   - [ショートコーディング：パスカルの△](https://codeiq.jp/ace/ozy4dm/q310)(q310)
