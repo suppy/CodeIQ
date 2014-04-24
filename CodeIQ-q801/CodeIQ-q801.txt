@@ -1,0 +1,70 @@
+言語とバージョン：C
+コード：
+#include <stdio.h>
+
+int main(void) {
+	printf("ガールフレンドめっちゃほしい！");
+	return 0;
+}
+
+
+言語とバージョン：Fortran
+コード：
+program TEST
+	print *, 'ガールフレンドめっちゃほしい！'
+end
+
+
+言語とバージョン：Java
+コード：
+import java.io.*;
+
+/* Name of the class has to be "Main" only if the class is public. */
+class Ideone
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+		System.out.println("ガールフレンドめっちゃほしい！");
+	}
+}
+
+
+言語とバージョン：JavaScript (spidermonkey)
+コード：
+print("ガールフレンドめっちゃほしい！");
+
+
+言語とバージョン：Lua
+コード：
+local write = io.write
+write("ガールフレンドめっちゃほしい！")
+
+
+言語とバージョン：PHP 5.4.4
+コード：
+<?php
+echo "ガールフレンドめっちゃほしい！";
+
+
+言語とバージョン：Ruby-1.9.3
+コード：
+# encoding: utf-8
+print "ガールフレンドめっちゃほしい！"
+
+
+言語とバージョン：Scala-2.10.2
+コード：
+object Main extends App {
+	System.out.println("ガールフレンドめっちゃほしい！");
+}
+
+
+言語とバージョン：VB.NET
+コード：
+Imports System
+
+Public Class Test
+	Public Shared Sub Main() 
+		System.Console.WriteLine("ガールフレンドめっちゃほしい！")
+	End Sub
+End Class

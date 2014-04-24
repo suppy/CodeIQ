@@ -48,6 +48,9 @@
   - [JS：海平の怒りを最小限にせよ](https://codeiq.jp/ace/joboffer_apli/q714)(q714)
   - [Java：素数の数を数えてください](https://codeiq.jp/ace/joboffer_apli/q675)(q675)
 
+* [CodeIQ運営事務局  ガールフレンド（CodeIQ）さん](https://codeiq.jp/ace/girlfriend_codeiq/)
+  - [ガールフレンドをコンプリートせよ！](https://codeiq.jp/ace/girlfriend_codeiq/q801)(q801)
+
 * [株式会社パワーハウス  障子 慎一＠番犬Pちゃんチャレンジ塾さん](https://codeiq.jp/ace/shoji_shinichi/)
   - [プリッとAnswer「チョコの場所」](https://codeiq.jp/ace/shoji_shinichi/q700)(q700)
   - [プリッとAnswer「義理or本命」](https://codeiq.jp/ace/shoji_shinichi/q701)(q701)
