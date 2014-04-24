@@ -53,6 +53,7 @@
   - [プリッとAnswer「義理or本命」](https://codeiq.jp/ace/shoji_shinichi/q701)(q701)
   - [プリッとAnswer「五人囃子」](https://codeiq.jp/ace/shoji_shinichi/q727)(q727)
   - [プリッとAnswer「僕の卒業式」](https://codeiq.jp/ace/shoji_shinichi/q728)(q728)
+  - [プリッとアンサー「幻のオリンピック」](https://codeiq.jp/ace/shoji_shinichi/q778)(q778)
 
 * [@nkawagashira  川頭 信之さん](https://codeiq.jp/ace/kawagashira_nobuyuki/)
   - [アッカーマンの呪い](https://codeiq.jp/ace/kawagashira_nobuyuki/q348)(q348)
