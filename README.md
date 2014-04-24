@@ -79,6 +79,7 @@
 * [@tbpgr  tbpgrさん](https://codeiq.jp/ace/tbpgr/)
   - [EmmetでHTML高速記述 Lv1](https://codeiq.jp/ace/tbpgr/q725)(q725)
   - [EmmetでHTML高速記述 Lv2](https://codeiq.jp/ace/tbpgr/q746)(q746)
+  - [第1回デスマコロシアム](https://codeiq.jp/ace/tbpgr/q791)(q791)
 
 * [株式会社Branding Engineer  勅使瓦 悠太さん](https://codeiq.jp/ace/teshi/)
   - [より良いコードに書き換えろ！](https://codeiq.jp/ace/teshi/q750)(q750)
