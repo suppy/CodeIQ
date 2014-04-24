@@ -44,6 +44,7 @@
   - [最大公約フィボナッチ数(?)](https://codeiq.jp/ace/nabetani_takenori/q649)(q649)
   - [カラフルな八面体を転がそう。](https://codeiq.jp/ace/nabetani_takenori/q708)(q708)
   - [hello, world × 3](https://codeiq.jp/ace/nabetani_takenori/q766)(q766)
+  - [4つの数と四則と括弧](https://codeiq.jp/ace/nabetani_takenori/q820)(q820)
 
 * [CodeIQ運営事務局　アプリケーションエンジニアを募集する企業さん](https://codeiq.jp/ace/joboffer_apli/)
   - [PHP：兵士と巨人の川渡り](https://codeiq.jp/ace/joboffer_apli/q636)(q636)
