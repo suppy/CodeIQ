@@ -90,3 +90,6 @@
 
 * [株式会社Branding Engineer  勅使瓦 悠太さん](https://codeiq.jp/ace/teshi/)
   - [より良いコードに書き換えろ！](https://codeiq.jp/ace/teshi/q750)(q750)
+
+* [@cielavenir  cielavenirさん](https://codeiq.jp/ace/cielavenir/)
+  - [C++の間違い探し](https://codeiq.jp/ace/cielavenir/q817)(q817)
