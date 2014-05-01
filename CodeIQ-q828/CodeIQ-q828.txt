@@ -1,0 +1,147 @@
+D:\Users\suyama.ikuo\Dropbox\business\CodeIQ>ruby CodeIQ-q828.rb
+処理開始時刻：2014-04-23 13:25:57 +0900
+
+25
+"reverse order!"
+25
+"reverse order!"
+25
+"reverse order!"
+25
+"reverse order!"
+25
+"reverse order!"
+25
+"reverse order!"
+25
+"reverse order!"
+25
+"reverse order!"
+25
+"reverse order!"
+25
+"reverse order!"
+25
+"reverse order!"
+25
+"reverse order!"
+24
+"reverse order!"
+24
+"reverse order!"
+24
+"reverse order!"
+24
+"reverse order!"
+24
+"reverse order!"
+24
+"reverse order!"
+23
+"reverse order!"
+23
+"reverse order!"
+23
+"reverse order!"
+23
+"reverse order!"
+22
+"reverse order!"
+22
+"reverse order!"
+22
+"reverse order!"
+21
+"reverse order!"
+21
+"reverse order!"
+21
+"reverse order!"
+21
+"reverse order!"
+20
+"reverse order!"
+20
+"reverse order!"
+20
+"reverse order!"
+19
+"reverse order!"
+19
+"reverse order!"
+19
+"reverse order!"
+19
+"reverse order!"
+19
+"reverse order!"
+19
+"reverse order!"
+19
+"reverse order!"
+19
+"reverse order!"
+19
+"reverse order!"
+17
+"reverse order!"
+17
+"reverse order!"
+17
+"reverse order!"
+17
+"reverse order!"
+17
+"reverse order!"
+17
+"reverse order!"
+17
+"reverse order!"
+17
+"reverse order!"
+17
+"reverse order!"
+17
+"reverse order!"
+16
+"reverse order!"
+16
+"reverse order!"
+15
+"reverse order!"
+15
+"reverse order!"
+15
+"reverse order!"
+15
+"reverse order!"
+14
+"reverse order!"
+14
+"reverse order!"
+14
+"reverse order!"
+14
+"reverse order!"
+14
+"reverse order!"
+14
+"reverse order!"
+14
+"reverse order!"
+14
+"reverse order!"
+12
+"reverse order!"
+12
+"reverse order!"
+12
+"reverse order!"
+12
+"reverse order!"
+12
+"reverse order!"
+answer = 12処理終了時刻：2014-04-23 16:34:45 +0900
+処理時間：11327.913694 sec
+
+D:\Users\suyama.ikuo\Dropbox\business\CodeIQ>
