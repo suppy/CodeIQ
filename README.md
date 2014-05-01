@@ -78,6 +78,7 @@
   - [今週のお題：（改造版）コラッツの予想](https://codeiq.jp/ace/thisweek_masuipeo/q792)(q792)
   - [今週のお題：一つの数字で作る1234](https://codeiq.jp/ace/thisweek_masuipeo/q821)(q821)
   - [今週のお題：シャッフルで逆順](https://codeiq.jp/ace/thisweek_masuipeo/q828)(q828)
+  - [今週のお題：あみだくじの横線](https://codeiq.jp/ace/thisweek_masuipeo/q838)(q838)
 
 * [@naoya_t　naoya_tさん](https://codeiq.jp/ace/naoyat/)
   - [金塊か、キノコ料理か](https://codeiq.jp/ace/naoyat/q207)(q207)
