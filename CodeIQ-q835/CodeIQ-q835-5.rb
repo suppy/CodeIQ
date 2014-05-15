@@ -1,0 +1,1 @@
+26.times{|i|puts (c=(97+i).chr+(65+i).chr+(12354+i).chr(a="utf-8")+(12450+i).chr(a))+c.reverse}

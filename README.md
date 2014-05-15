@@ -96,6 +96,9 @@
   - [EmmetでHTML高速記述 Lv2](https://codeiq.jp/ace/tbpgr/q746)(q746)
   - [第1回デスマコロシアム](https://codeiq.jp/ace/tbpgr/q791)(q791)
 
+* [@tbpgr  tbpgr コロシアム管理人 さん](https://codeiq.jp/ace/tbpgr_colosseum_manager/)
+  - [第2回デスマコロシアム](https://codeiq.jp/ace/tbpgr_colosseum_manager/q835)(q835)
+
 * [株式会社Branding Engineer  勅使瓦 悠太さん](https://codeiq.jp/ace/teshi/)
   - [より良いコードに書き換えろ！](https://codeiq.jp/ace/teshi/q750)(q750)
 
