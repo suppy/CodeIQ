@@ -80,6 +80,7 @@
   - [今週のお題：一つの数字で作る1234](https://codeiq.jp/ace/thisweek_masuipeo/q821)(q821)
   - [今週のお題：シャッフルで逆順](https://codeiq.jp/ace/thisweek_masuipeo/q828)(q828)
   - [今週のお題：あみだくじの横線](https://codeiq.jp/ace/thisweek_masuipeo/q838)(q838)
+  - [今週のお題：最速の連絡網](https://codeiq.jp/ace/thisweek_masuipeo/q848)(q848)
 
 * [@naoya_t　naoya_tさん](https://codeiq.jp/ace/naoyat/)
   - [金塊か、キノコ料理か](https://codeiq.jp/ace/naoyat/q207)(q207)
