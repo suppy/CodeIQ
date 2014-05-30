@@ -1,0 +1,1 @@
+t.split(String.fromCharCode(98,117,103)).join((s=String(0))+s+s)

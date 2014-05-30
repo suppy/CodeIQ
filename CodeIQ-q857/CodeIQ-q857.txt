@@ -1,0 +1,1 @@
+t.split("bug").join("000")

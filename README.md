@@ -21,6 +21,9 @@
   - [あべこべのダンジョン - LV1](https://codeiq.jp/ace/yanai_masakazu/q810)(q810)
   - [あべこべのダンジョン - LV2](https://codeiq.jp/ace/yanai_masakazu/q811)(q811)
   - [あべこべのダンジョン - LV3](https://codeiq.jp/ace/yanai_masakazu/q812)(q812)
+  - [バグハンターのダンジョン - LV1](https://codeiq.jp/ace/yanai_masakazu/q857)(q857)
+  - [バグハンターのダンジョン - LV2](https://codeiq.jp/ace/yanai_masakazu/q858)(q858)
+  - [バグハンターのダンジョン - LV3](https://codeiq.jp/ace/yanai_masakazu/q859)(q859)
 
 * [東京Ruby会議10　佐々木 達也さん](https://codeiq.jp/ace/sasata299/)
   - [コードゴルフに挑戦！](https://codeiq.jp/ace/sasata299/q161)(q161)

@@ -1,0 +1,1 @@
+function(){for(i=0;i<14;i++)if(t.substr(i,3)==String.fromCharCode(98,117,103))t=t.slice(0,i)+(s=String(0))+s+s+t.slice(i+3,16);return t}()

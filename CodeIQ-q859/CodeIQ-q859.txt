@@ -1,0 +1,1 @@
+(function(){a=t;l=t.length;for(i=0;i<l-2;i++)if(t.substr(i,3)==String.fromCharCode(98,117,103))a=a.substr(0,i)+String.fromCharCode(48,48,48)+a.substr(i+3,l-3-i);return a})()
