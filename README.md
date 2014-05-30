@@ -88,6 +88,7 @@
   - [今週のお題：あみだくじの横線](https://codeiq.jp/ace/thisweek_masuipeo/q838)(q838)
   - [今週のお題：最速の連絡網](https://codeiq.jp/ace/thisweek_masuipeo/q848)(q848)
   - [今週のお題：覆面算を満たす個数](https://codeiq.jp/ace/thisweek_masuipeo/q860)(q860)
+  - [今週のお題：ハンカチ落としで逆順](https://codeiq.jp/ace/thisweek_masuipeo/q869)(q869)
 
 * [@naoya_t　naoya_tさん](https://codeiq.jp/ace/naoyat/)
   - [金塊か、キノコ料理か](https://codeiq.jp/ace/naoyat/q207)(q207)
