@@ -112,3 +112,6 @@
 
 * [@Air_Hold  チョコレートバー さん](https://codeiq.jp/ace/chocolate_bar/)
   - [6枚のカードの並べ方を求めて！](https://codeiq.jp/ace/chocolate_bar/q847)(q847)
+
+* [@gepuro  早川 敦士さん](https://codeiq.jp/ace/hayakawa_atsushi/)
+  - [ワンライナーでテキスト処理](https://codeiq.jp/ace/hayakawa_atsushi/q856)(q856)

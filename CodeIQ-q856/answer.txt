@@ -1,0 +1,21 @@
+問1. Speciesの列を表示させなさい。
+awk 'BEGIN{FS = ","}{print $6}' iris.csv
+
+問2. 行ごとにSepal.LengthとSepal.Widthの合計を求めなさい。
+awk 'BEGIN{FS = ","}{if (NR > 1) {print $2 + $3}}' iris.csv
+
+問3. Sepal.Lengthの列の合計を求めなさい。
+awk 'BEGIN{FS = ","; Length = 0}{if (NR > 1) {Length += $2}}END{print Length}' iris.csv
+
+問4. setosa,versicolor,virginicaがそれぞれ何レコードあるかを求めなさい。
+awk 'BEGIN{FS = ","; setosa = 0; versicolor = 0; virginica = 0}{if (NR > 1) {if ($6 == "\"setosa\"") {setosa++} else if ($6 == "\"versicolor\"") {versicolor++} else if ($6 == "\"virginica\"") {virginica++}}}END{print "setosa    :", setosa;print "versicolor:", versicolor;print "virginica :", virginica}' iris.csv
+
+問5. setosa,versicolor,virginicaごとにSepal.Lengthの合計を求めなさい。
+awk 'BEGIN{FS = ","; setosaLength = 0; versicolorLength = 0; virginicaLength = 0}{if ( NR > 1) {if ($6 == "\"setosa\"") {setosaLength += $2} else if ($6 == "\"versicolor\"") {versicolorLength += $2} else if ($6 == "\"virginica\"") {virginicaLength += $2}}}END{print "setosa    :", setosaLength;print "versicolor:", versicolorLength;print "virginica :", virginicaLength}' iris.csv
+
+問6. setosa,versicolor,virginicaごとにSepal.Lengthの平均を求めなさい。
+awk 'BEGIN{FS = ","; setosa = 0; versicolor = 0; virginica = 0; setosaLength = 0; versicolorLength = 0; virginicaLength = 0}{if (NR > 1) {if($6 == "\"setosa\"") {setosa++; setosaLength += $2} else if ($6 == "\"versicolor\"") {versicolor++; versicolorLength += $2} else if ($6 == "\"virginica\"") {virginica++; virginicaLength += $2}}}END{if (setosa != 0) {print "setosa    :", setosaLength/setosa} if (versicolor != 0) {print "versicolor:", versicolorLength/versicolor} if (virginica != 0) {print "virginica :",virginicaLength/virginica}}' iris.csv
+
+問7. setosa,versicolor,virginicaごとにSepal.Lengthの最小値を求めなさい。
+awk 'BEGIN{FS = ","; setosa = 0; versicolor = 0; virginica = 0}{if (NR > 1) {if($6 == "\"setosa\"") {setosa++;if (setosa == 1) {setosaMin = $2} else if ($2 < setosaMin) {setosaMin = $2}}if($6 == "\"versicolor\"") {	versicolor++;if (versicolor == 1) {versicolorMin = $2} else if ($2 < versicolorMin) {versicolorMin = $2}}if($6 == "\"virginica\"") {virginica++;if (virginica == 1) {virginicaMin = $2} else if ($2 < virginicaMin) {virginicaMin = $2}}}}END{print "setosa    :", setosaMin; print "versicolor:", versicolorMin; print "virginica :",virginicaMin}' iris.csv
+
