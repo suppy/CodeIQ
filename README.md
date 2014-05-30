@@ -39,6 +39,7 @@
   - [王女様の宝石パターンを見つけよう！](https://codeiq.jp/ace/yuki_hiroshi/q684)(q684)
   - [クリプタン帝国の暗号文を解読しよう！](https://codeiq.jp/ace/yuki_hiroshi/q781)(q781)
   - [スペーストーキー社の危機を救え！](https://codeiq.jp/ace/yuki_hiroshi/q839)(q839)
+  - [チケットゴブル社の旅行プランを作れ！](https://codeiq.jp/ace/yuki_hiroshi/q863)(q863)
 
 * [Short Coder @ozy4dm  Ozyさん](https://codeiq.jp/ace/ozy4dm/)
   - [ショートコーディング：パスカルの△](https://codeiq.jp/ace/ozy4dm/q310)(q310)

@@ -1,0 +1,96 @@
+62 Afghanistan Antarctica Barbados Belarus Botswana Brazil Burundi Chad China Denmark Dominica Ecuador Egypt Ethiopia Finland Gambia Ghana Greece Guam Haiti Italy Kiribati Kuwait Libya Liechtenstein Macao Malawi Malaysia Malta Martinique Mauritania Mongolia Montenegro Montserrat Morocco Namibia Narnia Nicaragua Niger Nigeria Niue Oman Palau Poland Portugal Romania Rwanda Samoa Senegal Serbia Seychelles Slovakia Slovenia Somalia Sudan Switzerland Tokelau Tuvalu Uganda Uzbekistan Zambia Zimbabwe
+ENV: Ruby, Excel（CSVデータの読み込み）
+POINT: うるう年がポイントです。
+
+チケットのファイルを読み込んで、一年の日付をキーにしたハッシュに、その日付を期間に含むチケットの国名を、配列として格納するプログラムを作成しました。
+そして、そのハッシュのキー（日付）と値（国名）をCSV形式でファイルに出力しました。
+CSV形式のファイルをExcelに読み込んで、人力でプランを作成しました。
+期間が同じチケットがあるので、最適なプランの国名の組み合わせはたくさんあると思うのですが、私が問題を理解できていないのではないかと思います。
+
+# 旅行プランで滞在する国名
+country = [
+	# 1/1～1/25
+	"Kiribati",
+	"Sudan",
+	"China",
+	"Haiti",
+	# 1/27～2/12
+	"Zambia",
+	"Italy",
+	# 2/13～3/9
+	"Oman",
+	"Finland",
+	"Denmark",
+	"Uzbekistan",
+	"Burundi",
+	# 3/15～3/22
+	"Tuvalu",
+	# 3/25～4/21
+	"Tokelau",
+	"Liechtenstein",
+	"Macao",
+	"Guam",
+	"Afghanistan",
+	"Libya",
+	# 4/28～5/13
+	"Niger",
+	"Mongolia",
+	# 5/14～5/24
+	"Niue",
+	# 5/27～5/31
+	"Portugal",
+	# 6/3～6/18
+	"Antarctica",
+	"Rwanda",
+	"Narnia",
+	"Palau",
+	"Slovakia",
+	# 6/20～7/20
+	"Serbia",
+	"Morocco",
+	"Samoa",
+	"Romania",
+	"Brazil",
+	"Kuwait",
+	# 7/21～8/11
+	"Nigeria",
+	"Martinique",
+	"Ethiopia",
+	"Montenegro",
+	# 8/12～9/7
+	"Seychelles",
+	"Malta",
+	"Poland",
+	"Switzerland",
+	"Barbados",
+	# 9/8～10/2
+	"Belarus",
+	"Slovenia",
+	"Malawi",
+	"Gambia",
+	"Nicaragua",
+	# 10/6～10/20
+	"Uganda",
+	"Namibia",
+	"Mauritania",
+	# 10/22～11/25
+	"Somalia",
+	"Zimbabwe",
+	"Ghana",
+	"Malaysia",
+	"Senegal",
+	"Botswana",
+	# 11/27～12/28
+	"Greece",
+	"Chad",
+	"Egypt",
+	"Ecuador",
+	"Montserrat",
+	"Dominica",
+]
+
+# 
+print "#{country.size} "
+country.sort.each do |c|
+	print "#{c} "
+end
