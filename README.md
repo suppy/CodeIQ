@@ -44,6 +44,7 @@
 * [Short Coder @ozy4dm  Ozyさん](https://codeiq.jp/ace/ozy4dm/)
   - [ショートコーディング：パスカルの△](https://codeiq.jp/ace/ozy4dm/q310)(q310)
   - [コード美人](https://codeiq.jp/ace/ozy4dm/q723)(q723)
+  - [魔方陣ヌルヌル](https://codeiq.jp/ace/ozy4dm/q877)(q877)
 
 * [@Nabetani  鍋谷 武典さん](https://codeiq.jp/ace/nabetani_takenori/)
   - [最大公約フィボナッチ数(?)](https://codeiq.jp/ace/nabetani_takenori/q649)(q649)
