@@ -1,0 +1,9 @@
+言語:JavaScript (rhino)
+Team:LGS
+解答コード:
+for(i=65;i<123;i++)System.out.print(String.fromCharCode(i));
+補足:
+まずはフツーのコードを提出して、参加者の動向を見たいと思います。
+　↓
+特別賞狙いに変えました。Ruby → JavaScript (rhino)
+【文字数×文字種】が少なくなるコード探しは続けます。
