@@ -92,6 +92,7 @@
   - [今週のお題：覆面算を満たす個数](https://codeiq.jp/ace/thisweek_masuipeo/q860)(q860)
   - [今週のお題：ハンカチ落としで逆順](https://codeiq.jp/ace/thisweek_masuipeo/q869)(q869)
   - [今週のお題：3つのグラスでの移動](https://codeiq.jp/ace/thisweek_masuipeo/q879)(q879)
+  - [今週のお題：セルの結合パターン](https://codeiq.jp/ace/thisweek_masuipeo/q894)(q894)
 
 * [@naoya_t　naoya_tさん](https://codeiq.jp/ace/naoyat/)
   - [金塊か、キノコ料理か](https://codeiq.jp/ace/naoyat/q207)(q207)
