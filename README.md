@@ -93,6 +93,7 @@
   - [今週のお題：ハンカチ落としで逆順](https://codeiq.jp/ace/thisweek_masuipeo/q869)(q869)
   - [今週のお題：3つのグラスでの移動](https://codeiq.jp/ace/thisweek_masuipeo/q879)(q879)
   - [今週のお題：セルの結合パターン](https://codeiq.jp/ace/thisweek_masuipeo/q894)(q894)
+  - [今週のお題：同じ大きさに分割](https://codeiq.jp/ace/thisweek_masuipeo/q898)(q898)
 
 * [@naoya_t　naoya_tさん](https://codeiq.jp/ace/naoyat/)
   - [金塊か、キノコ料理か](https://codeiq.jp/ace/naoyat/q207)(q207)
