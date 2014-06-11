@@ -118,3 +118,6 @@
 
 * [@gepuro  早川 敦士さん](https://codeiq.jp/ace/hayakawa_atsushi/)
   - [ワンライナーでテキスト処理](https://codeiq.jp/ace/hayakawa_atsushi/q856)(q856)
+
+* [株式会社サイバーディフェンス研究所  永岡 悟さん](https://codeiq.jp/ace/nagaoka_satoru/)
+  - [Webアプリケーション レベル2](https://codeiq.jp/ace/nagaoka_satoru/q876)(q876)
