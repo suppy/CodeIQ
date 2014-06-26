@@ -1,0 +1,11 @@
+(c=b%a==0)*b*b/a+!c*(b+b%a)
+(c=b%a==0)*b*b/a+!c*(b+b-a)
+(c=b%a==0)*b*b/a+!c*(-a+b+b)
+(c=b%a==0)*b*b/a-!c*(a-b-b)
+(c=b%a==0)*b*b/a-!c*(a-2*b)
+
+b%a=b-a
+b+b-a
+2*b-a
+b*(2-a/b)
+Math.floor(b/a)*b+b+b%a

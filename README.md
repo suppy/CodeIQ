@@ -24,6 +24,10 @@
   - [バグハンターのダンジョン - LV1](https://codeiq.jp/ace/yanai_masakazu/q857)(q857)
   - [バグハンターのダンジョン - LV2](https://codeiq.jp/ace/yanai_masakazu/q858)(q858)
   - [バグハンターのダンジョン - LV3](https://codeiq.jp/ace/yanai_masakazu/q859)(q859)
+  - [ダブル数列のダンジョン - LV1](https://codeiq.jp/ace/yanai_masakazu/q900)(q900)
+  - [ダブル数列のダンジョン - LV2](https://codeiq.jp/ace/yanai_masakazu/q901)(q901)
+  - [ダブル数列のダンジョン - LV3](https://codeiq.jp/ace/yanai_masakazu/q902)(q902)
+  - [ダブル数列のダンジョンLV1～LV3の解説+最短コード #javascript](https://codeiq.jp/magazine/2014/06/11998/)
 
 * [東京Ruby会議10　佐々木 達也さん](https://codeiq.jp/ace/sasata299/)
   - [コードゴルフに挑戦！](https://codeiq.jp/ace/sasata299/q161)(q161)

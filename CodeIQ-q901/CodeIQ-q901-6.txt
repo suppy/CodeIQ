@@ -1,0 +1,1 @@
+Math.floor(b/a)*b+b%a

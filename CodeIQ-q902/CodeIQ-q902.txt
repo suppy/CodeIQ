@@ -1,0 +1,69 @@
+function(){c=b%a==0;return c*b*b/a+!c*(2*b-a)}()
+function(){c=b%a==0;return c*b*b/a+!c*(b+b%a)}()
+Math.exp(Math.log(((b%a==0)*b*b/a)*((b%a!=0)*(2*b-a))))
+(b%a==0)*b*b/a+(b%a!=0)*Math.floor(Math.exp(Math.log(2*b/a)))
+(b%a==0)*b*b/a+(b%a!=0)*(2*b-a)
+a-b
+log a/b = log a - log b
+e^log a/b = a/b = e^(log a  - log b) = e^log a / e^log b = a/b
+
+x=log a
+y=log b
+
+a = e^x
+b = e^y
+
+x - y = log e^x - log e^b
+
+
+a - b
+a = log x
+b = log y
+x = e^a
+y = e^b
+
+log x - log y = log x/y
+a - b = log e^a/e^b
+a - b = log e^a-log e^b 
+a + b = log e^a+log e^b
+= log e^a * e^b
+
+Math.floor(Math.log(Math.exp(2*b)/Math.exp(a)))
+Math.floor(Math.log(Math.exp((b<119)*2*b)/Math.exp((b<119)*a)))
+Math.round(Math.log(Math.exp((b<119)*2*b)/Math.exp((b<119)*a)))
+
+Math.round(Math.log(Math.exp((b%a!=0)*(b<119)*2*b)/Math.exp((b%a!=0)*(b<119)*a)))
+Math.round(Math.log(Math.exp((b%a!=0)*2*b)/Math.exp((b%a!=0)*a)))
+“™·”—ñ
+
+(b%a==0)*b*b/a
+“™”ä”—ñ
+
+Math.round(Math.log(Math.exp((b%a!=0)*2*b)/Math.exp((b%a!=0)*a)))+(b%a==0)*b*b/a
+
+
+
+b+b%a b*b/a
+
+
+a*2 = a + a
+b%a = b - a
+
+
+
+2*(b+b%a)/2
+log e^2*(b+b%a)/2
+log (e^b * e^(b%a))
+
+Math.log(Math.pow(Math.exp(b/2),2)*Math.exp(b%a))
+
+
+Math.exp((b>118)*b*b/a)*Math.exp((b<=118)*
+
+
+(b/a|0)*b+b%a
+Math.floor(b/a)*b+b%a
+Math.round(b*(Math.floor(b/a)+(b%a)/b))
+
+Math.round(b*Math.log(Math.exp(Math.floor(b/a))*Math.exp((b%a)/b)))
+

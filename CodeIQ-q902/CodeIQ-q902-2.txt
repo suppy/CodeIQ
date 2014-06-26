@@ -1,0 +1,1 @@
+(m=Math).round(b*m.log(m.exp(m.floor(b/a))*m.exp((b%a)/b)))
