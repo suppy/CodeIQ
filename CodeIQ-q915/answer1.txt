@@ -1,0 +1,8 @@
+言語:JavaScript (rhino)
+Team:LGS
+解答コード:
+for(j=2;j<17;j+=2)for(k=36;k<117;k+=j)System.out.print(String.fromCharCode(k));
+補足:
+特にありません。
+【文字数×(重複文字数+1)】ペナルティの解釈が正しくできているかどうかを
+集計報告で確認できればと思います。

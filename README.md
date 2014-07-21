@@ -119,6 +119,7 @@
 * [@tbpgr  tbpgr コロシアム管理人 さん](https://codeiq.jp/ace/tbpgr_colosseum_manager/)
   - [第2回デスマコロシアム](https://codeiq.jp/ace/tbpgr_colosseum_manager/q835)(q835)
   - [第3回デスマコロシアム](https://codeiq.jp/ace/tbpgr_colosseum_manager/q872)(q872)
+  - [第4回デスマコロシアム](https://codeiq.jp/ace/tbpgr_colosseum_manager/q915)(q915)
 
 * [株式会社Branding Engineer  勅使瓦 悠太さん](https://codeiq.jp/ace/teshi/)
   - [より良いコードに書き換えろ！](https://codeiq.jp/ace/teshi/q750)(q750)
