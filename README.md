@@ -138,3 +138,6 @@
 
 * [株式会社エニグモ　サービスエンジニア さん](https://codeiq.jp/ace/service_engineer/)
   - [言語指定：カナをローマ字変換しよう！](https://codeiq.jp/ace/service_engineer/q912)(q912)
+
+* [BRILLIANTSERVICE USA LLC  山本 慎也さん](https://codeiq.jp/ace/yamamoto_shinya/)
+  - [缶ビールの梱包方法で輸送革命を！](https://codeiq.jp/ace/yamamoto_shinya/q935)(q935)
