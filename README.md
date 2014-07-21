@@ -109,6 +109,7 @@
   - [コード銀行：3年C組の成績表](https://codeiq.jp/ace/code_teller/q712)(q712)
   - [コード銀行：階段ピョンピョン１２３！](https://codeiq.jp/ace/code_teller/q713)(q713)
   - [コード銀行：大漁！初がつお](https://codeiq.jp/ace/code_teller/q832)(q832)
+  - [コード銀行：「7」の数を数えよう](https://codeiq.jp/ace/code_teller/q893)(q893)
 
 * [@tbpgr  tbpgrさん](https://codeiq.jp/ace/tbpgr/)
   - [EmmetでHTML高速記述 Lv1](https://codeiq.jp/ace/tbpgr/q725)(q725)
