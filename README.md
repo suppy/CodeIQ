@@ -50,6 +50,9 @@
   - [コード美人](https://codeiq.jp/ace/ozy4dm/q723)(q723)
   - [魔方陣ヌルヌル](https://codeiq.jp/ace/ozy4dm/q877)(q877)
 
+* [Short Coder @ozy4dm　Ozy@彦星さん](https://codeiq.jp/ace/ozy_hikoboshi/)
+  - [七夕問題☆牽牛 彦星 牛を飼う](https://codeiq.jp/ace/ozy_hikoboshi/q959)(q959)
+
 * [@Nabetani  鍋谷 武典さん](https://codeiq.jp/ace/nabetani_takenori/)
   - [最大公約フィボナッチ数(?)](https://codeiq.jp/ace/nabetani_takenori/q649)(q649)
   - [カラフルな八面体を転がそう。](https://codeiq.jp/ace/nabetani_takenori/q708)(q708)
