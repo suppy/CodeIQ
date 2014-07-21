@@ -101,6 +101,7 @@
   - [今週のお題：同じ大きさに分割](https://codeiq.jp/ace/thisweek_masuipeo/q898)(q898)
   - [今週のお題：交差せずに一筆書き](https://codeiq.jp/ace/thisweek_masuipeo/q918)(q918)
   - [今週のお題：カレンダーの最大長方形](https://codeiq.jp/ace/thisweek_masuipeo/q933)(q933)
+  - [今週のお題：W杯出場国しりとり](https://codeiq.jp/ace/thisweek_masuipeo/q953)(q953)
 
 * [@naoya_t　naoya_tさん](https://codeiq.jp/ace/naoyat/)
   - [金塊か、キノコ料理か](https://codeiq.jp/ace/naoyat/q207)(q207)
