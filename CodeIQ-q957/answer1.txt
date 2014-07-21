@@ -1,0 +1,105 @@
+【解答】
+14,159,265,358,979
+【感想・工夫した点など】
+アルゴリズムを考えては、計算量が爆発し、
+別のアルゴリズムを考えては、計算量が爆発するという状態を
+３度くらい行いました。
+再帰関数にしても計算量の爆発が起こったのですが、
+残りの文字数と今の数列の桁数から探索を打ち切る判断ができることが分かったので、
+この変更を行うことで、結果が出るようになりました。
+処理時間が劇的に短くなったので、ビックリです。
+【言語と処理系】
+ruby 2.0.0p451 (2014-02-24) [x64-mingw32]
+【ソースコード】
+
+# data.txtの内容を読み込んで、配列dataに格納する
+data = []
+File.open("data.txt") do |f|
+	while line = f.gets
+		no, n, num = line.split(' ') # データ番号, 入力データ, 出力の期待値
+		data << [no, n, num]
+	end
+end
+
+
+#
+# 値がどんどん増えていく数列 (狭義単調増加列)を作る再帰関数
+# これまでに作った数列の次の項を、残っている数字の文字列から作成する
+#  series:これまでに作った数列
+#  n_str :残っている数字の文字列
+#
+def make_series(series, n_str)
+	#p "call make_series" 
+	#p series
+	#p n_str
+	
+	# 残りの文字列長が０の場合は数列が完成した場合
+	if n_str.length == 0
+		# 要素数の最大値を更新
+		@max_num = [series.length, @max_num].max
+		#print "max #{@max_num}\n"
+		#p series
+		return
+	end
+
+	# 文字列の最初が"0"の場合	
+	while n_str[0] == "0"
+		# 数列の最後の項に、文字列の先頭の文字"0"を追加する
+		series[-1] = (series[-1].to_s + n_str[0]).to_i
+		# 先頭の文字を除いた文字列にする
+		n_str = n_str[1..-1]
+	end
+	
+	# 数列の最後の項
+	n = series[-1]
+	# 数列の最後の項の桁数
+	k = series[-1].to_s.length
+	
+	# 残っている文字列を桁数kで分割したとき、作成される要素数が最大値にならない場合は、
+	# 処理を続けても、最大値となることはない
+	# 関数を抜ける
+	return if series.length + n_str.length / k < @max_num
+	
+	# 桁数が残りの文字数より小さい間、処理を行う
+	while k <= n_str.length
+		# 文字列から桁数分だけの文字を取り出して、数値に変換する
+		n_1 = n_str[0, k].to_i
+		# 値がどんどん増えていく数列になる場合
+		if n < n_1
+			# 数列に、値を追加
+			series_1 = series.clone
+			series_1 << n_1
+			# 追加した値の文字列を除いたものを新しい文字列にする
+			n_str_1 = n_str[k..-1]
+			# 再帰関数を呼ぶ
+			make_series(series_1, n_str_1)
+		end
+		# 桁数をインクリメント
+		k += 1
+	end
+end
+
+# すべてのデータについて処理を行う
+data.each do |data_arr|
+	# 入力データを文字列に設定
+	n_str = data_arr[1]
+	# 要素数の最大値を初期化
+	@max_num = 1
+	# 数列の初項の文字列長が１～文字列長の半分の値の場合について処理を行う
+	(1..n_str.length/2+1).each do |i|
+		# 第２項が"0"で始まる場合
+		next if n_str[i] == "0"
+		# 桁数iで分割したときに、要素数が最大値にならない場合
+		next if n_str.length / i < @max_num
+		# 数列の初項を設定
+		series = [n_str[0, i].to_i]
+		# 初項の数字を除いた文字列を設定
+		n_str_1 = n_str[i..-1]
+		# 値がどんどん増えていく数列 (狭義単調増加列)を作る再帰関数を呼ぶ
+		make_series(series, n_str_1)
+	end
+	# 出力の期待値と要素数の最大値が異なる場合はデータ番号を表示する
+	if data_arr[2].to_i != @max_num
+		print "#{data_arr[0]},"
+	end
+end

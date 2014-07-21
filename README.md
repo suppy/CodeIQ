@@ -56,6 +56,7 @@
   - [hello, world × 3](https://codeiq.jp/ace/nabetani_takenori/q766)(q766)
   - [4つの数と四則と括弧](https://codeiq.jp/ace/nabetani_takenori/q820)(q820)
   - [JavaScriptじゃんけん大会！](https://codeiq.jp/ace/nabetani_takenori/q888)(q888)
+  - [長くなるように、増え続けるように](https://codeiq.jp/ace/nabetani_takenori/q957)(q957)
 
 * [CodeIQ運営事務局　アプリケーションエンジニアを募集する企業さん](https://codeiq.jp/ace/joboffer_apli/)
   - [PHP：兵士と巨人の川渡り](https://codeiq.jp/ace/joboffer_apli/q636)(q636)

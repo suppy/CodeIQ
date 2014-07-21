@@ -1,0 +1,824 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <title>どんどん増えていくように区切る</title>
+    <style>
+      body { 
+          font-family: "メイリオ", "ＭＳ Ｐゴシック", sans-serif; 
+          font-size:11pt;
+      }
+      tr:nth-child(even) { background-color: #fafafa }
+      tr:nth-child(odd) { background-color: #f0f0f0 }
+      code {
+        border:solid #ccc 1px;
+        font-family:monospace;
+      }
+      table code {
+        border:none
+      }
+      td.center{
+        text-align:center;
+        vertical-align:middle;
+      }
+      h1{
+        border-top : solid 2px #bbb;
+        border-left : solid 16px #bbb;
+        background-color: #f8f8f8;
+      }
+      h2{
+        border-top : solid 2px #bbb;
+        border-left : solid 8px #bbb;
+        background-color: #f8f8f8;
+      }
+      h3{
+        border-top : solid 1px #bbb;
+        border-left : solid 4px #bbb;
+        background-color: #f8f8f8;
+      }
+      h4{
+        border-top : solid 1px #bbb;
+        border-left : solid 2px #bbb;
+        background-color: #f8f8f8;
+      }
+      .data{
+        border:solid 1px #888;
+        background-color:#e8e8e8;
+        font-family:'Osaka', 'ＭＳ ゴシック', monospace
+      }
+    </style>
+  </head>
+  <body>
+    <h1>どんどん増えていくように区切る</h1>
+    <h2>問題の概要</h2>
+    <p>
+      <code>23342020662</code>
+      のように、先頭が 1〜9 のいずれかで、 残りは 0〜9 が並んだ文字列があります。
+      <br>
+      この文字列に区切りを入れ、
+      <b>値がどんどん増えていく数列</b>
+      (狭義単調増加列)にすることを考えます。
+      <br>
+      上記の例の場合、たとえば
+      <br>
+      「2, 33, 420, 20662」
+      、
+      「2, 3, 3420, 20662」
+      、あるいは
+      「2334, 2020662」
+      <br>
+      のように区切ると
+      <b>値がどんどん増えていく数列</b>
+      にすることができます。
+      <br>
+      このように、
+      <b>値がどんどん増えていく数列</b>
+      になるように区切る方法はたくさんあることが多いんですが、このなかで要素数が最も多いものを探します。
+      <br>
+      この例の場合、
+      「2, 33, 420, 20662」
+      や
+      「2, 3, 3420, 20662」
+      などが、要素数
+      4
+      で最大となります。
+      <br>
+      さて。
+      <br>
+      入力文字列から、出来る限り要素数の多い
+      <b>値がどんどん増えていく数列</b>
+      を作ると、その要素数がいくつになるのかを計算するプログラムを書いて下さい。
+    </p>
+    <h2>詳細な仕様</h2>
+    <p>
+      入力文字列は
+    </p>
+    <ul>
+      <li>
+        先頭は
+        <code>1</code>
+        〜
+        <code>9</code>
+        のいずれかの文字。
+      </li>
+      <li>
+        先頭以外は
+        <code>0</code>
+        〜
+        <code>9</code>
+        のいずれかの文字。
+      </li>
+    </ul>
+    <p>
+      という形式になっています。
+      <br>
+      つくるべき
+      <b>値がどんどん増えていく数列</b>
+      は、
+    </p>
+    <ul>
+      <li>どの要素も、前の要素よりも大きい値である。</li>
+      <li>どの要素も、先頭の文字が「0」であってはいけない。</li>
+      <li>入力文字列の順序どおりに過不足なく数字が現れること。順序を変えたり余らせたりしてはいけない。</li>
+    </ul>
+    <p>
+      というルールを守らなくてはいけません。
+    </p>
+    <h2>出力</h2>
+    <p>
+      出力は、最長の
+      <b>値がどんどん増えていく数列</b>
+      の要素数を 10進数で表記したものです。
+      <br>
+      例えば、入力が
+      <code>23342020662</code>
+      の場合、数列の項数を最大にするような区切り方は、例えば
+      <br>
+      「2, 33, 420, 20662」
+      <br>
+      なので、要素数の
+      <code>4</code>
+      を出力します。
+    </p>
+    <h2>解答形式</h2>
+    <p>
+      同梱されている data.txt の各行には空白区切りで
+      <br>
+      <div class='data'>データ番号 入力データ 出力の期待値</div>
+      <br>
+      が書かれています。出力の期待値が間違っているデータが数件(10件以下)含まれています。
+      <br>
+      出力の期待値が間違っているデータのデータ番号を、昇順に並べたものをフォームに書いて下さい。
+    </p>
+    <h2>補足</h2>
+    <ul>
+      <li>不正な入力に対処する必要はありません。</li>
+      <li>区切られた後の値が 64bit整数の最大値を超えることもあるかもしれません。オーバーフローにご注意下さい。</li>
+      <li>
+        要素数が 1 でも
+        <b>値がどんどん増えていく数列</b>
+        に該当します。
+      </li>
+    </ul>
+    <h2>サンプルデータ</h2>
+    <p>
+      以下のサンプルデータについては「出力の期待値」は全て正しい値になっています。
+    </p>
+    <table class='sample'>
+      <tr>
+        <th>#</th>
+        <th>入力データ</th>
+        <th>出力の期待値</th>
+        <th>要素数が最大になる区切り方の例</th>
+      </tr>
+      <tr>
+        <td>0</td>
+        <td class='sample'>
+          <code>23342020662</code>
+        </td>
+        <td>
+          <code class='expected'>4</code>
+        </td>
+        <td>
+          2, 3, 3420, 20662
+        </td>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td class='sample'>
+          <code>23342121662</code>
+        </td>
+        <td>
+          <code class='expected'>5</code>
+        </td>
+        <td>
+          2, 3, 34, 212, 1662
+        </td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td class='sample'>
+          <code>2334200200662</code>
+        </td>
+        <td>
+          <code class='expected'>5</code>
+        </td>
+        <td>
+          2, 3, 34, 200, 200662
+        </td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td class='sample'>
+          <code>1</code>
+        </td>
+        <td>
+          <code class='expected'>1</code>
+        </td>
+        <td>
+          1
+        </td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td class='sample'>
+          <code>123</code>
+        </td>
+        <td>
+          <code class='expected'>3</code>
+        </td>
+        <td>
+          1, 2, 3
+        </td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td class='sample'>
+          <code>321</code>
+        </td>
+        <td>
+          <code class='expected'>2</code>
+        </td>
+        <td>
+          3, 21
+        </td>
+      </tr>
+      <tr>
+        <td>6</td>
+        <td class='sample'>
+          <code>11</code>
+        </td>
+        <td>
+          <code class='expected'>1</code>
+        </td>
+        <td>
+          11
+        </td>
+      </tr>
+      <tr>
+        <td>7</td>
+        <td class='sample'>
+          <code>111</code>
+        </td>
+        <td>
+          <code class='expected'>2</code>
+        </td>
+        <td>
+          1, 11
+        </td>
+      </tr>
+      <tr>
+        <td>8</td>
+        <td class='sample'>
+          <code>1111</code>
+        </td>
+        <td>
+          <code class='expected'>2</code>
+        </td>
+        <td>
+          1, 111
+        </td>
+      </tr>
+      <tr>
+        <td>9</td>
+        <td class='sample'>
+          <code>223043</code>
+        </td>
+        <td>
+          <code class='expected'>3</code>
+        </td>
+        <td>
+          22, 30, 43
+        </td>
+      </tr>
+      <tr>
+        <td>10</td>
+        <td class='sample'>
+          <code>33616382</code>
+        </td>
+        <td>
+          <code class='expected'>4</code>
+        </td>
+        <td>
+          33, 61, 63, 82
+        </td>
+      </tr>
+      <tr>
+        <td>11</td>
+        <td class='sample'>
+          <code>43727677</code>
+        </td>
+        <td>
+          <code class='expected'>4</code>
+        </td>
+        <td>
+          43, 72, 76, 77
+        </td>
+      </tr>
+      <tr>
+        <td>12</td>
+        <td class='sample'>
+          <code>123456789</code>
+        </td>
+        <td>
+          <code class='expected'>9</code>
+        </td>
+        <td>
+          1, 2, 3, 4, 5, 6, 7, 8, 9
+        </td>
+      </tr>
+      <tr>
+        <td>13</td>
+        <td class='sample'>
+          <code>987654321</code>
+        </td>
+        <td>
+          <code class='expected'>3</code>
+        </td>
+        <td>
+          9, 87, 654321
+        </td>
+      </tr>
+      <tr>
+        <td>14</td>
+        <td class='sample'>
+          <code>9876543210</code>
+        </td>
+        <td>
+          <code class='expected'>4</code>
+        </td>
+        <td>
+          9, 87, 654, 3210
+        </td>
+      </tr>
+      <tr>
+        <td>15</td>
+        <td class='sample'>
+          <code>1023456789</code>
+        </td>
+        <td>
+          <code class='expected'>5</code>
+        </td>
+        <td>
+          10, 23, 45, 67, 89
+        </td>
+      </tr>
+      <tr>
+        <td>16</td>
+        <td class='sample'>
+          <code>2000010000</code>
+        </td>
+        <td>
+          <code class='expected'>1</code>
+        </td>
+        <td>
+          2000010000
+        </td>
+      </tr>
+      <tr>
+        <td>17</td>
+        <td class='sample'>
+          <code>1000020000</code>
+        </td>
+        <td>
+          <code class='expected'>2</code>
+        </td>
+        <td>
+          10000, 20000
+        </td>
+      </tr>
+      <tr>
+        <td>18</td>
+        <td class='sample'>
+          <code>9080706050</code>
+        </td>
+        <td>
+          <code class='expected'>2</code>
+        </td>
+        <td>
+          9080, 706050
+        </td>
+      </tr>
+      <tr>
+        <td>19</td>
+        <td class='sample'>
+          <code>1222222221</code>
+        </td>
+        <td>
+          <code class='expected'>4</code>
+        </td>
+        <td>
+          1, 2, 222, 22221
+        </td>
+      </tr>
+      <tr>
+        <td>20</td>
+        <td class='sample'>
+          <code>1222222223</code>
+        </td>
+        <td>
+          <code class='expected'>5</code>
+        </td>
+        <td>
+          1, 2, 22, 222, 223
+        </td>
+      </tr>
+      <tr>
+        <td>21</td>
+        <td class='sample'>
+          <code>5463728191</code>
+        </td>
+        <td>
+          <code class='expected'>5</code>
+        </td>
+        <td>
+          54, 63, 72, 81, 91
+        </td>
+      </tr>
+      <tr>
+        <td>22</td>
+        <td class='sample'>
+          <code>223138576279</code>
+        </td>
+        <td>
+          <code class='expected'>6</code>
+        </td>
+        <td>
+          22, 31, 38, 57, 62, 79
+        </td>
+      </tr>
+      <tr>
+        <td>23</td>
+        <td class='sample'>
+          <code>9119291321331341</code>
+        </td>
+        <td>
+          <code class='expected'>6</code>
+        </td>
+        <td>
+          9, 119, 291, 321, 331, 341
+        </td>
+      </tr>
+      <tr>
+        <td>24</td>
+        <td class='sample'>
+          <code>123456789101112131415</code>
+        </td>
+        <td>
+          <code class='expected'>15</code>
+        </td>
+        <td>
+          1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15
+        </td>
+      </tr>
+      <tr>
+        <td>25</td>
+        <td class='sample'>
+          <code>103456789101112131415</code>
+        </td>
+        <td>
+          <code class='expected'>7</code>
+        </td>
+        <td>
+          10, 34, 56, 78, 910, 11121, 31415
+        </td>
+      </tr>
+      <tr>
+        <td>26</td>
+        <td class='sample'>
+          <code>100000000000000000000123456789123456789123456789</code>
+        </td>
+        <td>
+          <code class='expected'>2</code>
+        </td>
+        <td>
+          10000000000000000000012, 3456789123456789123456789
+        </td>
+      </tr>
+      <tr>
+        <td>27</td>
+        <td class='sample'>
+          <code>162086</code>
+        </td>
+        <td>
+          <code class='expected'>4</code>
+        </td>
+        <td>
+          1, 6, 20, 86
+        </td>
+      </tr>
+      <tr>
+        <td>28</td>
+        <td class='sample'>
+          <code>234883</code>
+        </td>
+        <td>
+          <code class='expected'>5</code>
+        </td>
+        <td>
+          2, 3, 4, 8, 83
+        </td>
+      </tr>
+      <tr>
+        <td>29</td>
+        <td class='sample'>
+          <code>993485</code>
+        </td>
+        <td>
+          <code class='expected'>3</code>
+        </td>
+        <td>
+          9, 93, 485
+        </td>
+      </tr>
+      <tr>
+        <td>30</td>
+        <td class='sample'>
+          <code>4315388</code>
+        </td>
+        <td>
+          <code class='expected'>4</code>
+        </td>
+        <td>
+          4, 31, 53, 88
+        </td>
+      </tr>
+      <tr>
+        <td>31</td>
+        <td class='sample'>
+          <code>12277590</code>
+        </td>
+        <td>
+          <code class='expected'>5</code>
+        </td>
+        <td>
+          1, 2, 27, 75, 90
+        </td>
+      </tr>
+      <tr>
+        <td>32</td>
+        <td class='sample'>
+          <code>17368287</code>
+        </td>
+        <td>
+          <code class='expected'>5</code>
+        </td>
+        <td>
+          1, 7, 36, 82, 87
+        </td>
+      </tr>
+      <tr>
+        <td>33</td>
+        <td class='sample'>
+          <code>96937745</code>
+        </td>
+        <td>
+          <code class='expected'>3</code>
+        </td>
+        <td>
+          9, 693, 7745
+        </td>
+      </tr>
+      <tr>
+        <td>34</td>
+        <td class='sample'>
+          <code>400002770</code>
+        </td>
+        <td>
+          <code class='expected'>1</code>
+        </td>
+        <td>
+          400002770
+        </td>
+      </tr>
+      <tr>
+        <td>35</td>
+        <td class='sample'>
+          <code>2229316195</code>
+        </td>
+        <td>
+          <code class='expected'>5</code>
+        </td>
+        <td>
+          22, 29, 31, 61, 95
+        </td>
+      </tr>
+      <tr>
+        <td>36</td>
+        <td class='sample'>
+          <code>2539406179</code>
+        </td>
+        <td>
+          <code class='expected'>6</code>
+        </td>
+        <td>
+          2, 5, 39, 40, 61, 79
+        </td>
+      </tr>
+      <tr>
+        <td>37</td>
+        <td class='sample'>
+          <code>4198822419</code>
+        </td>
+        <td>
+          <code class='expected'>4</code>
+        </td>
+        <td>
+          4, 19, 88, 22419
+        </td>
+      </tr>
+      <tr>
+        <td>38</td>
+        <td class='sample'>
+          <code>74562578447</code>
+        </td>
+        <td>
+          <code class='expected'>4</code>
+        </td>
+        <td>
+          7, 45, 625, 78447
+        </td>
+      </tr>
+      <tr>
+        <td>39</td>
+        <td class='sample'>
+          <code>326589614864</code>
+        </td>
+        <td>
+          <code class='expected'>5</code>
+        </td>
+        <td>
+          3, 26, 58, 96, 14864
+        </td>
+      </tr>
+      <tr>
+        <td>40</td>
+        <td class='sample'>
+          <code>850805290204</code>
+        </td>
+        <td>
+          <code class='expected'>4</code>
+        </td>
+        <td>
+          8, 50, 805, 290204
+        </td>
+      </tr>
+      <tr>
+        <td>41</td>
+        <td class='sample'>
+          <code>2934238371377</code>
+        </td>
+        <td>
+          <code class='expected'>6</code>
+        </td>
+        <td>
+          2, 9, 34, 238, 371, 377
+        </td>
+      </tr>
+      <tr>
+        <td>42</td>
+        <td class='sample'>
+          <code>37706514606512</code>
+        </td>
+        <td>
+          <code class='expected'>5</code>
+        </td>
+        <td>
+          3, 7, 70, 651, 4606512
+        </td>
+      </tr>
+      <tr>
+        <td>43</td>
+        <td class='sample'>
+          <code>118197252504975</code>
+        </td>
+        <td>
+          <code class='expected'>6</code>
+        </td>
+        <td>
+          1, 18, 197, 252, 504, 975
+        </td>
+      </tr>
+      <tr>
+        <td>44</td>
+        <td class='sample'>
+          <code>220009653057100</code>
+        </td>
+        <td>
+          <code class='expected'>3</code>
+        </td>
+        <td>
+          2, 200096, 53057100
+        </td>
+      </tr>
+      <tr>
+        <td>45</td>
+        <td class='sample'>
+          <code>6656969229814531</code>
+        </td>
+        <td>
+          <code class='expected'>6</code>
+        </td>
+        <td>
+          6, 65, 69, 692, 2981, 4531
+        </td>
+      </tr>
+      <tr>
+        <td>46</td>
+        <td class='sample'>
+          <code>45124306072830842</code>
+        </td>
+        <td>
+          <code class='expected'>6</code>
+        </td>
+        <td>
+          4, 5, 12, 430, 607, 2830842
+        </td>
+      </tr>
+      <tr>
+        <td>47</td>
+        <td class='sample'>
+          <code>149247630076000000</code>
+        </td>
+        <td>
+          <code class='expected'>7</code>
+        </td>
+        <td>
+          1, 4, 9, 24, 76, 300, 76000000
+        </td>
+      </tr>
+      <tr>
+        <td>48</td>
+        <td class='sample'>
+          <code>391924415882839299</code>
+        </td>
+        <td>
+          <code class='expected'>10</code>
+        </td>
+        <td>
+          3, 9, 19, 24, 41, 58, 82, 83, 92, 99
+        </td>
+      </tr>
+      <tr>
+        <td>49</td>
+        <td class='sample'>
+          <code>424427430624645940</code>
+        </td>
+        <td>
+          <code class='expected'>7</code>
+        </td>
+        <td>
+          4, 24, 42, 74, 306, 2464, 5940
+        </td>
+      </tr>
+      <tr>
+        <td>50</td>
+        <td class='sample'>
+          <code>437368244825898219</code>
+        </td>
+        <td>
+          <code class='expected'>6</code>
+        </td>
+        <td>
+          4, 37, 368, 2448, 2589, 8219
+        </td>
+      </tr>
+      <tr>
+        <td>51</td>
+        <td class='sample'>
+          <code>7862813932515284277</code>
+        </td>
+        <td>
+          <code class='expected'>7</code>
+        </td>
+        <td>
+          7, 8, 62, 81, 393, 2515, 284277
+        </td>
+      </tr>
+      <tr>
+        <td>52</td>
+        <td class='sample'>
+          <code>79600296067039034753</code>
+        </td>
+        <td>
+          <code class='expected'>6</code>
+        </td>
+        <td>
+          7, 9, 600, 2960, 6703, 9034753
+        </td>
+      </tr>
+      <tr>
+        <td>53</td>
+        <td class='sample'>
+          <code>986706576404440034080</code>
+        </td>
+        <td>
+          <code class='expected'>5</code>
+        </td>
+        <td>
+          9, 86, 7065, 7640, 4440034080
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
