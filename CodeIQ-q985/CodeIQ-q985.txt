@@ -1,0 +1,9 @@
+@cielavenir  cielavenirさんからのMercurialの問題
+Mercurialに入門しよう！
+https://codeiq.jp/ace/cielavenir/q985
+
+Matt
+Python
+hg
+hg revert
+hg commit -I a.txt

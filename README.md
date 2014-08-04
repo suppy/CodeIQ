@@ -138,6 +138,7 @@
 
 * [@cielavenir  cielavenirさん](https://codeiq.jp/ace/cielavenir/)
   - [C++の間違い探し](https://codeiq.jp/ace/cielavenir/q817)(q817)
+  - [Mercurialに入門しよう！](https://codeiq.jp/ace/cielavenir/q985)(q985)
 
 * [@Air_Hold  チョコレートバー さん](https://codeiq.jp/ace/chocolate_bar/)
   - [6枚のカードの並べ方を求めて！](https://codeiq.jp/ace/chocolate_bar/q847)(q847)
