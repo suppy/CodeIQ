@@ -1,0 +1,23 @@
+持ち出された個人情報（氏名）１件目：Arthur L.Redd
+持ち出された個人情報（氏名）２件目：Nancy C.Henderson
+解答にたどり着いた手順：
+
+「USBWriter.exe」で、for_lv1_8fcdcf93de769a0f3130edb5151da0af.img をUSBに書き込み
+USB 内に REDD.png, information.zip の２つのファイルができる
+  
+USB 内の REDD.png から、１件目の個人情報を特定
+Arthur L.Redd
+
+「Recuva - Portable」で、USBを復元
+password.gz, _assword.txt の２つのファイルを復元
+
+password.gz を解凍
+解凍してできたファイル password.txt から
+パスワード b73ca4fd18c81f9706e20d4bd2f8bb78 を入手
+
+USB 内の information.zip を解凍
+上記のパスワードを入力することで解凍
+解凍してできたファイル information.png から
+２件目の個人情報を特定
+Nancy C.Henderson
+
