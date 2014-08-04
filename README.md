@@ -111,6 +111,7 @@
   - [今週のお題：W杯出場国しりとり](https://codeiq.jp/ace/thisweek_masuipeo/q953)(q953)
   - [今週のお題：素数のマトリックス](https://codeiq.jp/ace/thisweek_masuipeo/q958)(q958)
   - [今週のお題：ソートの交換回数を合計](https://codeiq.jp/ace/thisweek_masuipeo/q973)(q973)
+  - [今週のお題：縦横の合計から特定](https://codeiq.jp/ace/thisweek_masuipeo/q982)(q982)
 
 * [@naoya_t　naoya_tさん](https://codeiq.jp/ace/naoyat/)
   - [金塊か、キノコ料理か](https://codeiq.jp/ace/naoyat/q207)(q207)
