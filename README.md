@@ -52,7 +52,7 @@
 
 * [Short Coder @ozy4dm　Ozy@彦星さん](https://codeiq.jp/ace/ozy_hikoboshi/)
   - [七夕問題☆牽牛 彦星 牛を飼う](https://codeiq.jp/ace/ozy_hikoboshi/q959)(q959)
-　- [七夕問題☆牽牛 彦星 牛をもっと飼う](https://codeiq.jp/ace/ozy_hikoboshi/q961)(q961)
+  - [七夕問題☆牽牛 彦星 牛をもっと飼う](https://codeiq.jp/ace/ozy_hikoboshi/q961)(q961)
 
 * [@Nabetani  鍋谷 武典さん](https://codeiq.jp/ace/nabetani_takenori/)
   - [最大公約フィボナッチ数(?)](https://codeiq.jp/ace/nabetani_takenori/q649)(q649)
