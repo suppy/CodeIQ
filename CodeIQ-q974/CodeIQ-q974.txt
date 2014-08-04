@@ -1,0 +1,10 @@
+case7
+D:\Users\suyama.ikuo\Dropbox\business\CodeIQ\CodeIQ-q974>ruby CodeIQ-q974.rb
+処理開始時刻：2014-07-04 15:49:04 +0900
+
+false
+
+処理終了時刻：2014-07-04 16:42:09 +0900
+処理時間：3185.308991 sec
+
+D:\Users\suyama.ikuo\Dropbox\business\CodeIQ\CodeIQ-q974>
