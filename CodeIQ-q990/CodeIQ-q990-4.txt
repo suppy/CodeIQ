@@ -1,0 +1,1 @@
+(f=[a,b,c,d,e])[-((f[f.indexOf((m=Math).max.apply({},f))]=0)-(f[f.indexOf(m.max.apply({},f))]=0)-f.indexOf(m.max.apply({},f)))]
