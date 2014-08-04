@@ -149,5 +149,7 @@
 * [BRILLIANTSERVICE USA LLC  山本 慎也さん](https://codeiq.jp/ace/yamamoto_shinya/)
   - [缶ビールの梱包方法で輸送革命を！](https://codeiq.jp/ace/yamamoto_shinya/q935)(q935)
 
-* [株式会社サイバーディフェンス研究所  福森 大喜さんからのハッキングの問題](https://codeiq.jp/ace/fukumori_daiki/)
+* [株式会社サイバーディフェンス研究所  福森 大喜さん](https://codeiq.jp/ace/fukumori_daiki/)
   - [フォレンジック レベル1](https://codeiq.jp/ace/fukumori_daiki/q944)(q944)
+
+* []
