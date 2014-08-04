@@ -1,0 +1,5 @@
+@stakemura  stakemuraさんからの言語不問の問題
+オーバーフローを防げ！
+https://codeiq.jp/ace/stakemura/q976
+
+http://ideone.com/RtYuZh

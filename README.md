@@ -161,3 +161,6 @@
 
 * [@iskmsy　井関 正也さん](https://codeiq.jp/ace/iseki_masaya/)
   - [ゲームに勝つ確率は？](https://codeiq.jp/ace/iseki_masaya/q970)(q970)
+
+* [@stakemura　stakemuraさん](https://codeiq.jp/ace/stakemura/)
+  - [オーバーフローを防げ！](https://codeiq.jp/ace/stakemura/q976)(q976)
