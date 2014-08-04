@@ -1,0 +1,67 @@
+
+D:\Users\suyama.ikuo\Dropbox\business\CodeIQ>ruby CodeIQ-q961-4.rb
+処理開始時刻：2014-07-17 14:15:30 +0900
+
+7
+25
+
+処理終了時刻：2014-07-17 14:15:30 +0900
+処理時間：0.009009 sec
+
+D:\Users\suyama.ikuo\Dropbox\business\CodeIQ>ruby CodeIQ-q961-4.rb
+処理開始時刻：2014-07-17 14:15:40 +0900
+
+77
+3545
+
+処理終了時刻：2014-07-17 14:15:40 +0900
+処理時間：0.009009 sec
+
+D:\Users\suyama.ikuo\Dropbox\business\CodeIQ>ruby CodeIQ-q961-4.rb
+処理開始時刻：2014-07-17 14:15:48 +0900
+
+777
+366641
+
+処理終了時刻：2014-07-17 14:15:48 +0900
+処理時間：0.035035 sec
+
+D:\Users\suyama.ikuo\Dropbox\business\CodeIQ>ruby CodeIQ-q961-4.rb
+処理開始時刻：2014-07-17 14:15:59 +0900
+
+7777
+36761793
+
+処理終了時刻：2014-07-17 14:16:00 +0900
+処理時間：1.224235 sec
+
+D:\Users\suyama.ikuo\Dropbox\business\CodeIQ>ruby CodeIQ-q961-4.rb
+処理開始時刻：2014-07-17 14:16:23 +0900
+
+77777
+3677453621
+
+処理終了時刻：2014-07-17 14:18:00 +0900
+処理時間：97.049889 sec
+
+D:\Users\suyama.ikuo\Dropbox\business\CodeIQ>ruby CodeIQ-q961-4.rb
+処理開始時刻：2014-07-17 14:18:23 +0900
+
+777777
+367757228689
+
+処理終了時刻：2014-07-17 17:09:16 +0900
+処理時間：10252.948448 sec
+
+D:\Users\suyama.ikuo\Dropbox\business\CodeIQ>
+
+D:\Users\suyama.ikuo\Dropbox\business\CodeIQ>ruby CodeIQ-q961-4.rb
+処理開始時刻：2014-07-17 14:19:12 +0900
+
+7777777
+36775823261333
+
+処理終了時刻：2014-07-28 22:21:46 +0900
+処理時間：979354.307773 sec
+
+D:\Users\suyama.ikuo\Dropbox\business\CodeIQ>
