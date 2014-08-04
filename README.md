@@ -157,3 +157,6 @@
 
 * [@masuidrive　増井 雄一郎さん](https://codeiq.jp/ace/masui_yuichiro/)
   - [七夕にTrick or Treat?](https://codeiq.jp/ace/masui_yuichiro/q960)(q960)
+
+* [@iskmsy　井関 正也さん](https://codeiq.jp/ace/iseki_masaya/)
+  - [ゲームに勝つ確率は？](https://codeiq.jp/ace/iseki_masaya/q970)(q970)
