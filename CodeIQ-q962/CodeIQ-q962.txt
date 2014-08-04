@@ -1,0 +1,25 @@
+// ● 実行情報：
+/*
+Order: 0,9,12,14,6,2,11,7,8,1,10,4,5,3,13,15
+Drag Count: 24
+Move Log: id4 -> pos6, id5 -> pos6, id14 -> pos11, id10 -> pos5, id13 -> pos8, id7 -> pos14, id3 -> pos8, id8 -> pos13, id8 -> pos14, id2 -> pos10, id6 -> pos10, id12 -> pos9, id12 -> pos8, id13 -> pos14, id9 -> pos2, id9 -> pos1, id14 -> pos2, id2 -> pos3, id6 -> pos4, id12 -> pos2, id11 -> pos6, id8 -> pos7, id7 -> pos7, id6 -> pos4
+*/
+
+// ● 実行コード：
+
+function yourCode() {
+    var euclidean = function(a, b) {
+        while (b > 0) {
+            var mod = a % b;
+            a = b;
+            b = mod;
+        }
+        return a;
+    };
+    var arr = [];
+    for (var i = 2; i <= 100; i ++) {
+        arr.push("[" + i + ","
+            + euclidean(210, i) + "]");
+    }
+    return arr.join(",");
+}

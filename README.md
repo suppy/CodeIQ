@@ -28,6 +28,7 @@
   - [ダブル数列のダンジョン - LV2](https://codeiq.jp/ace/yanai_masakazu/q901)(q901)
   - [ダブル数列のダンジョン - LV3](https://codeiq.jp/ace/yanai_masakazu/q902)(q902)
   - [ダブル数列のダンジョンLV1～LV3の解説+最短コード #javascript](https://codeiq.jp/magazine/2014/06/11998/)
+  - [コードスライドパズル コードラ！](https://codeiq.jp/ace/yanai_masakazu/q962)(q962)
 
 * [東京Ruby会議10　佐々木 達也さん](https://codeiq.jp/ace/sasata299/)
   - [コードゴルフに挑戦！](https://codeiq.jp/ace/sasata299/q161)(q161)
