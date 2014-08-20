@@ -1,0 +1,6 @@
+言語:JavaScript (spidermonkey)
+Team:LGS
+解答コード:
+s="";for(i=1;i<51;i++)s+=["FIZZBUZZ",,,,,,"fizz",,,,"buzz"][i*i*i*i%15]||i;print(s);
+補足:
+フェルマーの小定理を利用

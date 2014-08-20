@@ -135,6 +135,8 @@
   - [第2回デスマコロシアム](https://codeiq.jp/ace/tbpgr_colosseum_manager/q835)(q835)
   - [第3回デスマコロシアム](https://codeiq.jp/ace/tbpgr_colosseum_manager/q872)(q872)
   - [第4回デスマコロシアム](https://codeiq.jp/ace/tbpgr_colosseum_manager/q915)(q915)
+  - [第5回デスマコロシアム](https://codeiq.jp/ace/tbpgr_colosseum_manager/q969)(q969)
+  - [「第5回デスマコロシアム」問題のトーナメント結果発表です！──優勝者は…！ #デスマコロシアム](https://codeiq.jp/magazine/2014/08/15080/)
 
 * [株式会社Branding Engineer  勅使瓦 悠太さん](https://codeiq.jp/ace/teshi/)
   - [より良いコードに書き換えろ！](https://codeiq.jp/ace/teshi/q750)(q750)

@@ -1,0 +1,20 @@
+言語:Go
+Team:LGS
+解答コード:
+for i:=1;i<51;i++{if i%15<1{fmt.Printf("FIZZBUZZ")}else if i%3<1{fmt.Printf("fizz")}else if i%5<1{fmt.Printf("buzz")}else{fmt.Printf("%d",i)}}
+補足:
+１回目提出
+言語:Octave
+　↓
+２回目提出
+言語：Octave → JavaScript (spidermonkey)
+フェルマーの小定理を利用
+　↓
+３回目提出
+言語:JavaScript (spidermonkey) → Go
+残言語のうち、最短コードとなったものを提出
+　↓
+４回目提出
+言語:Go
+5の倍数のミスを修正。。。
+（Goだけに5の倍数を間違えました。。。）

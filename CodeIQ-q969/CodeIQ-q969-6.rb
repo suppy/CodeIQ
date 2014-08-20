@@ -1,0 +1,1 @@
+1.step(50){|i|print ["FIZZBUZZ",n=nil,n,n,n,n,"fizz",n,n,n,"buzz"][i**4%15]||i}

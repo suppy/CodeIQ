@@ -1,0 +1,1 @@
+1.step(50){|i|print ["FIZZBUZZ",n=nil,n,"fizz",n,"buzz"][(i**4%15+1)/2]||i}

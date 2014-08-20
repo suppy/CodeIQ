@@ -1,0 +1,1 @@
+for(int i=1;i<51;i++)if(i%15<1)cout<<"FUZZBUZZ";else if(i%3<1)cout<<"fuzz";else if(i%5<1)cout<<"buzz";else cout<<i;
