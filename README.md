@@ -116,6 +116,7 @@
   - [今週のお題：縦横の合計から特定](https://codeiq.jp/ace/thisweek_masuipeo/q982)(q982)
   - [今週のお題：グレイコードのループ](https://codeiq.jp/ace/thisweek_masuipeo/q998)(q998)
   - [今週のお題：迷路で待ち合わせ？](https://codeiq.jp/ace/thisweek_masuipeo/q1004)(q1004)
+  - [今週のお題：反転で作る互い違い](https://codeiq.jp/ace/thisweek_masuipeo/q1016)(q1016)
 
 * [@naoya_t　naoya_tさん](https://codeiq.jp/ace/naoyat/)
   - [金塊か、キノコ料理か](https://codeiq.jp/ace/naoyat/q207)(q207)
