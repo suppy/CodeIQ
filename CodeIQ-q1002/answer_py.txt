@@ -1,0 +1,66 @@
+# -*- coding: utf-8 -*-
+
+# 使用した Python のバージョン：
+# ・Python(Python 2.7.3)/Python3(Python 3.2.3)　←どちらか選んでください。どちらでも動作する場合は両方書いてください。
+# 工夫した点・苦労した点・感想等（ご自由にお書きください）：
+# ・Pythonは使ったことがほとんどない（デスマコロシアムで試しに書いてみるくらい）ので、
+#   基本構文からお勉強でした。
+# ・Ideone.comでは、エラーの内容が分からないので、Ubuntu上で試しました。
+# ・rubyでの解答を参考にしましたが、iterableがよく分かっておりません。
+#
+# （2回目）工夫した点・苦労した点・感想等（ご自由にお書きください）：
+# ・丁寧なフィードバックありがとうございます。iterable の理解が深まりました。
+# ・簡潔なプログラムになってビックリしております。
+
+def fib():
+  a, b = 0, 1
+  while True:
+    yield b
+    a, b = b, a + b
+
+def drop(iterable, n):
+  # ここを適切に実装してテストが通るようにしてください。
+  # ただし、以下の条件を満たすこと：
+  # ・iterable 引数を何らかの形で利用すること。
+  # ・yield 式を必ず利用すること。
+  # ・import 文を使用しないこと。
+
+  # 桜先生からのワンポイントアドバイス：
+  # ・fib() 関数の実装を参考にすれば、そんなに難しくはないはずよ♪
+  # ・実装方法はいくつかあるけれど、テストが失敗しなければどれでも正解よ♪
+  for i in range(0, n):
+    next(iterable)
+  while True:
+    yield next(iterable)
+
+# ※これ以降は変更しないこと。
+if __name__ == '__main__':
+  import unittest
+
+  class AnswerQ1Test(unittest.TestCase):
+    def setUp(self):
+      self.fib = fib()
+
+    def test_fib(self):
+      expected = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55]
+      result = []
+      for n in self.fib:
+        result.append(n)
+        if len(result) == 10: break
+      self.assertEqual(result, expected)
+
+    def test_drop(self):
+      expected = [8, 13, 21, 34, 55]
+      result = []
+      for n in drop(self.fib, 5):
+        result.append(n)
+        if len(result) == 5: break
+      self.assertEqual(result, expected)
+
+    def test_100th_fib(self):
+      expected = 354224848179261915075
+      result = next(drop(self.fib, 99))
+      self.assertEqual(result, expected)
+
+  # run tests
+  unittest.main()

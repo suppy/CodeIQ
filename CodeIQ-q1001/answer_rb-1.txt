@@ -1,0 +1,86 @@
+# -*- coding: utf-8 -*-
+
+# 工夫した点・苦労した点・感想等（ご自由にお書きください）：
+# ・CodeIQの問題はほとんどrubyでプログラムを作成していますが、
+#   rubyのyieldはよく分からないので、ほとんど勉強していませんでした。
+#   なので、問題を見たときには、「ちょっとこの問題はパスかな」と思いましたが、
+#   折角の機会ですので、チャレンジしてみました。
+# ・テストは通っていますが、dropの動作がよく分かっていません。
+# ・テスト駆動開発の演習はしたことはありますが、実践は初めてでした。
+#   テストが通ったときは爽快ですね。
+
+
+class AnswerQ1
+  def each
+    return to_enum unless block_given?
+    a, b = 0, 1
+    loop do
+      yield b
+      a, b = b, a + b
+    end
+  end
+
+  def drop n
+    # ここを適切に実装してテストが通るようにしてください。
+    # ただし、以下の条件を満たすこと：
+    # ・上記の `each` メソッドを必ず利用すること。
+    # ・yield 文（yield 式）を必ず利用すること。
+    # ・require 文を使用しないこと。
+    # 桜先生からのワンポイントアドバイス：
+    # ・each メソッドの実装を参考にすれば、そんなに難しくはないはずよ♪
+    # ・return to_enum ? の行は、each メソッドからのコピペじゃ正常に動かないから、気をつけてね♪
+    # ・実装方法はいくつかあるけれど、テストが失敗しなければどれでも正解よ♪
+    fib = []
+   	a, b = 0, 1
+    (2*n).times do
+	  fib << b
+      a, b = b, a + b
+    end
+    i = n
+    loop do
+      if block_given?		
+        yield fib[i]
+      else
+        return fib[n..2*n]
+      end
+      i += 1
+    end
+  end
+end
+
+# ※これ以降は変更しないこと。
+if $0 == __FILE__
+  require 'test/unit'
+
+  class AnswerQ1Test < Test::Unit::TestCase
+    def setup
+      @fib = AnswerQ1.new
+    end
+
+    def test_each
+      expected = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55]
+      result = []
+      @fib.each do |n|
+        result << n
+        break if result.size == 10
+      end
+      assert_equal(expected, result)
+    end
+
+    def test_drop
+      expected = [8, 13, 21, 34, 55]
+      result = []
+      @fib.drop(5) do |n|
+        result << n
+        break if result.size == 5
+      end
+      assert_equal(expected, result)
+    end
+
+    def test_100th_fib
+      expected = 354_224_848_179_261_915_075
+      result = @fib.drop(99).first
+      assert_equal(expected, result)
+    end
+  end
+end

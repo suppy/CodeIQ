@@ -174,3 +174,9 @@
 
 * [@stakemura　stakemuraさん](https://codeiq.jp/ace/stakemura/)
   - [オーバーフローを防げ！](https://codeiq.jp/ace/stakemura/q976)(q976)
+
+* [@antimon2　antimon2さん](https://codeiq.jp/ace/antimon2/)
+  - [yieldのお勉強 Lv.1(Ruby編)](https://codeiq.jp/ace/antimon2/q1001)(q1001)
+  - [「yieldのお勉強 Lv.1」解説（Ruby編） #CodeIQ](http://antimon2.hatenablog.jp/entry/2014/08/18/230306)
+  - [yieldのお勉強 Lv.1(Python編)](https://codeiq.jp/ace/antimon2/q1002)(q1002)
+  - [「yieldのお勉強 Lv.1」解説（Python編） #CodeIQ](http://antimon2.hatenablog.jp/entry/2014/08/18/230339)
