@@ -1,0 +1,23 @@
+#解答用ファイル
+#こちらを修正して、提出してください。
+#拡張子は、「.txt」のままでお願いいたします。
+
+#!/usr/bin/env python3
+#-*- coding: utf-8 -*-
+
+x = 10000
+
+def f():
+    global x
+    x = 0
+
+def g():
+    global x
+    x = 10000
+
+print(x)                        # 10000
+f()
+print(x)                        # 10000 ??
+g()
+print(x)                        # 10000
+

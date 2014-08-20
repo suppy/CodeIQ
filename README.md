@@ -180,3 +180,6 @@
   - [「yieldのお勉強 Lv.1」解説（Ruby編） #CodeIQ](http://antimon2.hatenablog.jp/entry/2014/08/18/230306)
   - [yieldのお勉強 Lv.1(Python編)](https://codeiq.jp/ace/antimon2/q1002)(q1002)
   - [「yieldのお勉強 Lv.1」解説（Python編） #CodeIQ](http://antimon2.hatenablog.jp/entry/2014/08/18/230339)
+
+* [@mkamimura　kamimuraさん](https://codeiq.jp/ace/kamimura/)
+  - [Pythonにお引っ越し！](https://codeiq.jp/ace/kamimura/q1003)(q1003)
