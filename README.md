@@ -133,11 +133,15 @@
   - [EmmetでHTML高速記述 Lv1](https://codeiq.jp/ace/tbpgr/q725)(q725)
   - [EmmetでHTML高速記述 Lv2](https://codeiq.jp/ace/tbpgr/q746)(q746)
   - [第1回デスマコロシアム](https://codeiq.jp/ace/tbpgr/q791)(q791)
+  - [「第1回デスマコロシアム」問題のトーナメント結果発表です！～初代優勝者は…！ #デスマコロシアム](https://codeiq.jp/magazine/2014/04/8886/)
 
 * [@tbpgr  tbpgr コロシアム管理人 さん](https://codeiq.jp/ace/tbpgr_colosseum_manager/)
   - [第2回デスマコロシアム](https://codeiq.jp/ace/tbpgr_colosseum_manager/q835)(q835)
+  - [「第2回デスマコロシアム」問題のトーナメント結果発表です！──優勝者は…！ #デスマコロシアム](https://codeiq.jp/magazine/2014/05/9744/)
   - [第3回デスマコロシアム](https://codeiq.jp/ace/tbpgr_colosseum_manager/q872)(q872)
+  - [「第3回デスマコロシアム」問題のトーナメント結果発表です！──優勝者は…！ #デスマコロシアム](https://codeiq.jp/magazine/2014/06/10989/)
   - [第4回デスマコロシアム](https://codeiq.jp/ace/tbpgr_colosseum_manager/q915)(q915)
+  - [「第4回デスマコロシアム」問題のトーナメント結果発表です！──優勝者は…！ #デスマコロシアム](https://codeiq.jp/magazine/2014/07/12364/)
   - [第5回デスマコロシアム](https://codeiq.jp/ace/tbpgr_colosseum_manager/q969)(q969)
   - [「第5回デスマコロシアム」問題のトーナメント結果発表です！──優勝者は…！ #デスマコロシアム](https://codeiq.jp/magazine/2014/08/15080/)
 
