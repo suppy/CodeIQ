@@ -74,6 +74,8 @@
 
 * [東京Ruby会議10　佐々木 達也さん](https://codeiq.jp/ace/sasata299/)
   - [コードゴルフに挑戦！](https://codeiq.jp/ace/sasata299/q161)(q161)
+    + [東京Ruby会議10「コードゴルフに挑戦！」～最終順位発表](http://codeiq.hatenablog.com/entry/2013/01/16/002033)
+    + [東京Ruby会議10「コードゴルフに挑戦！」～景品発送＆上位者コード公開](http://codeiq.hatenablog.com/entry/2013/02/04/165710)
 
 * [The Essence of Programming  結城 浩さん](https://codeiq.jp/ace/yuki_hiroshi/)
   - [チョコの量を減らせ！](https://codeiq.jp/ace/yuki_hiroshi/q197)(q197)
