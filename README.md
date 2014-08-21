@@ -109,11 +109,17 @@
 
 * [@Nabetani  鍋谷 武典さん](https://codeiq.jp/ace/nabetani_takenori/)
   - [最大公約フィボナッチ数(?)](https://codeiq.jp/ace/nabetani_takenori/q649)(q649)
+    + [CodeIQ に出した「最大公約フィボナッチ数(?)」の解説・解題](http://nabetani.hatenablog.com/entry/codeiq_gcfibo_q649)
   - [カラフルな八面体を転がそう。](https://codeiq.jp/ace/nabetani_takenori/q708)(q708)
+    + [CodeIQ に「カラフルな八面体を転がそう。」の、解説・解題](http://nabetani.hatenablog.com/entry/codeiq_octahe_q708)
   - [hello, world × 3](https://codeiq.jp/ace/nabetani_takenori/q766)(q766)
+    + [CodeIQ に出した「hello, world × 3」の解説・解題](http://nabetani.hatenablog.com/entry/codeiq_hwx3_q766)
   - [4つの数と四則と括弧](https://codeiq.jp/ace/nabetani_takenori/q820)(q820)
+    + [CodeIQ に出した「4つの数と四則と括弧」の解説・解題](http://nabetani.hatenablog.com/entry/codeiq_4dob_q820)
   - [JavaScriptじゃんけん大会！](https://codeiq.jp/ace/nabetani_takenori/q888)(q888)
+    + [CodeIQ に出した「JavaScriptじゃんけん大会！」の解説・解題](http://nabetani.hatenablog.com/entry/codeiq_jsjc_q888)
   - [長くなるように、増え続けるように](https://codeiq.jp/ace/nabetani_takenori/q957)(q957)
+    + [「長くなるように、増え続けるように」の 解説・解題](http://nabetani.hatenablog.com/entry/codeiq_incseq_q957)
   - [中学入試から：数列の和](https://codeiq.jp/ace/nabetani_takenori/q1012)(q1012)
     + [「中学入試から：数列の和」の解説・解題](http://nabetani.hatenablog.com/entry/codeiq_sumseq_q1012)
 
