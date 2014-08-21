@@ -92,8 +92,15 @@
 
 * [Short Coder @ozy4dm  Ozyさん](https://codeiq.jp/ace/ozy4dm/)
   - [ショートコーディング：パスカルの△](https://codeiq.jp/ace/ozy4dm/q310)(q310)
+    + [「ショートコーディング：パスカルの△」暫定ランキング～2013年4月29日18時現在](http://codeiq.hatenablog.com/entry/2013/04/29/193920)
+    + [「ショートコーディング：パスカルの△」暫定ランキング～2013年5月7日午前9時現在](http://codeiq.hatenablog.com/entry/2013/05/07/114255)
+    + [「ショートコーディング：パスカルの△」暫定ランキング～2013年5月14日午前9時現在](http://codeiq.hatenablog.com/entry/2013/05/14/142401)
+    + [「ショートコーディング：パスカルの△」最終ランキング発表～5名の神が誕生しました。1位は70バイト #shortcoding #codegolf](http://codeiq.hatenablog.com/entry/2013/05/20/153407)
+    + [「ショートコーディング：パスカルの△」最終ランキング～上位5位のコード公開+Ozyさんの解説付き #shortcoding #codegolf](http://codeiq.hatenablog.com/entry/2013/05/20/154418)
   - [コード美人](https://codeiq.jp/ace/ozy4dm/q723)(q723)
+    + [Ozyさん出題「コード美人」問題の解説と解答コード公開～正統派美人、ビジュアル系美人、カワイイ系美人、自称系美人、数学だ系美人、美白系美人など面白解答多数](https://codeiq.jp/magazine/2014/03/6633/)
   - [魔方陣ヌルヌル](https://codeiq.jp/ace/ozy4dm/q877)(q877)
+    + [タテ・ヨコ・ナナメ、すべての合計が0（null）になる「魔方陣ヌルヌル」解説記事](https://codeiq.jp/magazine/2014/06/11455/)
 
 * [Short Coder @ozy4dm　Ozy@彦星さん](https://codeiq.jp/ace/ozy_hikoboshi/)
   - [七夕問題☆牽牛 彦星 牛を飼う](https://codeiq.jp/ace/ozy_hikoboshi/q959)(q959)
