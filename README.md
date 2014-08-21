@@ -151,6 +151,7 @@
 
 * [@nkawagashira  川頭 信之さん](https://codeiq.jp/ace/kawagashira_nobuyuki/)
   - [アッカーマンの呪い](https://codeiq.jp/ace/kawagashira_nobuyuki/q348)(q348)
+    + [「アッカーマンの呪い」問題解説～進撃の巨人みたいに爆発的な大きな数字は案外簡単な式で実現できます #ackermann #python](http://codeiq.hatenablog.com/entry/2013/09/02/173213)
 
 * [増井技術士事務所  今週のアルゴリズムの@masuipeoさん](https://codeiq.jp/ace/thisweek_masuipeo/)
   - [今週のお題：飛車と角の利きを考えて！](https://codeiq.jp/ace/thisweek_masuipeo/q666)(q666) - [第12回 正解者発表](https://codeiq.jp/magazine/2014/01/5382/)
