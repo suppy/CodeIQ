@@ -114,6 +114,8 @@
   - [4つの数と四則と括弧](https://codeiq.jp/ace/nabetani_takenori/q820)(q820)
   - [JavaScriptじゃんけん大会！](https://codeiq.jp/ace/nabetani_takenori/q888)(q888)
   - [長くなるように、増え続けるように](https://codeiq.jp/ace/nabetani_takenori/q957)(q957)
+  - [中学入試から：数列の和](https://codeiq.jp/ace/nabetani_takenori/q1012)(q1012)
+    + [「中学入試から：数列の和」の解説・解題](http://nabetani.hatenablog.com/entry/codeiq_sumseq_q1012)
 
 * [CodeIQ運営事務局　アプリケーションエンジニアを募集する企業さん](https://codeiq.jp/ace/joboffer_apli/)
   - [PHP：兵士と巨人の川渡り](https://codeiq.jp/ace/joboffer_apli/q636)(q636)
