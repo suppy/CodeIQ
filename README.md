@@ -196,6 +196,7 @@
 * [@tbpgr  tbpgrさん](https://codeiq.jp/ace/tbpgr/)
   - [EmmetでHTML高速記述 Lv1](https://codeiq.jp/ace/tbpgr/q725)(q725)
   - [EmmetでHTML高速記述 Lv2](https://codeiq.jp/ace/tbpgr/q746)(q746)
+    + [「EmmetでHTML高速記述 Lv1/Lv2」問題の中間ランキング発表です！～神超えな人たちがたくさん！ #emmet #html #css](http://codeiq.hatenablog.com/entry/2014/02/24/155219)
     + [「EmmetでHTML高速記述 Lv1/Lv2」問題の最終ランキング発表です！～神超えな人たちがさらにたくさん！ #emmet #html #css](https://codeiq.jp/magazine/2014/03/7195/)
   - [第1回デスマコロシアム](https://codeiq.jp/ace/tbpgr/q791)(q791)
     + [「第1回デスマコロシアム」問題のトーナメント結果発表です！～初代優勝者は…！ #デスマコロシアム](https://codeiq.jp/magazine/2014/04/8886/)
