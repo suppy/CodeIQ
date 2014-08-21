@@ -215,6 +215,8 @@
   - [より良いコードに書き換えろ！](https://codeiq.jp/ace/teshi/q750)(q750)
 
 * [@cielavenir  cielavenirさん](https://codeiq.jp/ace/cielavenir/)
+  - [Restricted Words](https://codeiq.jp/ace/cielavenir/q431)(q431)
+    + [普通じゃないHello World問題「Restricted Words」の解説記事 #伝説 #しえる](http://codeiq.hatenablog.com/entry/2013/09/25/163547)
   - [C++の間違い探し](https://codeiq.jp/ace/cielavenir/q817)(q817)
   - [Mercurialに入門しよう！](https://codeiq.jp/ace/cielavenir/q985)(q985)
 
