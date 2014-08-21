@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ja">
+<script>
+    // メイン処理
+    function main() {
+        var yasuko = OfficeLady();        // ヤスコ
+        var kikan = MainFrame();        // 基幹システム
+        output.innerHTML  = "ヤスコ「本日は " + yasuko + "行 と取引がありました。」<br>";
+        output.innerHTML += "基幹システム「本日ハ " + kikan + "行 ト取引ガアリマシタ。」<br>";
+    }
+    // 銀行員
+    function OfficeLady() {
+        var count = 0;
+        var bankList = document.getElementsByTagName( "input" );
+        for ( var i = 0; i < bankList.length; i++ ) {
+            count++;
+        }
+        return count;
+    }
+    // 基幹システム
+    function MainFrame() {
+        var count = 0;
+        var bankList = document.getElementsByName( "bank" );
+//alert(bankList);
+        for ( var bank in bankList ) {
+alert(bank);
+//        for ( var i = 0; i < bankList.length; i++ ) {
+            count++;
+        }
+        return count;
+    }
+</script>
+<body onLoad="main()">
+    <h2>本日取引のあった銀行一覧</h2>
+    <form>
+      <input name="bank" value="1. 当三銀行"><br>
+      <input name="bank" value="2. 立地銀行"><br>
+      <input name="bank" name="input" value="3. 便棒銀行"><br>
+      <input name="bank" name="bank" value="4. 倍返銀行"><br>
+      <input name="bank" id="bank" value="5. 水須銀行"><br>
+    </form>
+    <h2>集計結果</h2>
+    <div id="output"></div>
+</body>
+</html>

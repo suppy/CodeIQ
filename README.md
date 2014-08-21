@@ -251,3 +251,6 @@
 
 * [@mkamimura　kamimuraさん](https://codeiq.jp/ace/kamimura/)
   - [Pythonにお引っ越し！](https://codeiq.jp/ace/kamimura/q1003)(q1003)
+
+* [株式会社パワーハウス　ふぉっくす小隊さん](https://codeiq.jp/ace/fox_platoon/)
+  - [テンタメ！「合うまで帰れないっ！2」](https://codeiq.jp/ace/fox_platoon/q991)(q991)
