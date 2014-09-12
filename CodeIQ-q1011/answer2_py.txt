@@ -1,0 +1,92 @@
+# -*- coding: utf-8 -*-
+
+# 使用した Python のバージョン：
+# ・Python(Python 2.7.x)/Python3(Python 3.x)　←どちらか選んでください。どちらでも動作する場合は両方書いてください。
+# 工夫した点・苦労した点・感想等（ご自由にお書きください）：
+# ・
+# ・
+
+# 必要に応じてここに import 文を挿入してもOKです。
+# 例：import itertools
+import copy
+
+class IteratorCloner:
+  def __init__(self, it):
+    self._it = iter(it)
+    # ↑この行は変更しないでください！
+    # ↓必要に応じてコードを追加するのはOK。
+
+  def get_clone(self):
+    # ここを適切に実装しなおしてテストが通るようにしてください。
+    # ただし、以下の条件を満たすこと：
+    # ・self._it を何らかの形で利用すること。
+    # ・yield 式を必ず利用すること。
+    #self_copy = list(self._it)
+    #print(self_copy)
+    #self_copy = iter(IteratorCloner(self._it))
+    #print(next(self_copy))
+    while True:
+      self_copy = next(self._it)
+      yield self_copy
+    # 桜先生からのワンポイントアドバイス：
+    # ・オリジナルの Iterator self._it から、どうやって生成値を引き継いで yield 式に渡すか。
+    # 　その方法にたどり着ければ、問題の半分は解決よ♪
+    # ・第2のキーワードは『遅延』。この意味が分かれば全て解決♪
+
+# ※これ以降は変更しないこと。
+if __name__ == '__main__':
+  import unittest
+  import random
+  from itertools import islice, takewhile
+
+  def rand_enum():
+    while True:
+      # 1?20の整数値をランダムに列挙
+      yield random.randint(1, 20)
+
+  def fib():
+    a, b = 0, 1
+    while True:
+      yield b
+      a, b = b, a + b
+
+  def take_10(it):
+    return list(islice(it, 10))
+
+  def take_under_100(it):
+    return list(takewhile(lambda n: n < 100, it))
+
+  class IteratorClonerTest(unittest.TestCase):
+    def setUp(self):
+      self.cloner = IteratorCloner(fib())
+
+    def test_fib_clone1(self):
+      fib = self.cloner.get_clone()
+      expected = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
+      result = take_under_100(fib)
+      self.assertEqual(result, expected)
+
+    def test_fib_clone2(self):
+      fib1 = self.cloner.get_clone()
+      fib2 = self.cloner.get_clone()
+      expected = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
+      result1 = take_10(fib1) # dispose
+      result2 = take_under_100(fib2)
+      self.assertEqual(result2, expected)
+
+    def test_fib_cloneN(self):
+      expected = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
+      result = None
+      # 3回以上10回以下のランダム回数繰り返す
+      for i in range(random.randint(3, 10)):
+        result = take_under_100(self.cloner.get_clone())
+      self.assertEqual(result, expected)
+
+    def test_rand_enum(self):
+      cloner = IteratorCloner(rand_enum())
+      expected = take_10(cloner.get_clone())
+      result = take_10(cloner.get_clone())
+      self.assertEqual(result, expected)
+
+  # run tests
+  unittest.main()

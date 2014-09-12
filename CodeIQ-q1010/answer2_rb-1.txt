@@ -1,0 +1,93 @@
+# -*- coding: utf-8 -*-
+
+# 工夫した点・苦労した点・感想等（ご自由にお書きください）：
+# ・
+# ・
+
+# iter_a に存在し、iter_b に出てこない要素（整数）を列挙するメソッド
+def enum_diff iter_a, iter_b
+  return to_enum :enum_diff, iter_a, iter_b unless block_given?
+  # ここを適切に実装しなおしてテストが通るようにしてください。
+  # ただし、以下の条件を満たすこと：
+  # ・Enumerator#next（および必要に応じて Enumerator#peek）を利用すること。
+  # ・yield 式を必ず利用すること。
+  iter_a = iter_a.to_enum
+  iter_b = iter_b.to_enum
+  loop do
+    num = iter_a.peek
+    if iter_b.take(1).length == 0
+		yield num
+		iter_a.next
+    else
+		array_b = []
+		iter_b.each do |b|
+			if num >= b
+				array_b << b
+				next
+			else
+				if !array_b.include?(num)
+					yield num 
+				end
+				break
+			end
+		end
+		iter_a.next
+	end
+  end
+  # 桜先生からのワンポイントアドバイス：
+  # ・iter_a も iter_b も、『要素は全て整数値で、値が増加することはあっても
+  # 　減少することはない』と仮定してもらって構わないわ♪
+  # ・StopIteration の扱いに注意！
+  # ・解き方は大きく分けて2種類。よりシンプルな方に気づけるかしら？
+end
+
+# ※これ以降は変更しないこと。
+if $0 == __FILE__
+  require 'test/unit'
+  require 'prime'
+
+  def primes
+    Prime.to_enum
+  end
+
+  def nats
+    (1...Float::INFINITY)
+  end
+
+  def fib
+    return to_enum :fib unless block_given?
+    a, b = 0, 1
+    loop do
+      yield b
+      a, b = b, a + b
+    end
+  end
+
+  class AnswerQ2Test < Test::Unit::TestCase
+    def test_fib
+      expected = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55]
+      result = enum_diff(fib, []).take(10)
+      assert_equal(expected, result)
+    end
+
+    def test_nats_without_fib
+      expected = [4, 6, 7, 9, 10, 11, 12, 14, 15, 16]
+      result = enum_diff(nats, fib).take(10)
+      assert_equal(expected, result)
+    end
+
+    def test_fib_without_primes
+      expected = [1, 1, 8, 21, 34, 55, 144, 377, 610, 987, 2584, 4181, 6765, 10946, 17711, 46368]
+      result = enum_diff(fib, primes).take_while{|n| n < 50000}
+      assert_equal(expected, result)
+    end
+
+    def test_fib_reflect
+      # 3以上20以下の整数を乱択
+      k = rand(18) + 3
+      expected = fib.take(k)
+      result = enum_diff(fib, enum_diff(nats, fib)).take(k)
+      assert_equal(expected, result)
+    end
+  end
+end
