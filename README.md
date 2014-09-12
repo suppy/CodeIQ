@@ -212,6 +212,10 @@
   - [第5回デスマコロシアム](https://codeiq.jp/ace/tbpgr_colosseum_manager/q969)([q969](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q969))
     + [「第5回デスマコロシアム」問題のトーナメント結果発表です！──優勝者は…！ #デスマコロシアム](https://codeiq.jp/magazine/2014/08/15080/)
 
+* [@tbpgr　tbpgr（バッジ付与問題）さん](https://codeiq.jp/ace/tbpgr_badge/)
+  - [LTSVをparseしよう](https://codeiq.jp/ace/tbpgr_badge/q1024)([q1024](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1024))
+  - [TSVファイルをLTSVに変換しよう](https://codeiq.jp/ace/tbpgr_badge/q1025)([q1025](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1025))
+
 * [株式会社Branding Engineer  勅使瓦 悠太さん](https://codeiq.jp/ace/teshi/)
   - [より良いコードに書き換えろ！](https://codeiq.jp/ace/teshi/q750)([q750](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q750))
 
