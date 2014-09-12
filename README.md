@@ -183,7 +183,7 @@
   - [今週のお題：迷路で待ち合わせ？](https://codeiq.jp/ace/thisweek_masuipeo/q1004)([q1004](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1004)) - [第38回 正解者発表](https://codeiq.jp/magazine/2014/07/13835/)
   - [今週のお題：反転で作る互い違い](https://codeiq.jp/ace/thisweek_masuipeo/q1016)([q1016](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1016)) - [第39回 正解者発表](https://codeiq.jp/magazine/2014/08/14776/)
   - [今週のお題：いまだに現金払い？](https://codeiq.jp/ace/thisweek_masuipeo/q1042)([q1042](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1042)) - [第40回 正解者発表](https://codeiq.jp/magazine/2014/08/15094/)
-  - [今週のお題：面倒なキャッチボール](https://codeiq.jp/ace/thisweek_masuipeo/q1048)([q1048](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1048) - [第41回 正解者発表](https://codeiq.jp/magazine/2014/08/15162/)
+  - [今週のお題：面倒なキャッチボール](https://codeiq.jp/ace/thisweek_masuipeo/q1048)([q1048](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1048)) - [第41回 正解者発表](https://codeiq.jp/magazine/2014/08/15162/)
 
 * [@naoya_t　naoya_tさん](https://codeiq.jp/ace/naoyat/)
   - [金塊か、キノコ料理か](https://codeiq.jp/ace/naoyat/q207)(q207)
