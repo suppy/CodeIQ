@@ -220,6 +220,7 @@
     + [普通じゃないHello World問題「Restricted Words」の解説記事 #伝説 #しえる](http://codeiq.hatenablog.com/entry/2013/09/25/163547)
   - [C++の間違い探し](https://codeiq.jp/ace/cielavenir/q817)([q817](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q817))
   - [Mercurialに入門しよう！](https://codeiq.jp/ace/cielavenir/q985)([q985](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q985))
+  - [モーニングクエスト：フィボナッチ数列](https://codeiq.jp/ace/cielavenir/q1015)([q1015](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1015))
 
 * [@Air_Hold  チョコレートバー さん](https://codeiq.jp/ace/chocolate_bar/)
   - [6枚のカードの並べ方を求めて！](https://codeiq.jp/ace/chocolate_bar/q847)(q847)
