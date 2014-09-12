@@ -238,6 +238,7 @@
 
 * [株式会社サイバーディフェンス研究所  福森 大喜さん](https://codeiq.jp/ace/fukumori_daiki/)
   - [フォレンジック レベル1](https://codeiq.jp/ace/fukumori_daiki/q944)([q944](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q944))
+  - [Adminパスワードを破れ！](https://codeiq.jp/ace/fukumori_daiki/q1007)([q1007](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1007))
 
 * [@masuidrive　増井 雄一郎さん](https://codeiq.jp/ace/masui_yuichiro/)
   - [七夕にTrick or Treat?](https://codeiq.jp/ace/masui_yuichiro/q960)([q960](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q960))
