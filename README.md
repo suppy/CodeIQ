@@ -140,6 +140,8 @@
     + [「長くなるように、増え続けるように」の 解説・解題](http://nabetani.hatenablog.com/entry/codeiq_incseq_q957)
   - [中学入試から：数列の和](https://codeiq.jp/ace/nabetani_takenori/q1012)([q1012](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1012))
     + [「中学入試から：数列の和」の解説・解題](http://nabetani.hatenablog.com/entry/codeiq_sumseq_q1012)
+  - [中学入試から：単位のある計算](https://codeiq.jp/ace/nabetani_takenori/q1058)([q1058](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1058))
+    + [中学入試から：単位のある計算」の解説・解題](http://nabetani.hatenablog.com/entry/codeiq_unit_q1058)
 
 * [CodeIQ運営事務局　アプリケーションエンジニアを募集する企業さん](https://codeiq.jp/ace/joboffer_apli/)
   - [PHP：兵士と巨人の川渡り](https://codeiq.jp/ace/joboffer_apli/q636)(q636)
