@@ -181,6 +181,7 @@
   - [今週のお題：シャッフルで逆順](https://codeiq.jp/ace/thisweek_masuipeo/q828)([q828](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q828)) - [第23回 正解者発表](https://codeiq.jp/magazine/2014/04/9049/)
   - [今週のお題：あみだくじの横線](https://codeiq.jp/ace/thisweek_masuipeo/q838)(q838) - [第24回 正解者発表](https://codeiq.jp/magazine/2014/04/9214/)
   - [今週のお題：最速の連絡網](https://codeiq.jp/ace/thisweek_masuipeo/q848)(q848) - [第25回 正解者発表](https://codeiq.jp/magazine/2014/05/9527/)
+    + [第25回「今週のアルゴリズム：最速の連絡網」優秀解答例](https://codeiq.jp/magazine/2014/05/9767/)
   - [今週のお題：覆面算を満たす個数](https://codeiq.jp/ace/thisweek_masuipeo/q860)([q860](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q860)) - [第26回 正解者発表](https://codeiq.jp/magazine/2014/05/9737/)
   - [今週のお題：ハンカチ落としで逆順](https://codeiq.jp/ace/thisweek_masuipeo/q869)([q869](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q869)) - [第27回 正解者発表](https://codeiq.jp/magazine/2014/05/10200/)
   - [今週のお題：3つのグラスでの移動](https://codeiq.jp/ace/thisweek_masuipeo/q879)(q879) - [第28回 正解者発表](https://codeiq.jp/magazine/2014/05/10656/)
