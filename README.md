@@ -186,6 +186,7 @@
   - [今週のお題：面倒なキャッチボール](https://codeiq.jp/ace/thisweek_masuipeo/q1048)([q1048](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1048)) - [第41回 正解者発表](https://codeiq.jp/magazine/2014/08/15162/)
   - [今週のお題：同時に着くのは何通り？](https://codeiq.jp/ace/thisweek_masuipeo/q1052)([q1052](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1052)) - [第42回 正解者発表](https://codeiq.jp/magazine/2014/08/15320/)
   - [今週のお題：同じ長さで正方形](https://codeiq.jp/ace/thisweek_masuipeo/q1059)([q1059](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1059)) - [第43回 正解者発表](https://codeiq.jp/magazine/2014/09/15514/)
+  - [今週のお題：最長の移動経路を考えて！](https://codeiq.jp/ace/thisweek_masuipeo/q661)([q661](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q661)) - [第44回 正解者発表](https://codeiq.jp/magazine/2014/09/15885/)
 
 * [@naoya_t　naoya_tさん](https://codeiq.jp/ace/naoyat/)
   - [金塊か、キノコ料理か](https://codeiq.jp/ace/naoyat/q207)(q207)
