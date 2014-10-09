@@ -188,6 +188,7 @@
   - [今週のお題：同じ長さで正方形](https://codeiq.jp/ace/thisweek_masuipeo/q1059)([q1059](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1059)) - [第43回 正解者発表](https://codeiq.jp/magazine/2014/09/15514/)
   - [今週のお題：最長の移動経路を考えて！](https://codeiq.jp/ace/thisweek_masuipeo/q661)([q661](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q661)) - [第44回 正解者発表](https://codeiq.jp/magazine/2014/09/15885/)
   - [今週のお題：30人31脚に挑戦！](https://codeiq.jp/ace/thisweek_masuipeo/q1062)([q1062](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1062)) - [第45回 正解者発表](https://codeiq.jp/magazine/2014/09/16077/)
+  - [今週のお題：一筆書きできる配置は？](https://codeiq.jp/ace/thisweek_masuipeo/q1073)([q1073](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1073)) - [第46回 正解者発表](https://codeiq.jp/magazine/2014/09/16379/)
 
 * [@naoya_t　naoya_tさん](https://codeiq.jp/ace/naoyat/)
   - [金塊か、キノコ料理か](https://codeiq.jp/ace/naoyat/q207)(q207)
