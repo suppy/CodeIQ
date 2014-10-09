@@ -249,6 +249,8 @@
   - [C++の間違い探し](https://codeiq.jp/ace/cielavenir/q817)([q817](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q817))
   - [Mercurialに入門しよう！](https://codeiq.jp/ace/cielavenir/q985)([q985](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q985))
   - [モーニングクエスト：フィボナッチ数列](https://codeiq.jp/ace/cielavenir/q1015)([q1015](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1015))
+  - [RPythonに入門しよう！](https://codeiq.jp/ace/cielavenir/q1054)
+  - [RPythonでモジュールを使うには](https://codeiq.jp/ace/cielavenir/q1055)([q1055](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1055))
 
 * [@Air_Hold  チョコレートバー さん](https://codeiq.jp/ace/chocolate_bar/)
   - [6枚のカードの並べ方を求めて！](https://codeiq.jp/ace/chocolate_bar/q847)(q847)

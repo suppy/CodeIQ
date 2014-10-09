@@ -1,0 +1,5 @@
+(1) x < y
+(2) 
+(3) rrandom
+(4) round(self * (b - a) + a)
+(5) 
