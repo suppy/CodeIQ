@@ -229,6 +229,9 @@
   - [LTSVをparseしよう](https://codeiq.jp/ace/tbpgr_badge/q1024)([q1024](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1024))
   - [TSVファイルをLTSVに変換しよう](https://codeiq.jp/ace/tbpgr_badge/q1025)([q1025](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1025))
 
+* [@tbpgr　tbpgrさん](https://codeiq.jp/ace/tbpgr/)
+  - [呪いの右仮面](https://codeiq.jp/ace/tbpgr/q1026)([q1026](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1026))
+
 * [株式会社Branding Engineer  勅使瓦 悠太さん](https://codeiq.jp/ace/teshi/)
   - [より良いコードに書き換えろ！](https://codeiq.jp/ace/teshi/q750)([q750](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q750))
 

@@ -1,0 +1,17 @@
+言語:Haskell
+主言語:Ruby
+コード:
+import Control.Monad
+
+fibo :: Integer -> Integer
+fibo n =
+  if n == 0 then 0
+  else if n == 1 then 1
+  else fibo (n - 1) + fibo (n - 2)
+  
+main = do
+	let x = 20
+	forM [0..x-2] $ \i -> do
+		putStr (show (fibo i))
+		putChar ','
+	putStr (show (fibo(x-1)))
