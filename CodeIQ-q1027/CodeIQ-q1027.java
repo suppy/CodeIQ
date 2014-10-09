@@ -1,0 +1,2 @@
+String s="";for(int i=2;i<997;i++){int p=1;for(int j=2;j<i;)if(i%j++==0)p=0;if(p==1)s+=i+":";}System.out.print(s+"997");
+String s="";for(int i=1;i++<996;){int p=1;for(int j=2;j<i;)if(i%j++==0)p=0;if(p==1)s+=i+":";}System.out.print(s+"997");

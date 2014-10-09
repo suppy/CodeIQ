@@ -1,0 +1,7 @@
+s="";for(i=2;i<997;i++){for(j=p=2;j<i;)if(i%j++==0)p=0;if(p)s+=i+":"}print(s+"997")
+s="";for(i=2;i<997;i++){for(j=p=2;j<i;)if(i%j++==0)p=0;p?s+=i+":":0}print(s+"997")
+s="";for(i=2;i<997;i++){for(j=p=2;j<i;)i%j++==0?p=0:0;p?s+=i+":":0}print(s+"997")
+s=[];for(i=2;i<999;i++){for(j=p=2;j<i;)i%j++==0?p=0:0;p?s.push(i):0}print(s.join(':'))
+s="";for(i=2;i<997;i++){for(j=p=2;j<i;)i%j++?0:p=0;p?s+=i+":":0}print(s+"997")
+s="";for(i=2;i<997;p?s+=i+":":0,i++)for(j=p=2;j<i;)i%j++?0:p=0;print(s+"997")
+s="";for(i=1;i++<996;p?s+=i+":":0)for(j=p=2;j<i;)i%j++?0:p=0;print(s+"997")

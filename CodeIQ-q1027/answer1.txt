@@ -1,0 +1,9 @@
+言語:Ruby
+Team:LGS
+解答コード:
+require'prime'
+a=[]
+(2..999).each{|i|a<<i if Prime.prime?(i)}
+$><<a.join(':')
+補足:
+とりあえず、参加表明のため、手っ取り早いコードを提出します。
