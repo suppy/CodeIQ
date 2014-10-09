@@ -1,0 +1,19 @@
+GNU_IS_NOT_UNIX.LINUX_IS_NOT_UNIX.
+
+-- ³‰ð‚Å‚·I ˆÃ†‚ð‰ð“Ç‚µ‚Ü‚µ‚½ (^o^) --
+
+‰ð“š•¶Žš”‡Œv 100 •¶Žš
+
+// CODE_START
+(function() {
+  var text = "L71EQS78EVNX85HG95UJZ73VNW83UAG95UJS78EVYP79YJF84AG95UJNX85HS78EVZ73VNB88UQNZ46LP76XBZ73VNS78EVNX85HB88UQG95UJZ73VNW83UAG95UJS78EVYP79YJF84AG95UJNX85HS78EVZ73VNB88UQNZ46L";
+
+  var answer = text.replace(
+    /.{5}/g
+    ,
+    function(s){v="";for(i=0;i<5;i++){t=s[i];if('/'<t&&t<';')v+=t}return String.fromCharCode(+v)}
+  );
+
+  return answer;
+})();
+// CODE_END

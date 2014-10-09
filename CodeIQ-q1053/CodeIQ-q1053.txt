@@ -1,0 +1,26 @@
+function(s,s1,s2) {
+s3="";
+for(i=0;i<s.length/2;i+=2){
+if(s[i*2,2]){
+s3+=s
+}
+
+s4="";
+for(i=0;i<s3.length/2;i+=2){
+s4+=String.fromCharCode(parseInt(s3[i*2,2],10))
+}
+return s4;
+}
+
+
+/[A-Z]/g
+function(s,s1,s2) {s3=String.fromCharCode(s);s4=""; for(i=0;i<s3.length/2;i+=2){s4+=String.fromCharCode(Number(s3[i*2,2])) }return s3;}
+
+
+
+/[0-9A-Z]{5}/g
+function(s){v="";for(i=0;i<5;i++)if(s[i]>'/'&&s[i]<';')v+=s[i];return String.fromCharCode(+v);}
+
+/.{5}/g
+function(s){v="";for(i=0;i<5;i++)if(s[i]>'/'&&s[i]<';')v+=s[i];return String.fromCharCode(+v)}
+function(s){v="";for(i=0;i<5;i++){t=s[i];if('/'<t&&t<';')v+=t}return String.fromCharCode(+v)}

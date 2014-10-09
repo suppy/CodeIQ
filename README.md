@@ -73,6 +73,8 @@
     + [大人気ダンジョンシリーズ！3番目のダンジョンLV1～LV2の解説+最短コード発表 #javascript](https://codeiq.jp/magazine/2014/08/14753/)
   - [時限爆弾コードを解除せよ！](https://codeiq.jp/ace/yanai_masakazu/q1051)([q1051](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1051))
     + [「赤、緑、青の文字を削除して、時限爆弾コードを解除せよ！」を完全解説 #javascript](https://codeiq.jp/magazine/2014/09/15919/)
+  - [正規表現で暗号文を解読せよ！](https://codeiq.jp/ace/yanai_masakazu/q1053)([q1053](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1053))
+    + [正規表現で暗号文を解読せよ！解説記事+優秀解答者 #javascript](https://codeiq.jp/magazine/2014/09/15962/)
 
 * [東京Ruby会議10　佐々木 達也さん](https://codeiq.jp/ace/sasata299/)
   - [コードゴルフに挑戦！](https://codeiq.jp/ace/sasata299/q161)([q161](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q161))
