@@ -284,6 +284,9 @@
     + [「yieldのお勉強 Lv.2」解説（Ruby編） #CodeIQ](http://antimon2.hatenablog.jp/entry/2014/08/28/201745)
   - [yieldのお勉強 Lv.2(Python編)](https://codeiq.jp/ace/antimon2/q1011)([q1011](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1011))
     + [「yieldのお勉強 Lv.2」解説（Python編） #CodeIQ](http://antimon2.hatenablog.jp/entry/2014/08/30/203834)
+  - [yieldのお勉強 Lv.99(Ruby編)](https://codeiq.jp/ace/antimon2/q1037)([q1037](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1037))
+  - [yieldのお勉強 Lv.99(Python編)](https://codeiq.jp/ace/antimon2/q1038)([q1038](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1038))
+    + [「yieldのお勉強 Lv.99」解説（Ruby編/Python編共通） #CodeIQ](http://antimon2.hatenablog.jp/entry/2014/09/29/220859)
 
 * [@mkamimura　kamimuraさん](https://codeiq.jp/ace/kamimura/)
   - [Pythonにお引っ越し！](https://codeiq.jp/ace/kamimura/q1003)([q1003](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1003))
