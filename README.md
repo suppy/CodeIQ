@@ -282,3 +282,6 @@
   - [テンタメ！「合うまで帰れないっ！2」](https://codeiq.jp/ace/fox_platoon/q991)([q991](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q991))
   - [テンタメ！「三つ子カフェデビュー」](https://codeiq.jp/ace/fox_platoon/q1039)([q1039](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1039))
   - [テンタメ！「三つ子のお菓子の行方」](https://codeiq.jp/ace/fox_platoon/q1040)([q1040](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1040))
+
+* [@makotoo2　大津 真さん](https://codeiq.jp/ace/ohtsu_makoto/)
+  - [Swiftに挑戦 その1](https://codeiq.jp/ace/ohtsu_makoto/q1014)([q1014](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1014))
