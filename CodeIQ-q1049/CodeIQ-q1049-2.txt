@@ -1,0 +1,2 @@
+#include <stdio.h>
+main(){int i=1,j=1,n,s=0;scanf("%d",&n);while(i<=n){if(j%2>0&&j%3>0){s+=j;i++;}j++;}printf("%d",s);}

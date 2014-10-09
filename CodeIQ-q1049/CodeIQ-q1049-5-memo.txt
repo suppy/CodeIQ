@@ -1,0 +1,5 @@
+i,j,s;main(n){for(scanf("%d",&n);i<n;)if(++j%2&&j%3&&++i)s+=j;printf("%d",s);}
+i,j,s;main(n){for(scanf("%d",&n);i<n;)++j%2&&j%3&&++i?s+=j:0;printf("%d",s);}
+i,j,s;main(n){for(scanf("%d",&n);i<n;)s+=++j%2&&j%3&&++i?j:0;printf("%d",s);}
+i,j,s;main(n){for(scanf("%d",&n);i<n;s+=++j%2&&j%3&&++i?j:0);printf("%d",s);}
+i,j,s;main(n){for(scanf("%d",&n);i<n;)++j%2&&j%3?s+=j,i++:0;printf("%d",s);}

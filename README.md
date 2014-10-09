@@ -108,6 +108,8 @@
     + [Ozyさん出題「コード美人」問題の解説と解答コード公開～正統派美人、ビジュアル系美人、カワイイ系美人、自称系美人、数学だ系美人、美白系美人など面白解答多数](https://codeiq.jp/magazine/2014/03/6633/)
   - [魔方陣ヌルヌル](https://codeiq.jp/ace/ozy4dm/q877)([q877](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q877))
     + [タテ・ヨコ・ナナメ、すべての合計が0（null）になる「魔方陣ヌルヌル」解説記事](https://codeiq.jp/magazine/2014/06/11455/)
+  - [ショートコーディング～神になりたい～](https://codeiq.jp/ace/ozy4dm/q1049)([q1049](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1049))
+    + [最短コード＆ランキング発表！「ショートコーディング～神になりたい～」解説 #codegolf #c](https://codeiq.jp/magazine/2014/09/15848/)
 
 * [Short Coder @ozy4dm　Ozy@彦星さん](https://codeiq.jp/ace/ozy_hikoboshi/)
   - [七夕問題☆牽牛 彦星 牛を飼う](https://codeiq.jp/ace/ozy_hikoboshi/q959)([q959](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q959))

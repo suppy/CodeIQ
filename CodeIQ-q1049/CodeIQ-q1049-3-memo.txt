@@ -1,0 +1,5 @@
+main(i,j,n,s){i=j=1;s=0;scanf("%d",&n);while(i<=n){if(j%2>0&&j%3>0){s+=j;i++;}j++;}printf("%d",s);}
+main(i,n,j,s){i=j=1;s=0;printf("%d",n);scanf("%d",&n);while(i<=n){if(j%2>0&&j%3>0){s+=j;i++;}j++;}printf("%d",s);}
+i,j,s;main(n){scanf("%d",&n);while(i<n)if(++j&&j%2&&j%3&&++i)s+=j;printf("%d",s);}
+i,j,s;main(n){scanf("%d",&n);while(i<n)if(++j%2&&j%3&&++i)s+=j;printf("%d",s);}
+i,j,s;main(n){scanf("%d",&n);while(i<n)s+=(++j%2&&j%3&&++i)?j:0;printf("%d",s);}
