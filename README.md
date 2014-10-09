@@ -254,6 +254,8 @@
 
 * [@masuidrive　増井 雄一郎さん](https://codeiq.jp/ace/masui_yuichiro/)
   - [七夕にTrick or Treat?](https://codeiq.jp/ace/masui_yuichiro/q960)([q960](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q960))
+  - [正規表現でどう書くの？](https://codeiq.jp/ace/masui_yuichiro/q981)([q981](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q981))
+    + [「正規表現でどう書くの？」問題解説記事 #正規表現](https://codeiq.jp/magazine/2014/10/16406/)
 
 * [@iskmsy　井関 正也さん](https://codeiq.jp/ace/iseki_masaya/)
   - [ゲームに勝つ確率は？](https://codeiq.jp/ace/iseki_masaya/q970)([q970](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q970))
