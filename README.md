@@ -254,6 +254,7 @@
 
 * [@masuidrive　増井 雄一郎さん](https://codeiq.jp/ace/masui_yuichiro/)
   - [七夕にTrick or Treat?](https://codeiq.jp/ace/masui_yuichiro/q960)([q960](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q960))
+    + [「七夕にTrick or Treat?」問題解説記事 #論理演算](https://codeiq.jp/magazine/2014/08/13486/)
   - [正規表現でどう書くの？](https://codeiq.jp/ace/masui_yuichiro/q981)([q981](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q981))
     + [「正規表現でどう書くの？」問題解説記事 #正規表現](https://codeiq.jp/magazine/2014/10/16406/)
 
