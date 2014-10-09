@@ -193,6 +193,7 @@
   - [今週のお題：素数のマトリックス](https://codeiq.jp/ace/thisweek_masuipeo/q958)([q958](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q958)) - [第34回 正解者発表](https://codeiq.jp/magazine/2014/07/12603/)
   - [今週のお題：ソートの交換回数を合計](https://codeiq.jp/ace/thisweek_masuipeo/q973)([q973](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q973)) - [第35回 正解者発表](https://codeiq.jp/magazine/2014/07/12790/)
   - [今週のお題：縦横の合計から特定](https://codeiq.jp/ace/thisweek_masuipeo/q982)([q982](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q982)) - [第36回 正解者発表](https://codeiq.jp/magazine/2014/07/12971/)
+    + [第36回「今週のアルゴリズム：縦横の合計から特定」優秀解答例](https://codeiq.jp/magazine/2014/08/13833/)
   - [今週のお題：グレイコードのループ](https://codeiq.jp/ace/thisweek_masuipeo/q998)([q998](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q998)) - [第37回 正解者発表](https://codeiq.jp/magazine/2014/07/13425/)
   - [今週のお題：迷路で待ち合わせ？](https://codeiq.jp/ace/thisweek_masuipeo/q1004)([q1004](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1004)) - [第38回 正解者発表](https://codeiq.jp/magazine/2014/07/13835/)
   - [今週のお題：反転で作る互い違い](https://codeiq.jp/ace/thisweek_masuipeo/q1016)([q1016](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1016)) - [第39回 正解者発表](https://codeiq.jp/magazine/2014/08/14776/)
