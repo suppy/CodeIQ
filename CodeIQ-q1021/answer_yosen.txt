@@ -1,0 +1,47 @@
+# Short Coder @ozy4dm  おずず@Ozyさんからの言語指定の問題
+# プログラミング言語★総選挙　予備選挙
+# https://codeiq.jp/ace/ozy_ozuzu/q1020
+
+# 言語の種類(ideoneの言語名で記載ください)：Ruby
+
+# あなたのコード（ideoneで実行できるコードを以下に貼り付けてください）
+
+# 出欠情報を格納する配列（一次元）
+arr = []
+w = 0
+h = 0
+while (s=gets) != nil do
+  # puts s.strip
+  s_arr = s.strip.split('')
+  w = s_arr.length
+  h += 1
+  s_arr.each do |str|
+  	if str == "O"
+  	  # 出席は、0を格納
+  	  arr << 0
+    else
+  	  # 欠席は、2を格納
+      arr << 2
+    end
+  end
+end
+# p arr
+# print "H x W = #{h} x #{w}\n"
+
+# チェック模様になるように設定
+(0...w).each do |x|
+  (0...h).each do |y|
+    if arr[x + y * w] != 2
+      arr[x + y * w] = (x + y) % 2
+    end
+  end
+end
+# p arr
+
+# チェック模様のそれぞれの色のマスが同じ数であれば
+# ペアを作ることができる
+if arr.count(0) == arr.count(1)
+	puts "yes"
+else
+	puts "no"
+end

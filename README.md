@@ -114,6 +114,11 @@
   - [七夕問題☆牽牛 彦星 牛をもっと飼う](https://codeiq.jp/ace/ozy_hikoboshi/q961)([q961](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q961))
     + [給料UPを目指す彦星の解答は？「七夕問題☆牽牛 彦星 牛をもっと飼う」解説 #CodeIQ](https://codeiq.jp/magazine/2014/08/13926/)
 
+* [Short Coder @ozy4dm　おずず@Ozyさん](https://codeiq.jp/ace/ozy_ozuzu/)
+  - [プログラミング言語★総選挙　予備選挙](https://codeiq.jp/ace/ozy_ozuzu/q1020)([q1020](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1020))
+  - [プログラミング言語★総選挙　本選挙](https://codeiq.jp/ace/ozy_ozuzu/q1021)([q1021](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1021))
+    + [「CodeIQ プログラミング言語★総選挙」予選・本選問題の解説公開！#CodeIQ](https://codeiq.jp/magazine/2014/09/16007/)
+
 * [@Nabetani  鍋谷 武典さん](https://codeiq.jp/ace/nabetani_takenori/)
   - [最大公約フィボナッチ数(?)](https://codeiq.jp/ace/nabetani_takenori/q649)(q649)
     + [CodeIQ に出した「最大公約フィボナッチ数(?)」の解説・解題](http://nabetani.hatenablog.com/entry/codeiq_gcfibo_q649)
