@@ -76,6 +76,9 @@
   - [正規表現で暗号文を解読せよ！](https://codeiq.jp/ace/yanai_masakazu/q1053)([q1053](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1053))
     + [正規表現で暗号文を解読せよ！解説記事+優秀解答者 #javascript](https://codeiq.jp/magazine/2014/09/15962/)
 
+* [CodeIQちょこっとプログラミング　クロノス・クラウン合同会社 代表社員 柳井 政和さん](https://codeiq.jp/ace/chocopro_yanai/)
+  - [5分で挑戦！3つのコードで完成させて](https://codeiq.jp/ace/chocopro_yanai/q718)([q718](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q718))
+
 * [東京Ruby会議10　佐々木 達也さん](https://codeiq.jp/ace/sasata299/)
   - [コードゴルフに挑戦！](https://codeiq.jp/ace/sasata299/q161)([q161](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q161))
     + [東京Ruby会議10「コードゴルフに挑戦！」～最終順位発表](http://codeiq.hatenablog.com/entry/2013/01/16/002033)
