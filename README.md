@@ -334,3 +334,11 @@
 * [株式会社クリエイターズネクスト　窪田 望さん](https://codeiq.jp/ace/cnxt_nozomu/)
   - [絵画に仕掛けられた暗号を解読せよ！](https://codeiq.jp/ace/cnxt_nozomu/q1091)([q1091](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1091))
   - [大富豪の遺言。1兆円の隠し場所は？](https://codeiq.jp/ace/cnxt_nozomu/q1095)
+
+* [Sexy Coder　マシューさん](https://codeiq.jp/ace/matthew/)
+  - [美女の仕掛けた「セクシー素数」](https://codeiq.jp/ace/matthew/q1092)([q1092](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1092))
+  - [●●が無限に存在する場所の秘密](https://codeiq.jp/ace/matthew/q1096)
+  - [美女がデートに行きたい場所は？](https://codeiq.jp/ace/matthew/q1106)
+  - [iPhone6に届いた暗号を解け！](https://codeiq.jp/ace/matthew/q1117)
+  - [ハッキングされたCodeIQ](https://codeiq.jp/ace/matthew/q1118)
+  - [マシューの「美女」巡回問題](https://codeiq.jp/ace/matthew/q1135)([q1135](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1135))
