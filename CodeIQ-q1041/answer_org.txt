@@ -1,0 +1,12 @@
+>sample01
+CAATTCGGTGATCGGATCGATGCCACTCTATAGGCATAGACGATGGCGCTATTTAGCGATGGATTCGGGGATGAGC
+>sample02
+GGTAGCTAAGGTGTGCATATCGATGTGCAAAATCGTACTGCCTGCATTGCCGGGGCAATCGTAATTGCTACTAATC
+ENV:C++
+先頭200行に、上のように解答を記入してください。201行目にENV:に続いて環境を記入して下さい(必須ではありません)。
+202行目からはコメントをお書き下さい。
+
+注意ですが、解答チェックは付属のcheck.rbで行います。
+data.ansの行数だけanswer.txtを読み込み、改行コードを除いて完全一致すれば正解となります。
+Windowsにおいて、UTF-8で保存した時にBOMが付くことがあります。その場合、誤答になってしまいます。
+心配であればこのanswer.txtとsample.ansについてチェックを行ってみてください。
