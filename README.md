@@ -357,3 +357,7 @@
   - [iPhone6に届いた暗号を解け！](https://codeiq.jp/ace/matthew/q1117)
   - [ハッキングされたCodeIQ](https://codeiq.jp/ace/matthew/q1118)
   - [マシューの「美女」巡回問題](https://codeiq.jp/ace/matthew/q1135)([q1135](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1135))
+
+* [@sfpgmr　sfpgmrさん](https://codeiq.jp/ace/sfpgmr/)
+  - [XHTML5を知っていますか？](https://codeiq.jp/ace/sfpgmr/q1098)([q1098](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1098))
+  - [セマンティックタグを使おう！](https://codeiq.jp/ace/sfpgmr/q1124)([q1124](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1124))
