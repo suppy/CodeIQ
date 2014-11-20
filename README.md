@@ -272,6 +272,7 @@
   - [モーニングクエスト：フィボナッチ数列](https://codeiq.jp/ace/cielavenir/q1015)([q1015](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1015))
   - [RPythonに入門しよう！](https://codeiq.jp/ace/cielavenir/q1054)
   - [RPythonでモジュールを使うには](https://codeiq.jp/ace/cielavenir/q1055)([q1055](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1055))
+  - [モーニングクエスト：区分求積](https://codeiq.jp/ace/cielavenir/q1120)([q1120](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1120))
   - [Color Spaceを変換しよう](https://codeiq.jp/ace/cielavenir/q1041)([q1041](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1041))
 
 * [@Air_Hold  チョコレートバー さん](https://codeiq.jp/ace/chocolate_bar/)
