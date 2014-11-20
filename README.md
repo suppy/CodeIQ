@@ -149,6 +149,8 @@
     + [中学入試から：単位のある計算」の解説・解題](http://nabetani.hatenablog.com/entry/codeiq_unit_q1058)
   - [中学入試から：正三角形？二等辺？](https://codeiq.jp/ace/nabetani_takenori/q1097)([q1097](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1097))
     + [「中学入試から：正三角形？二等辺？」の、解説・解題](http://nabetani.hatenablog.com/entry/codeiq_clatri_q1097)
+  - [中学入試から：数字の個数](https://codeiq.jp/ace/nabetani_takenori/q1138)([q1138](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1138))
+    + [「中学入試から：数字の個数」の 解説・解題](http://nabetani.hatenablog.com/entry/codeiq_digicount_q1138)
 
 * [CodeIQ運営事務局　アプリケーションエンジニアを募集する企業さん](https://codeiq.jp/ace/joboffer_apli/)
   - [PHP：兵士と巨人の川渡り](https://codeiq.jp/ace/joboffer_apli/q636)(q636)
