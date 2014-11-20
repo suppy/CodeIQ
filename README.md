@@ -330,3 +330,7 @@
 
 * [@makotoo2　大津 真さん](https://codeiq.jp/ace/ohtsu_makoto/)
   - [Swiftに挑戦 その1](https://codeiq.jp/ace/ohtsu_makoto/q1014)([q1014](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1014))
+
+* [株式会社クリエイターズネクスト　窪田 望さん](https://codeiq.jp/ace/cnxt_nozomu/)
+  - [絵画に仕掛けられた暗号を解読せよ！](https://codeiq.jp/ace/cnxt_nozomu/q1091)
+  - [大富豪の遺言。1兆円の隠し場所は？](https://codeiq.jp/ace/cnxt_nozomu/q1095)
