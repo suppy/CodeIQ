@@ -117,6 +117,8 @@
     + [タテ・ヨコ・ナナメ、すべての合計が0（null）になる「魔方陣ヌルヌル」解説記事](https://codeiq.jp/magazine/2014/06/11455/)
   - [ショートコーディング～神になりたい～](https://codeiq.jp/ace/ozy4dm/q1049)([q1049](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1049))
     + [最短コード＆ランキング発表！「ショートコーディング～神になりたい～」解説 #codegolf #c](https://codeiq.jp/magazine/2014/09/15848/)
+  - [プログラミング言語★裏選挙―愛の風車](https://codeiq.jp/ace/ozy4dm/q1105)([q1105](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1105))
+    + [裏選挙キャラクターも擬人化してみた『CodeIQ プログラミング言語★裏選挙―愛の風車』解説記事 #CodeIQ #JavaScript](https://codeiq.jp/magazine/2014/10/18235/)
 
 * [Short Coder @ozy4dm　Ozy@彦星さん](https://codeiq.jp/ace/ozy_hikoboshi/)
   - [七夕問題☆牽牛 彦星 牛を飼う](https://codeiq.jp/ace/ozy_hikoboshi/q959)([q959](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q959))
