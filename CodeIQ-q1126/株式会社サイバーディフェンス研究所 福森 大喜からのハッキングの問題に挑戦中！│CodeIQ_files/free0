@@ -1,0 +1,31 @@
+(function() {
+	try {
+		var src = "<scr"  +"ipt language='javascript' type='text/javascript' src='";
+		src += "https://dex.advg.jp/dx/p/free?_aid=1048&_free=1535";
+		src += "&_url=" + (function() {
+				try {
+					return escape(document.URL);
+				} catch(e) {
+				}
+				return "";
+			})();
+		src += "&_nocache=" + (new Date).getTime() + Math.floor(Math.random()*100000000);
+		src += "'></scr"+"ipt>";
+		document.write(src);
+	} catch(e) {
+	}
+})();
+(function () {
+	var url = encodeURIComponent((window.top==window.self) ? document.URL : document.referrer);
+	var src = "https://dex.advg.jp/dx/p/us" + "?_aid=1048&_free=1535";
+	src += "&_url=" + url;
+	src += "&_nocache=" + (new Date).getTime() + Math.floor(Math.random() * 100000000);
+
+	var us = document.createElement('script');
+	us.type= 'text/javascript';
+	us.src = src;
+	us.async = true;
+	us.defer = true;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(us, s);
+})();
