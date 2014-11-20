@@ -208,6 +208,12 @@
   - [今週のお題：30人31脚に挑戦！](https://codeiq.jp/ace/thisweek_masuipeo/q1062)([q1062](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1062)) [-](https://codeiq.jp/my_feedback.php?challenge_log_id=158133) [第45回 正解者発表](https://codeiq.jp/magazine/2014/09/16077/)
   - [今週のお題：一筆書きできる配置は？](https://codeiq.jp/ace/thisweek_masuipeo/q1073)([q1073](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1073)) [-](https://codeiq.jp/my_feedback.php?challenge_log_id=161512) [第46回 正解者発表](https://codeiq.jp/magazine/2014/09/16379/)
   - [今週のお題：クロスワードを作成して！](https://codeiq.jp/ace/thisweek_masuipeo/q1094)([q1094](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1094)) [-](https://codeiq.jp/my_feedback.php?challenge_log_id=162347) [第47回 正解者発表](https://codeiq.jp/magazine/2014/10/16952/)
+  - [今週のお題：シャッフルして元通り](https://codeiq.jp/ace/thisweek_masuipeo/q1099)([q1099](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1099)) [-](https://codeiq.jp/my_feedback.php?challenge_log_id=163699) [第48回 正解者発表](https://codeiq.jp/magazine/2014/10/17264/)
+  - [今週のお題：逆さになる砂時計](https://codeiq.jp/ace/thisweek_masuipeo/q1110)([q1110](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1110)) [-](https://codeiq.jp/my_feedback.php?challenge_log_id=165109) [第49回 正解者発表](https://codeiq.jp/magazine/2014/10/18348/)
+  - [今週のお題：いたずらされたお菓子？](https://codeiq.jp/ace/thisweek_masuipeo/q1116)([q1116](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1116)) [-](https://codeiq.jp/my_feedback.php?challenge_log_id=168660) [第50回 正解者発表](https://codeiq.jp/magazine/2014/10/18350/)
+  - [今週のお題：ショートケーキの日](https://codeiq.jp/ace/thisweek_masuipeo/q1119)([q1119](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1119)) [-](https://codeiq.jp/my_feedback.php?challenge_log_id=167688) [第51回 正解者発表](https://codeiq.jp/magazine/2014/10/18352/)
+  - [今週のお題：友達の友達は友達？](https://codeiq.jp/ace/thisweek_masuipeo/q1125)([q1125](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1125)) [-](https://codeiq.jp/my_feedback.php?challenge_log_id=170441) [第52回 正解者発表](https://codeiq.jp/magazine/2014/11/18458/)
+  - [今週のお題：同じ数字で挟み撃ち](https://codeiq.jp/ace/thisweek_masuipeo/q1149)([q1149](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1149)) [-](https://codeiq.jp/my_feedback.php?challenge_log_id=170595) [第53回 正解者発表](https://codeiq.jp/magazine/2014/11/18658/)
 
 * [@naoya_t　naoya_tさん](https://codeiq.jp/ace/naoyat/)
   - [金塊か、キノコ料理か](https://codeiq.jp/ace/naoyat/q207)(q207)

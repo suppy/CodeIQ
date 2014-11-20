@@ -1,0 +1,38 @@
+
+[0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4]
+30
+4
+"2"
+16
+"12"
+64
+"112"
+256
+"1112"
+1024
+"11112"
+4096
+"111112"
+16381
+"1111112"
+65461
+"11111102"
+261088
+"111111002"
+1037548
+"1111110002"
+4099162
+"11111100002"
+16059850
+"111111000002"
+62884016
+"1111110000004"
+CodeIQ-q1116-4.rb:50:in `block (3 levels) in <main>': failed to allocate memory (NoMemoryError)
+        from CodeIQ-q1116-4.rb:41:in `each'
+        from CodeIQ-q1116-4.rb:41:in `block (2 levels) in <main>'
+        from CodeIQ-q1116-4.rb:39:in `each'
+        from CodeIQ-q1116-4.rb:39:in `block in <main>'
+        from CodeIQ-q1116-4.rb:33:in `times'
+        from CodeIQ-q1116-4.rb:33:in `<main>'
+
+
