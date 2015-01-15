@@ -398,3 +398,4 @@
   - [「リターン・ナンバー」問題](https://codeiq.jp/ace/kawazoe/q1121)[(q1121](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1121)[)](https://codeiq.jp/my_feedback.php?challenge_log_id=167259)
   - [「ビリオン・ダラー」問題](https://codeiq.jp/ace/kawazoe/q1168)[(q1168](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1168)[)](https://codeiq.jp/my_feedback.php?challenge_log_id=171655)
   - [「デジタル・タブー」問題](https://codeiq.jp/ace/kawazoe/q1206)[(q1206](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1206)[)](https://codeiq.jp/my_feedback.php?challenge_log_id=174509)
+  - [「ピッキング・カード」問題](https://codeiq.jp/ace/kawazoe/q1219)[(q1219](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1219)[)](https://codeiq.jp/my_feedback.php?challenge_log_id=178660)

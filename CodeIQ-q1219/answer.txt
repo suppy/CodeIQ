@@ -1,0 +1,30 @@
+【解答】：2308369140
+【方針】：
+num個の合計がsumとなる組み合わせの数Cを動的計画法で求める
+初期値は、num=0, sum=0, C=0
+ただし、sumは103の倍数でよいので、sumが103を超えた場合は、sumを103で割った余りをsumにすればよい。
+また、numが8を超える場合は求める必要はない。
+すべての組み合わせが求まったら、num=8, sum=0の場合の組み合わせを出力する
+
+【コード】：
+言語:ruby
+
+# num個の合計がsumとなる組み合わせの数がCとなる場合、
+# 以下のハッシュを定義する
+#  h[[sum, num]] = C
+h = Hash.new(0)
+h[[0, 0]] = 1
+
+n = 103
+pick_num = 8
+(1..n).each do |i|
+  next_h = h.clone
+  h.each do |key, value|
+    next_h[[(key[0] + i) % n, key[1] + 1]] += value if key[1] < pick_num
+  end
+  h = next_h
+end
+
+h.each do |key, value|
+  print "#{value}\n" if key[0] % n == 0 && key[1] == pick_num 
+end
