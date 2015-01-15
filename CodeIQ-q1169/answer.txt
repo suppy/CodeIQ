@@ -1,0 +1,22 @@
+# Ruby
+
+encode = %!ABCDEFGHIJKLMNOPQRSTUVWXYZ234567!
+
+base32_data = String.new
+while line = gets
+  base32_data += line.strip.upcase
+end
+
+binary_string = String.new
+base32_data.each_char do |chr|
+  break if !encode.index(chr)
+  binary_string += (48.chr * 4 + encode.index(chr).to_s(2))[-5..-1]
+end 
+
+if binary_string.length % 8 != 0
+  binary_string += 48.chr * (8 - binary_string.length % 8)
+end
+
+0.step(binary_string.length-8, 8) do |i|
+  print binary_string[i, 8].to_i(2).chr
+end

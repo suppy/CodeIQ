@@ -313,6 +313,8 @@
   - [RPythonでモジュールを使うには](https://codeiq.jp/ace/cielavenir/q1055)([q1055](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1055))
   - [モーニングクエスト：区分求積](https://codeiq.jp/ace/cielavenir/q1120)([q1120](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1120))
   - [Color Spaceを変換しよう](https://codeiq.jp/ace/cielavenir/q1041)([q1041](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1041))
+  - [Restricted Base32](https://codeiq.jp/ace/cielavenir/q1169)([q1169](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1169))
+    + [CodeIQ伝説の挑戦者】cielさん出題の「Restricted Base32」解説記事 #Base32](https://codeiq.jp/magazine/2014/12/19417/)
 
 * [@Air_Hold  チョコレートバー さん](https://codeiq.jp/ace/chocolate_bar/)
   - [6枚のカードの並べ方を求めて！](https://codeiq.jp/ace/chocolate_bar/q847)(q847)
