@@ -230,6 +230,7 @@
   - [今週のお題：友達の友達は友達？](https://codeiq.jp/ace/thisweek_masuipeo/q1125)([q1125](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1125)) [-](https://codeiq.jp/my_feedback.php?challenge_log_id=170441) [第52回 正解者発表](https://codeiq.jp/magazine/2014/11/18458/)
   - [今週のお題：同じ数字で挟み撃ち](https://codeiq.jp/ace/thisweek_masuipeo/q1149)([q1149](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1149)) [-](https://codeiq.jp/my_feedback.php?challenge_log_id=170595) [第53回 正解者発表](https://codeiq.jp/magazine/2014/11/18658/)
   - [今週のお題：隣り合わないのがマナー？](https://codeiq.jp/ace/thisweek_masuipeo/q1170)([q1170](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1170)) [-](https://codeiq.jp/my_feedback.php?challenge_log_id=173207) [第54回 正解者発表](https://codeiq.jp/magazine/2014/11/18877/)
+  - [今週のお題：受難のファサードの魔方陣](https://codeiq.jp/ace/thisweek_masuipeo/q1181)([q1181](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1181)) [-](https://codeiq.jp/my_feedback.php?challenge_log_id=173059) [第55回 正解者発表](https://codeiq.jp/magazine/2014/11/18943/)
 
 * [@naoya_t　naoya_tさん](https://codeiq.jp/ace/naoyat/)
   - [金塊か、キノコ料理か](https://codeiq.jp/ace/naoyat/q207)(q207)
