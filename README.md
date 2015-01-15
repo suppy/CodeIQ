@@ -168,6 +168,7 @@
   - [Java：素数の数を数えてください](https://codeiq.jp/ace/joboffer_apli/q675)([q675](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q675))
   - [言語不問：最後にチョコもらうのは誰？](https://codeiq.jp/ace/joboffer_apli/q1107)([q1107](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1107))
   - [言語不問：取り違えは何通り？](https://codeiq.jp/ace/joboffer_apli/q1108)([q1108](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1108))
+  - [言語不問：3桁のフィボナッチ数列](https://codeiq.jp/ace/joboffer_apli/q1129)([q1129](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1129))
 
 * [CodeIQ運営事務局  ガールフレンド（CodeIQ）さん](https://codeiq.jp/ace/girlfriend_codeiq/)
   - [ガールフレンドをコンプリートせよ！](https://codeiq.jp/ace/girlfriend_codeiq/q801)([q801](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q801))
