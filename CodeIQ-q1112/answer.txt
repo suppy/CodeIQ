@@ -1,0 +1,19 @@
+@tbpgr  tbpgr（バッジ付与問題）さんからのHubotの問題
+Hubot入門
+https://codeiq.jp/ace/tbpgr_badge/q1112
+
+
+問1
+A
+
+問2
+D
+
+問3
+B
+
+問4
+A
+
+問5
+C
