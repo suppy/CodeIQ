@@ -378,3 +378,6 @@
 
 * [CodeIQちょこっとプログラミング　@doradora09 さん](https://codeiq.jp/ace/chocopro_doradora09/)
   - [irisデータを使ったRの基礎](https://codeiq.jp/ace/chocopro_doradora09/q922)([q922](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q922))
+
+* [@yabuki　矢吹 太朗さん](https://codeiq.jp/ace/yabuki_taro/)
+  - [基本の確認　2列の合計値比較](https://codeiq.jp/ace/yabuki_taro/q1123)[(q1123](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1123)[)](https://codeiq.jp/my_feedback.php?challenge_log_id=170418)

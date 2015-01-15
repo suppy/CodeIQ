@@ -1,0 +1,65 @@
+# 解答
+# 問1の解：0.9007199254740993E16 > 0.9007199254740992E16
+# 問2の解：0.196209384765625E6 < 0.165305104E8
+# 問3の解：0.276019691920890991101868502291365782821296681013264451874224916E34 > 0.1826948063003387368655973208344438003505280014359666016202E30
+# 実行環境
+# プラットフォーム：Windows8.1
+# 処理系：ruby 2.0.0p451 (2014-02-24) [x64-mingw32]
+# CPU：Core i7-3930K
+# メモリ：32GB
+# 計算時間（秒）：0.015626
+# 環境構築方法
+# 1. rubyinstaller-2.0.0-p451-x64.exe をインストール
+# 実行方法
+# 1. ファイル名を「CodeIQ-q1123.rb」とする。
+# 2. ruby CodeIQ-q1123.rb
+
+require 'bigdecimal'
+
+def read_values(filename)
+  problem = []
+  File.open(filename, "r") do |f|
+    while line = f.gets
+      problem << line.strip.split(",").map{|item| item.to_f}
+    end
+  end
+
+  col1 = []
+  col2 = []
+  problem.each do |value|
+    col1 << value[0]
+    col2 << value[1]
+  end
+
+  return col1, col2
+end
+
+def sum(values)
+  sum = BigDecimal.new("0")
+  values.each_with_index do |value, idx|
+    sum += BigDecimal(value.to_s) if value > 0
+    values[idx] = 0
+  end
+  sum += BigDecimal(values.inject(:+).to_s)
+  return sum
+end
+
+def show_judgement(sum1, sum2)
+  if sum1 > sum2
+    print "#{sum1} > #{sum2}\n"
+  elsif sum1 < sum2
+    print "#{sum1} < #{sum2}\n"
+  else
+    print "#{sum1} = #{sum2}\n"
+  end
+end
+
+filenames = ["q1.csv", "q2.csv", "q3.csv"]
+filenames.each do |filename|
+  col1, col2 = read_values(filename)
+  sum1 = sum(col1)
+  sum2 = sum(col2)
+  show_judgement(sum1, sum2)
+end
+
+
