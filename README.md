@@ -250,6 +250,7 @@
   - [コード銀行：n番目の数字は？](https://codeiq.jp/ace/code_teller/q983)([q983](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q983))
   - [コード銀行：ヒット・アンド・ブロー](https://codeiq.jp/ace/code_teller/q1060)([q1060](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1060))
   - [コード銀行：ヒット・アンド・ブロー](https://codeiq.jp/ace/code_teller/q1087)([q1087](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1087))
+  - [コード銀行：切手を切って！](https://codeiq.jp/ace/code_teller/q1093)([q1093](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1093))
 
 * [@tbpgr  tbpgrさん](https://codeiq.jp/ace/tbpgr/)
   - [EmmetでHTML高速記述 Lv1](https://codeiq.jp/ace/tbpgr/q725)([q725](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q725))
