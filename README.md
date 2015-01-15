@@ -145,6 +145,10 @@
   - [プログラミング言語★総選挙　本選挙](https://codeiq.jp/ace/ozy_ozuzu/q1021)([q1021](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1021))
     + [「CodeIQ プログラミング言語★総選挙」予選・本選問題の解説公開！#CodeIQ](https://codeiq.jp/magazine/2014/09/16007/)
 
+* [Short Coder @ozy4dm　Ozy@アルゴリズムさん](https://codeiq.jp/ace/ozy_algorithm/)
+  - [一番割り算の多い組み合わせは？](https://codeiq.jp/ace/ozy_algorithm/q1153)([q1153](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1153))
+    + [全問正解者発表！「一番割り算の多い組み合わせは？」解説 #プログラミング #フィボナッチ #ruby](https://codeiq.jp/magazine/2014/12/19347/)
+
 * [@Nabetani  鍋谷 武典さん](https://codeiq.jp/ace/nabetani_takenori/)
   - [最大公約フィボナッチ数(?)](https://codeiq.jp/ace/nabetani_takenori/q649)(q649)
     + [CodeIQ に出した「最大公約フィボナッチ数(?)」の解説・解題](http://nabetani.hatenablog.com/entry/codeiq_gcfibo_q649)
