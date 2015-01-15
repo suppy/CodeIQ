@@ -374,6 +374,7 @@
   - [テンタメ！「勘弁してよ、九根部長～」](https://codeiq.jp/ace/fox_platoon/q1063)([q1063](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1063))
   - [テンタメ！「兄弟姉妹仲良くね＾＾；」](https://codeiq.jp/ace/fox_platoon/q1064)([q1064](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1064))
   - [テンタメ！「ヤマコー金融危機一髪！」](https://codeiq.jp/ace/fox_platoon/q1101)([q1101](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1101))
+  - [テンタメ！「三つ子の初めてのお料理」](https://codeiq.jp/ace/fox_platoon/q1150)([q1150](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1150))
 
 * [@makotoo2　大津 真さん](https://codeiq.jp/ace/ohtsu_makoto/)
   - [Swiftに挑戦 その1](https://codeiq.jp/ace/ohtsu_makoto/q1014)([q1014](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1014))
