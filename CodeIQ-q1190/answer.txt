@@ -1,0 +1,15 @@
+# この問題はお手上げです。
+
+# 開発言語：Ruby
+
+min = -1
+sets = (1..8).to_a.permutation
+
+sets.each do |set|
+  ans = Math.log(set[0] + set[1] ** (-set[2] * 10 - set[3])) * (set[4] ** (set[5] * 10 + set[6]) + set[7] / 10)
+  if min == -1 || ans < min
+    min = ans
+    p min
+    p set
+  end
+end

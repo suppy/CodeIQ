@@ -1,0 +1,22 @@
+# 答え:7 3 4 5 2 1 6
+
+#開発言語:Ruby
+
+min = -1
+sets = (1..7).to_a.permutation
+min_set = []
+sets.each do |set|
+  next if set[0] == 1
+  ans = Math.log(set[0]) * ((set[1] / 10 + set[2] / 10) ** (-(set[3] / 10)) - set[4] ** (-set[5] - set[6] / 10)) - 1
+  if min == -1 || ans.abs < min
+    min = ans.abs
+    min_set = set
+    #puts min
+    #p set
+  end
+end
+#p min_set
+
+puts min_set[0] ** ((min_set[1] / 10 + min_set[2] / 10) ** (-(min_set[3] / 10)) - min_set[4] ** (- min_set[5] - min_set[6] / 10))
+
+puts min_set.join(" ")
