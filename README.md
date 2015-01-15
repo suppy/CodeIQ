@@ -355,6 +355,7 @@
 
 * [@mkamimura　kamimuraさん](https://codeiq.jp/ace/kamimura/)
   - [Pythonにお引っ越し！](https://codeiq.jp/ace/kamimura/q1003)([q1003](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1003))
+  - [複数の要素をもとにリストをソート！](https://codeiq.jp/ace/kamimura/q1130)([q1130](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1130)[)](https://codeiq.jp/my_feedback.php?challenge_log_id=170723)
 
 * [株式会社パワーハウス　ふぉっくす小隊さん](https://codeiq.jp/ace/fox_platoon/)
   - [テンタメ！「合うまで帰れないっ！2」](https://codeiq.jp/ace/fox_platoon/q991)([q991](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q991))
