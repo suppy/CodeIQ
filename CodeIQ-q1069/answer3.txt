@@ -1,0 +1,16 @@
+言語:JavaScript (spidermonkey)
+Team:LGS
+解答コード:
+s="";for(i=0;i<17;s+=".",i++)for(s+=">",j=0;j<"deathma colosseum".charCodeAt(i);j++)s+="+";print(s)
+補足:
+１回目提出
+言語:Ruby
+とりあえず、参加表明のため、提出します。
+　↓
+２回目提出
+言語:Ruby
+bytesメソッドの使い方を正しくしました。
+　↓
+３回目提出
+言語:JavaScript (spidermonkey)
+現状の言語最短と同じ文字数になりましたので、提出。

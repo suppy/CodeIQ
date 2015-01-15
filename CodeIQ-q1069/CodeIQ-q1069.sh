@@ -1,0 +1,1 @@
+ruby -e '"deathma colosseum".bytes{|i|$><<">#{"+"*i}."}'

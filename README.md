@@ -262,6 +262,8 @@
     + [「第5回デスマコロシアム」問題のトーナメント結果発表です！──優勝者は…！ #デスマコロシアム](https://codeiq.jp/magazine/2014/08/15080/)
   - [第6回デスマコロシアム](https://codeiq.jp/ace/tbpgr_colosseum_manager/q1027)([q1027](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1027))
     + [「第6回デスマコロシアム」問題のトーナメント結果発表です！──優勝者は…！ #デスマコロシアム](https://codeiq.jp/magazine/2014/09/16061/)
+  - [第7回デスマコロシアム](https://codeiq.jp/ace/tbpgr_colosseum_manager/q1069)([q1069](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1069))
+    + [「第7回デスマコロシアム」問題のトーナメント結果発表です！──優勝者は…！ #デスマコロシアム](https://codeiq.jp/magazine/2014/12/19179/)
 
 * [@tbpgr　tbpgr（バッジ付与問題）さん](https://codeiq.jp/ace/tbpgr_badge/)
   - [LTSVをparseしよう](https://codeiq.jp/ace/tbpgr_badge/q1024)([q1024](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1024))

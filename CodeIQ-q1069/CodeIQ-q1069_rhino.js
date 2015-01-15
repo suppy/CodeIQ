@@ -1,0 +1,1 @@
+s="";for(i=0;i<17;s+=".",i++)for(s+=">",j=0;j<"deathma colosseum".charCodeAt(i);j++)s+="+";print(s)

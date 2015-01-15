@@ -1,0 +1,27 @@
+言語:PARI/GP
+Team:LGS
+解答コード:
+for(j=1,17,print1(">");for(i=1,Vecsmall("deathma colosseum")[j],print1("+"));print1("."))
+補足:
+１回目提出
+言語:Ruby
+とりあえず、参加表明のため、提出します。
+　↓
+２回目提出
+言語:Ruby
+bytesメソッドの使い方を正しくしました。
+　↓
+３回目提出
+言語:JavaScript (spidermonkey)
+現状の言語最短と同じ文字数になりましたので、提出。
+　↓
+４回目提出
+言語:JavaScript (rhino)
+提出したら、最短が更新されていました。
+もう一つの JavaScript で提出です。
+　↓
+５回目提出
+言語:PARI/GP
+JavaScript (rhino)だと道場破りの可能性もあるので、
+PARI/GP にしてみました。
+JavaScript (rhino)よりも短くなりました。
