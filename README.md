@@ -393,3 +393,6 @@
 * [楽天技術研究所　江木 聡志さん](https://codeiq.jp/ace/egi/)
   - [四つ子素数をパターンマッチ](https://codeiq.jp/ace/egi/q1115)([q1115](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1115))
     + [新しいプログラミング言語を作る理由──パターンマッチ指向プログラミング言語Egison紹介(第1回)](https://codeiq.jp/magazine/2014/10/16313/)
+
+* [@riverplus　Kawazoeさん](https://codeiq.jp/ace/kawazoe/)
+  - [「リターン・ナンバー」問題](https://codeiq.jp/ace/kawazoe/q1121)[(q1121](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1121)[)](https://codeiq.jp/my_feedback.php?challenge_log_id=167259)
