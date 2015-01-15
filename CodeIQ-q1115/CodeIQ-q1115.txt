@@ -1,0 +1,4 @@
+(take 5 (match-all primes (list integer) [<join _ <cons $p <cons ,(+ p 2) _>>> [p (+ p 2)]]))
+(take 5 (match-all primes (list integer) [<join _ <cons $p <cons ,(+ p 4) <cons ,(+ p 6) _>>>> [p (+ p 4) (+ p 6)]]))
+(take 5 (match-all primes (list integer) [<join _ <cons $p <cons ,(+ p 2) <cons ,(+ p 6) _>>>> [p (+ p 2) (+ p 6)]]))
+(take 5 (match-all primes (list integer) [<join _ <cons $p <cons ,(+ p 2) <cons ,(+ p 6) <cons ,(+ p 8) _>>>>> [p (+ p 2) (+ p 6) (+ p 8)]]))

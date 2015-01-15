@@ -389,3 +389,7 @@
 * [@yabuki　矢吹 太朗さん](https://codeiq.jp/ace/yabuki_taro/)
   - [基本の確認　2列の合計値比較](https://codeiq.jp/ace/yabuki_taro/q1123)[(q1123](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1123)[)](https://codeiq.jp/my_feedback.php?challenge_log_id=170418)
   - [最短経路を探そう](https://codeiq.jp/ace/yabuki_taro/q1103)[(q1103](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1103)[)](https://codeiq.jp/my_feedback.php?challenge_log_id=172042)
+
+* [楽天技術研究所　江木 聡志さん](https://codeiq.jp/ace/egi/)
+  - [四つ子素数をパターンマッチ](https://codeiq.jp/ace/egi/q1115)([q1115](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1115))
+    + [新しいプログラミング言語を作る理由──パターンマッチ指向プログラミング言語Egison紹介(第1回)](https://codeiq.jp/magazine/2014/10/16313/)
