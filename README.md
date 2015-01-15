@@ -84,6 +84,7 @@
     + [バラバラになったコードを修復せよ！「コードスライドパズル！コードラ３“ハノイの塔”編」解説 #javascript](https://codeiq.jp/magazine/2014/11/18707/)
   - [時限爆弾コードを解除せよ！3](https://codeiq.jp/ace/yanai_masakazu/q1128)([q1128](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1128))
     + [赤・緑・青の文字を削除し、時限爆弾コードを解除せよ！3 問題解説 #javascript](https://codeiq.jp/magazine/2014/11/18727/)
+  - [デバック地獄脱出「あるあるバグ」退治](https://codeiq.jp/ace/yanai_masakazu/q1156)([q1156](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1156))
 
 * [CodeIQちょこっとプログラミング　クロノス・クラウン合同会社 代表社員 柳井 政和さん](https://codeiq.jp/ace/chocopro_yanai/)
   - [5分で挑戦！3つのコードで完成させて](https://codeiq.jp/ace/chocopro_yanai/q718)([q718](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q718))
