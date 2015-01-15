@@ -1,0 +1,37 @@
+# Description:
+#   デスマコロシアム未挑戦言語出力
+#
+#   （第７回）デスマコロシアムで挑戦者０名の言語を指定数分ランダムに出力します
+#
+# Commands:
+#   deathma count - 挑戦者０名の言語を count 個ランダムに出力する
+#
+# Author:
+#   suppy193
+module.exports = (robot) ->
+  robot.respond /deathma (\d+)/i, (msg) ->
+    count = msg.match[1]
+    # 『第7回デスマコロシアム』問題 集計報告 のトップページを取得します
+    robot.http("http://d.hatena.ne.jp/tbpg/20140906/1410014268")
+      .get() (err, res, body) ->
+        lang_list = body.split(/\n*<\/*pre>\n*/)[1].split("\n")
+        msg.send '第７回デスマコロシアム'
+        msg.send '今日挑戦するプログラム言語は'
+        challenge_lang = []
+        for i in [1..count]
+          index = msg.random([0..lang_list.length-1])
+          challenge_lang.push(lang_list[index])
+          lang_list.splice(index, 1)
+        msg.send challenge_lang.join('と')
+        msg.send 'にしましょう！'
+# Examples:
+# Hubot> hubot deathma 3
+# Hubot> 第７回デスマコロシアム
+# Hubot> 今日挑戦するプログラム言語は
+# Hubot> NiceとForthとPike
+# Hubot> にしましょう！
+# Hubot> hubot deathma 5
+# Hubot> 第７回デスマコロシアム
+# Hubot> 今日挑戦するプログラム言語は
+# Hubot> ErlangとObjective-CとFactorとCOBOL 85とNice
+# Hubot> にしましょう！
