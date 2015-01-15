@@ -1,0 +1,48 @@
+D:\Users\suyama.ikuo\Dropbox\business\CodeIQ\CodeIQ-q1218>ruby CodeIQ-q1218.rb
+処理開始時刻：2014-12-03 12:01:33 +0900
+
+010101
+101010
+010101
+101010
+010101
+
+true
+13374192
+
+処理終了時刻：2014-12-03 13:07:50 +0900
+処理時間：3977.501978 sec
+
+D:\Users\suyama.ikuo\Dropbox\business\CodeIQ\CodeIQ-q1218>
+
+
+
+
+
+D:\Users\suyama.ikuo\Dropbox\business\CodeIQ\CodeIQ-q1218>ruby CodeIQ-q1218.rb
+処理開始時刻：2014-12-03 13:30:26 +0900
+
+010101
+101010
+010101
+101010
+010101
+
+true
+13374192
+
+処理終了時刻：2014-12-03 14:04:08 +0900
+処理時間：2022.473833 sec
+
+D:\Users\suyama.ikuo\Dropbox\business\CodeIQ\CodeIQ-q1218>
+
+
+D:\Users\suyama.ikuo\Dropbox\business\CodeIQ\CodeIQ-q1218>ruby CodeIQ-q1218.rb
+処理開始時刻：2014-12-03 15:43:53 +0900
+
+13374192
+
+処理終了時刻：2014-12-03 16:16:12 +0900
+処理時間：1939.013726 sec
+
+D:\Users\suyama.ikuo\Dropbox\business\CodeIQ\CodeIQ-q1218>
