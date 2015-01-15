@@ -235,6 +235,7 @@
   - [今週のお題：男女平等な席替え？](https://codeiq.jp/ace/thisweek_masuipeo/q1218)([q1218](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1218)) [-](https://codeiq.jp/my_feedback.php?challenge_log_id=176815) [第57回 正解者発表](https://codeiq.jp/magazine/2014/12/19888/)
   - [今週のお題：そろばんで足し算](https://codeiq.jp/ace/thisweek_masuipeo/q1235)([q1235](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1235)) [-](https://codeiq.jp/my_feedback.php?challenge_log_id=178580) [第58回 正解者発表](https://codeiq.jp/magazine/2014/12/20236/)
   - [今週のお題：公平に分けられたケーキ](https://codeiq.jp/ace/thisweek_masuipeo/q1247)([q1247](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1247)) [-](https://codeiq.jp/my_feedback.php?challenge_log_id=180217) [第59回 正解者発表](https://codeiq.jp/magazine/2014/12/20363/)
+  - [今週のお題：数えやすいように並べ替え](https://codeiq.jp/ace/thisweek_masuipeo/q1266)([q1266](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1266)) [-](https://codeiq.jp/my_feedback.php?challenge_log_id=183505) [第60回 正解者発表](https://codeiq.jp/magazine/2015/01/20864/)
 
 * [@naoya_t　naoya_tさん](https://codeiq.jp/ace/naoyat/)
   - [金塊か、キノコ料理か](https://codeiq.jp/ace/naoyat/q207)(q207)
