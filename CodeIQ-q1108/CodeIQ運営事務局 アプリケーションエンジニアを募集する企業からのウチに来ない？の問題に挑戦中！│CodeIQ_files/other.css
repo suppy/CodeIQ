@@ -1,0 +1,2718 @@
+/* CSS Document */
+
+/*U-2*/
+.account h2.blockTitle{
+	margin:20px 0 0;
+	font-weight:bold;
+	font-size:14px;
+}
+.account .entrySns{
+}
+.account .entrySns li{
+	float:left;
+	margin-right:18px;
+}
+.account .entrySns li.last{
+	margin-right:0px;
+}
+.account .accounttxt{
+	margin-top:16px;
+	margin-bottom:35px;
+	font-size:14px;
+}
+.account .accountinfotxt{
+	font-size:14px;
+	margin-bottom:16px;
+}
+.account p{
+	font-size:14px;
+}
+
+.account .accountBlock{
+	background:#f0f0f0;
+	padding:0 60px 38px;
+}
+.account .accountBlock.imgunder{
+	margin-bottom:0px;
+}
+.account .toUnder{
+	display:block;
+	text-align:center;
+	margin-bottom:30px;
+}
+
+.account h2.redTitle{
+	margin:26px 0;
+	font-weight:bold;
+	color:#FF0000;
+	font-size:22px;
+}
+
+
+/**/
+ul.errorTxt{
+	color:#FF0000;
+	margin-bottom:15px;
+	font-size:14px;
+	font-weight:bold;
+}
+
+
+.profileTable{
+	width:960px;
+}
+.profileTable table{
+	margin:0 auto;
+}
+.profileTable table th{
+	background:#000;
+	border-bottom:2px solid #fff;
+	width:169px;
+	padding:25px 20px 20px ;
+	color:#fff;
+	font-size:14px;
+	
+	text-align:right;
+	vertical-align:top;
+}
+.profileTable.Confirmation table th{
+	padding-top:20px;
+}
+.profileTable table th .required{
+	background:url(/img/icon_necessary.png) 0 0 no-repeat;
+	text-indent:40px;
+	display:block;
+}
+.profileTable.ex table th{
+	width:275px;
+}
+.profileTable table th em{
+	font-style:normal;
+	font-size:87%;
+	font-weight:normal;
+}
+.profileTable table th .icon_nec,
+.profileTable table td .icon_nec{
+	padding-left:15px;
+	vertical-align:middle;
+}
+.profileTable table td{
+	background:#f0f0f0;
+	border-bottom:2px solid #fff;
+	padding:20px 0 20px 24px;
+	font-size:14px;
+	vertical-align:top;
+}
+.profileTable table td.verticalCenter{
+	vertical-align:middle;
+}
+.profileTable table td .skilltable{
+	margin:0 0px;
+}
+.profileTable table td .skilltable td{
+	border:none;
+	padding:5px;
+	vertical-align:middle;
+}
+.profileTable table td .skilltxt{
+	padding-top:15px;
+}
+.profileTable table  ul{
+	/* [disabled]padding:5px 0 5px 1em; */
+}
+.profileTable table li{
+	text-indent:-1em;
+}
+.profileTable table td.workplace{
+	vertical-align:top;
+	border-bottom:none;
+	padding-bottom:0px;
+}
+.profileTable table td input{
+	margin:0;
+	line-height:1;
+}
+.profileTable table td .txtInput1{
+	width:320px;
+	padding:5px;
+}
+.profileTable table td .txtInput2{
+	width:680px;
+	padding:5px;
+}
+.profileTable table td .txtInput3{
+	width:118px;
+	padding:5px;
+}
+.profileTable table td .txtInput4{
+	width:250px;
+	padding:5px;
+}
+.profileTable table td .txtInput5{
+	width:110px;
+	padding:3px;
+}
+.profileTable table .subTxt{
+	width:320px;
+	font-size:87%;
+	color:#000;
+	padding:20px 24px 20px 1em;
+}
+.profileTable table td .select1{
+	width:262px;
+	padding:3px 0;
+}
+.profileTable table td .select2{
+	width:70px;
+	padding:3px 0;
+}
+.profileTable table td .select3{
+	width:200px;
+	padding:3px 0;
+}
+.profileTable table td .select4{
+	width:50px;
+	padding:3px 0;
+}
+.accountTable table td .select5,
+.profileTable table td .select5{
+	width:150px;
+	padding:3px 0;
+}
+.profileTable table td.vrMore{
+	padding-top:20px;
+	padding-bottom:20px;
+}
+.profileTable table td.history{
+	padding-top:25px;
+}
+.profileTable table td.history label{
+	margin-right:50px;
+}
+.profileTable table td .pass1{
+	margin-bottom:10px;
+	padding-left:0px;
+}
+.profileTable table td.style5px{
+	padding-top:25px;
+}
+.accountBlock .accountTable table.actable td.style5px{
+	padding-top:27px;
+}
+.accountTable table.actable td span.margin01,
+.profileTable table td span.margin01{
+	padding-right:4px;
+}
+.accountTable table.actable td span.margin02,
+.profileTable table td span.margin02{
+	padding-left:4px;
+	padding-right:4px;
+}
+.accountTable table.actable td span.margin03,
+.profileTable table td span.margin03{
+	padding-left:4px;
+}
+.profileTable table td p.subTxt{
+	font-size:87%;
+}
+.profileTable table .period{
+	overflow:hidden;
+}
+.tit_days{
+	margin:5px 0px;
+	line-height:1;
+}
+.tit_days label{
+	margin-left:15px;
+}
+.tit_days label input{
+	vertical-align:top;
+}
+.inputArea{
+	margin:0 0 10px;
+}
+/*利用規約・プライバシーポリシー*/
+.ppBox {
+    background: none repeat scroll 0 0 #F0F0F0;
+    margin-bottom: 25px;
+    overflow: hidden;
+    padding: 12px 24px;
+}
+.ppBox p.lead {
+    margin-bottom: 10px;
+}
+.ppBox .kiyakuBox {
+    float: left;
+    margin: 0 24px 0 0;
+    width: 444px;
+	padding-top:20px;
+}
+.ppBox .privacyBox {
+    float: left;
+    width: 444px;
+	padding-top:20px;
+}
+.ppBox .kiyakuBox h2, .ppBox .privacyBox h2 {
+    background:#333;
+    color: #FFFFFF;
+    font-size: 117%;
+    font-weight: bold;
+    padding: 3px 0 3px 14px;
+}
+.ppBox .kiyakuTxt, .ppBox .privacyTxt {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #191919;
+    height: 116px;
+    overflow: auto;
+    padding: 8px;
+}
+.ppBox .pMark {
+    float: right;
+    padding: 7px 2px 0 0;
+    width: 100%;
+}
+.ppBox .pMark img {
+    float: right;
+}
+.ppBox .pMark .ppTxt {
+    float: right;
+    font-size: 87%;
+    padding: 21px 10px 0 0;
+    text-align: right;
+}
+.ppBox .ppBoxTxt{
+	font-size:12px;
+	padding-top:10px;
+	font-weight:bold;
+}
+a.toagree{
+	background:url(/img/btn_agree.gif) 0 0 no-repeat;
+}
+
+.btmCenterBtn{
+	margin-bottom:22px;
+	clear:both;
+}
+.btmCenterBtn.short{
+	margin-bottom:122px;
+}
+.btmCenterBtn .txt1{
+	text-align:center;
+	padding:30px 0 10px;
+}
+.btmCenterBtn .txt2 {
+    padding: 10px 0 10px;
+    text-align: center;
+}
+.btmCenterBtn .txt2.ex {
+	font-size:11px;
+}
+.btmCenterBtn .txt3{
+    text-align: center;
+	padding-top:10px;
+	padding-bottom: 10px;
+	font-size:18px;
+	font-weight:bold;
+}
+.btmCenterBtn .txt3.ex {
+	padding-top:35px;
+}
+.btmCenterBtn .btn1{
+	text-align:center;
+}
+.btmCenterBtn .btn1.double{
+	width:960px;
+	margin:0 auto;
+}
+.btmCenterBtn .btn1 .challengelater{
+	float:left;
+	padding-top:13px;
+}
+.btmCenterBtn .btn1 .challangeStart{
+	margin-left:-204px;
+}
+.btmCenterBtn .comingimg{
+	text-align:center;
+}
+.btmCenterBtn .comingtxt{
+	text-align:center;
+	font-size:14px;
+	font-weight:bold;
+}
+.btmCenterBtn .comingtxt.btn{
+	margin-bottom:30px;
+}
+.btmCenterBtn .comingtxt .txtred{
+	font-size:22px;
+	font-weight:bold;
+	color:#F00;
+}
+.btmCenterBtn .btn2{
+	width:532px;
+	margin:0 auto;
+}
+.btmCenterBtn .btn2 p{
+	display:inline-block;
+}
+.btmCenterBtn .btn2 p.btn01{
+	margin-right:16px;
+	float:left;
+}
+.btmCenterBtn .btn2 a{
+}
+.btmCenterBtn  p.btn01{
+	margin-right:16px;
+	float:left;
+}
+
+/**/
+.profileFin{
+	margin-bottom:30px;
+}
+.accountBlock .finMessage{
+	font-size:14px;
+	font-weight:bold;
+	margin:30px 0 20px;
+}
+.accountBlock .txtCenter{
+	font-size:14px;
+}
+
+.title{
+	background:#00ab95;
+	color:#ffffff;
+	overflow:hidden;
+	line-height:1;
+}
+.title h2{
+	font-size:18px;
+	padding:16px 0 16px 24px;
+}
+.title h2.upload{
+	font-size:16px;
+}
+.title .timelimit{
+	margin:9px 24px 9px 0;
+	background:url(/img/txt_timelimit.gif) 0 9px no-repeat #FFF;
+	height:30px;
+	font-size:30px;
+	color:#FF0000;
+	font-weight:bold;
+	padding:4px 10px 2px 174px;
+	text-align:right;
+}
+.title .timelimit span{
+	display:none;
+}
+.title.uproad{
+	background:#666666;
+}
+.title.uproad h2{
+	font-weight:bold;
+}
+.challangeBlock{
+	
+}
+.subject .subjectBlock{
+	background:#f0f0f0;
+	overflow:hidden;
+}
+.subject .subjectBlock.last{
+	margin-bottom:50px;
+}
+.subject .subjectBlock pre{
+	font-family:"メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size:14px;
+	margin:28px 60px;
+	/*自動改行*/
+	white-space: -moz-pre-wrap;  /* Mozilla */
+	white-space: -pre-wrap;
+	white-space: -o-pre-wrap;
+	white-space: pre-wrap;
+	word-wrap:   break-word;
+	overflow-x:auto;
+	padding-bottom:1px;
+}
+.subject .subjectBlock pre textarea{
+	width:700px;
+}
+.subject .subjectBlock .subjectInfotable table td pre textarea.read,
+.subject .subjectBlock pre textarea.read,
+#inline_content .subjectInfotable td pre textarea.read{
+	width:auto;
+	height:auto;
+}
+.subject .subjectBlock dl{
+	margin:28px 60px;
+}
+.subject .subjectBlock dt{
+	font-weight:bold;
+	margin-bottom:16px;
+	font-size:14px;
+}
+.subject .subjectBlock dd{
+	margin-bottom:16px;
+}
+
+.subject .challengefor{
+	padding-bottom:30px;
+}
+
+.subject .imeArea{
+	margin:0 60px 28px;
+}
+
+/*subject.html*/
+.subject .subjectBlock .subjectCassette{
+	width:915px;
+	margin:24px 0 12px 24px;
+	float:left;
+	background:#ffffff;
+}
+.subject .subjectBlock .cdata_Company{
+	margin-top:14px;
+	font-size:12px;
+}
+.subject .subjectBlock .subjectCassette.ex{
+	margin:8px 0px 25px 13px;
+}
+.subject .subjectBlock .subjectBlockInner01{
+	overflow:hidden;
+}
+.subject .subjectBlock .subjectBlockInner02{
+	overflow:hidden;
+}
+.subject .subjectBlock .challangeEnd .subjectCassette{
+	background:#ececec;
+	padding-bottom:15px;
+}
+.subject .subjectBlock .subjectCassette.cd_none{
+	margin-top:32px;
+}
+.subject .subjectBlock .subjectCassette .timelimit{
+	width:100%;
+	overflow:hidden;
+}
+.subject .subjectBlock .cassettePickup .timelimit{
+	background:#fffada;
+}
+.subject .subjectBlock .subjectCassette .timelimit p{
+	float:right;
+	overflow:hidden;
+}
+.subject .subjectBlock .subjectCassette .timelimit span.bold{
+	background:url(/img/icon_clock.png) 0 0 no-repeat;
+	padding:6px 5px 0 25px;
+	font-weight:bold;
+}
+.subject .subjectBlock .subjectCassette .timelimit span.red{
+	font-size:1.4em;
+	color:#F00;
+	font-weight:bold;
+}
+.subject .subjectBlock .subjectCassette h2{
+	display:block;
+	background:#000000;
+	color:#FFF;
+	font-size:16px;
+	vertical-align:middle;
+	padding:8px 0 8px 63px;
+	position:relative;
+	font-weight:bold;
+	width: 594px;
+	margin-left:24px;
+}
+.subject .subjectBlock .subjectCassette h2 img{
+	position:absolute;
+	top:-14px;
+	left:-18px;
+}
+.subject .subjectBlock .cassetteLeft{
+	margin-bottom:18px;
+}
+.subject .subjectBlock .cassetteRight02{
+	float:left;
+	margin:0 0 0 15px;
+	padding:17px 0 0;
+	width:690px;
+}
+.subject .subjectBlock .cassetteRight02 .cdata{
+	width:316px;
+	height:38px;
+	border-bottom:dashed 1px #CCCCCC;
+	float:left;
+	margin-left:24px;
+	vertical-align:middle;
+}
+.subject .subjectBlock .cassetteRight02 .cdata .cdata_title{
+	font-weight:bold;
+	font-size:13px;	
+	width:74px;
+	display:inline-block;
+	line-height:38px;
+}
+.subject .subjectBlock .cassetteRight02 .cdata .cdata_text_l{
+	font-size:16px;
+	font-weight:bold;
+	display:inline-block;
+	line-height:38px;
+}
+.subject .subjectBlock .cassetteRight02 .cdata .cdata_text{
+	font-size:12px;
+	font-weight:bold;
+	line-height:38px;
+	display:inline-block;
+}
+
+.subject .subjectBlock .cassetteRight02 .cdata_Text02{
+	float:left;
+	padding:3px 15px 7px 65px;
+	font-size:14px;
+	overflow:hidden;
+	width:578px;
+	border-bottom:dashed 1px #CCCCCC;
+	margin-left:22px;
+	min-height:0;
+}
+.subject .subjectBlock .cassetteRight02 .cassetteBottom{
+	padding-left:0px;
+}
+.subject .subjectBlock .cassetteRight02 .cdata_member,
+.subject .subjectBlock .cassetteRight02 .cdata_member_fin{
+	padding-top:8px;
+	font-size:18px;	
+}
+.subject .subjectBlock .cassetteRight02 .txtred{
+	color:#F00;
+	font-size:22px;
+	font-weight:bold;
+	line-height:38px;
+}
+.subject .subjectBlock .cassetteRight02 .txtgray{
+	color:#5E5E5E;
+	font-size:22px;
+	font-weight:bold;
+	line-height:38px;
+}
+.subject .subjectBlock .cassetteRight02 .cdata_member_fin span{
+	color:#5e5e5e;
+	font-size:38px;
+	font-weight:bold;
+}
+.subject .subjectBlock .subjectInfotable{
+	overflow:hidden;
+	margin:0 0 28px 24px;
+	width:915px;
+	background:#ffffff;
+}
+.subject .subjectBlock .subjectInfotable table{
+	margin:20px 13px 0;
+}
+.subject .subjectBlock .subjectInfotable table th{
+	padding-bottom:27px;
+    vertical-align: top;
+	text-align: left;
+    width: 215px;
+}
+.subject .subjectBlock .subjectInfotable table td{
+	padding-bottom:27px;
+    vertical-align:central;
+	text-align: left;
+	font-size:14px;
+}
+.subject .subjectBlock .subjectInfotable table td strong{
+	font-weight:normal;
+	font-size:14px;
+}
+.subject .subjectBlock .subjectInfotable table td b{
+	font-size:16px;
+}
+.subject .subjectBlock .subjectInfotable table td em{
+	font-size:12px;
+	font-style:normal;
+}
+.subject .subjectBlock .subjectInfotable table td ul{
+	padding-left:1em;
+}
+.subject .subjectBlock .subjectInfotable table td li{
+	text-indent:-1em;
+	padding-bottom:15px;
+}
+.subject .subjectBlock .subjectInfotable table td li.last{
+	padding-bottom:none;
+}
+.subject .subjectBlock .subjectInfotable table td .img_stars{
+	margin-bottom:5px;
+}
+.subject .subjectBlock .subjectInfotable table td pre{
+	padding:0;
+	margin:0;
+	overflow:hidden;
+}
+.subject .subjectBlock .subjectInfotable table td pre textarea{
+	width:650px;
+}
+.subject .subjectBlock .subjectInfotable strong{
+	font-size:16px;
+}
+
+.subject .subjectBlock dd{
+	margin-bottom:16px;
+	font-size:14px;
+}
+
+.adminRequest {
+    border: 4px solid #00AB95;
+    margin:15px 0 0;
+    padding: 15px 20px;
+}
+.adminRequest.coming{
+	margin-bottom:33px;
+}
+.adminRequest h3 {
+    margin-bottom: 15px;
+}
+.adminRequest ol {
+    margin-left: 16px;
+}
+.adminRequest ol li {
+    margin-bottom: 5px;
+}
+.adminRequest ol li strong{
+	font-weight:normal;
+}
+.subject .updateBlock{
+	background:#00ab95;
+	width:380px;
+	margin:0 auto 10px;
+	padding:16px 90px;
+}
+.subject .updateBlock .updatefile{
+	width:300px;
+}
+.subject .subjectBlock02{
+	margin:16px auto;
+	width:660px;
+}
+.subject .subjectBlock02 .txt{
+	margin-left:95px;
+	text-indent:-1em;
+}
+.subject .subjectBlock textarea{
+	width:942px;
+	height:400px;
+	padding:8px;
+	background:#FFF;
+	border:1px solid #7f9db9;
+}
+
+.account .lostpassBlock,
+.lostpass .lostpassBlock{
+	padding-bottom:50px;
+	width:100%;
+	margin:0 auto;
+}
+.lostpass p.txt1{
+}
+.account .passinfo,
+.lostpass .passinfo{
+	margin:20px 0 30px 0;
+	overflow:hidden;
+}
+.account .passinfo dt,
+.lostpass .passinfo dt{
+	float:left;
+	padding-right:15px;
+}
+.account .passinfo dd{
+	padding:15px 0px 0px;
+	font-size:14px;
+	font-weight:bold;
+	overflow:hidden;
+}
+.lostpass .passinfo dd{
+	padding-bottom:3px;
+	font-size:14px;
+	font-weight:bold;
+	overflow:hidden;
+}
+.account .passinfo dd.subtxt,
+.lostpass .passinfo dd.subtxt{
+	font-size:12px;
+	font-weight:normal;
+	padding-left:1em;
+	text-indent:-1em;
+}
+.account .GrayMsg, 
+.lostpass .GrayMsg{
+	padding:20px 60px 30px;
+	background:#f0f0f0;
+	font-size:14px;
+}
+.account .leave p,
+.lostpass .GrayMsg.leave p{
+	margin-bottom:20px;
+	font-size:14px;
+}
+.account .leave p.info,
+.lostpass .GrayMsg.leave p.info{
+	padding-left:1em;
+	text-indent:-1em;
+}
+
+.lostpass .GrayMsg.leave p.info{
+	margin-left:15px;
+}
+.account p.txtlarge,
+.lostpass .GrayMsg p.txtlarge{
+	font-size:14px;
+	padding-bottom:10px;
+	font-weight:bold;
+} 
+.lostpass .bg_notfound{
+	padding:60px 60px 0;
+	background:url(/img/bg_notfound.gif) 0 0 no-repeat;
+	font-size:14px;
+	height:173px;
+	font-weight:bold;
+	line-height:1.5;
+}
+.lostpass .bg_maintenance{
+	padding:40px 60px 0;
+	background:url(/img/bg_notfound.gif) 0 0 no-repeat;
+	font-size:14px;
+	height:193px;
+	font-weight:bold;
+	line-height:1.5;
+}
+ul.text01{
+	font-size:12px;
+}
+ul.text01 ul{
+	display:block;
+	margin-left:1em;
+}
+
+.leaveArea{
+	border:solid 2px #00ab95;
+	background:#FFFFFF;
+	padding:20px;
+}
+.icon_attention{
+	float:left;
+}
+.attention{
+	font-weight:bold;
+	font-size:14px;
+	color:#FF0000;
+	margin-bottom:20px;
+	padding-left:20px;
+}
+
+/*　mypage系　*/
+.mypageBlock .mypageMenu{
+	width:306px;
+	float:left;
+	background:#f0f0f0;
+	margin-right:38px;
+	margin-bottom:22px;
+}
+.mypageBlock .menuName{
+	width:246px;
+	background:#000000;
+	color:#FFFFFF;
+	margin:20px 0 20px 20px;
+	height:92px;
+	padding:20px 10px 0 10px;
+}
+.mypageBlock .menuName th{
+	display:block;
+	float:left;
+}
+.mypageBlock .menuName .photo{
+	position:relative;
+	overflow:hidden;
+	float:left;
+}
+.mypageBlock .menuName .plus{
+	position:absolute;
+	right:10px;
+	bottom:5px;
+}
+.mypageBlock .menuName td{
+	word-break:break-all;
+	word-wrap:break-word;
+	width:160px;
+}
+.mypageBlock .menuName td span{
+    background: url("/img/lin_kv.png");
+	background-repeat:repeat-x;
+	background-position: 0 100%;
+	/border-bottom:#096 dotted 2px;
+	/background:none;
+    padding:0 0 1px;
+    padding:0 0 0px\9;
+	line-height:22px;
+	font-weight:bold;
+	word-break:break-all;
+	word-wrap:break-word;
+	display:inline;
+	margin-top:0px;
+}
+.mypageBlock .menuName td span.keisho{
+	display:inline-block;
+	padding:0;
+}
+.mypageBlock .menuBlock{
+	width:266px;
+	margin:20px 0 20px 20px;
+}
+.mypageBlock .menuBlock dt{
+	background:#000000;
+	color:#FFFFFF;
+	padding:10px 15px;
+	font-weight:bold;
+	font-size:14px;
+}
+.mypageBlock .menuBlock dd{
+	background:#FFFFFF;
+	padding:10px;
+}
+.mypageBlock .menuBlock .badge td{
+	vertical-align:central;
+	padding:5px 0;
+}
+.mypageBlock .menuBlock .badge td .box{
+	height:70px;
+	width:70px;
+	border:#999999 dotted 1px;
+	margin:6px 10px 4px 0;
+}
+.mypageBlock .menuBlock .badge td.last .box{
+	margin-right:0;
+}
+.mypageBlock .profMaturity{
+	background:url(/img/bg_gauge.gif) 0 0 no-repeat;
+	height:30px;
+	margin-bottom:15px;
+	position:relative;
+	overflow:hidden;
+}
+.mypageBlock .profMaturity.all{
+	background:#00ab95;
+}
+.mypageBlock .profMaturity .gaugeTxt{
+	color:#FFFFFF;
+	font-weight:bold;
+	font-size:18px;
+	text-align:center;
+	background:url(/img/gauge.png) 100% 0 no-repeat;
+	height:30px;
+	display:block;
+	width:251px;
+	line-height:1;
+	padding-top:7px;
+}
+
+.mypageBlock .menuBlock img{
+	margin-right:16px;
+}
+.mypageBlock .menuBlock li{
+	margin-bottom:10px;
+	font-size:14px;
+}
+
+.mypageContents{
+	float:left;
+	width:607px;
+}
+.mypageContents .mypageTab{
+	overflow:hidden;
+	margin:25px 0 12px;
+}
+.mypageContents .mypageTab li{
+	float:left;
+	margin-right:16px;
+}
+.mypageContents .mypageTab li.last{
+	margin-right:0;
+}
+.mypageContents .mypageTimeline{
+	
+}
+.mypageContents .timelineBlock{
+	clear:both;
+	padding:12px 0;
+	border-top: #d6d6d6 solid 1px;
+	position:relative;
+	float:left;
+	width:100%;
+}
+.mypageContents .timelineBlock .iconTL{
+	width:82px;
+	float:left;
+}
+.mypageContents .timelineBlock .innerTL{
+	float:left;
+	width:500px;
+}
+.mypageContents .timelineBlock .innerTL .btn{
+	margin-top:10px;
+}
+.mypageContents .timelineBlock .innerTL p.txt{
+	font-size:14px;
+}
+.mypageContents .timelineBlock .dateTL{
+	height:20px;
+	position:absolute;
+	background:url(/img/ico_calender.gif) 0 0 no-repeat;
+	bottom:20px;
+	right:0px;
+	padding-left:24px;
+}
+.mypageContents .timelineBlock .cassetteBottom{
+	padding:20px 0 10px 15px;
+}
+.mypageContents .timelineBlock .cassette{
+	margin-left:36px;
+}
+
+.mypageContents .timelineBlock02{
+	position:relative;
+	clear:both;
+	padding:0 0 15px;
+	border-top: #d6d6d6 solid 1px;
+	margin-bottom:22px;
+	float:left;
+	width:100%;
+}
+.mypageContents .timelineBlock02 .titTimeline{
+	background:#f0f0f0;
+	padding:12px 12px;
+	font-size:14px;
+	font-weight:bold;
+}
+.mypageContents .timelineBlock02 .titTimeline img{
+	padding-right:3px;
+}
+.mypageContents .timelineBlock02 .titDate{
+	background:#f0f0f0;
+	padding:12px 12px;
+	font-size:14px;
+}
+.mypageContents .timelineBlock02 .titDate img{
+	padding-right:3px;
+}
+.mypageContents .timelineBlock02 .dirTimeline{
+	text-align:center;
+	font-size:14px;
+	font-weight:bold;
+	padding-top:40px;
+}
+.titDate a:link,
+.titDate a:visited{ color:#000000; }
+.titDate a:hover,
+.titDate a:active{ color:#000000; }
+
+.mypageContents .timelineBlock02 .cassette{
+	margin:5px 0 0 75px;
+}
+.mypageContents .mypageFeedback{
+	margin-bottom:40px;
+	font-size:14px;
+	
+}
+.mypageContents .mypageFeedback h2{
+	display:block;
+	background:#000000;
+	color:#FFF;
+	font-weight:bold;
+	font-size:14px;
+	padding-left:75px;
+	vertical-align:middle;
+	padding:8px 0 8px 75px;
+	position:relative;
+	width:527px;
+	margin:35px 0 0 10px;
+}
+.mypageContents .mypageFeedback h2 img{
+	position:absolute;
+	top:-20px;
+	left:-8px;
+}
+.mypageContents .mypageFeedback .mypageFeedbackInner{
+	margin-left:35px;
+}
+.mypageContents .mypageFeedback .mypageFeedbackInner .txt{
+	margin:28px 0 20px;
+}
+.mypageContents .mypageFeedback .mypageFeedbackInner .comInfo_l{
+	float:left;
+	overflow:hidden;
+	margin-bottom:7px;
+}
+.mypageContents .mypageFeedback .mypageFeedbackInner .comInfo_r{
+	overflow:hidden;
+	padding-left:15px;
+}
+.mypageContents .mypageFeedback .mypageFeedbackInner .comInfo_r dt{
+	font-weight:bold;
+	padding-bottom:5px;
+}
+.mypageContents .mypageFeedback .mypageFeedbackInner .comInfo_r dd{
+	padding-bottom:6px;
+}
+.mypageContents .mypageFeedback .mypageFeedbackInner .fbEvaluation{
+	clear:both;
+}
+.mypageContents .mypageFeedback .mypageFeedbackInner .fbEvaluation{
+	overflow:hidden;
+	background:url(/img/bg_feedback_02.gif) 0 0 repeat-y;
+	padding:5px 35px 10px 15px;
+}
+.mypageContents .mypageFeedback .mypageFeedbackInner .fbEvaluation pre{
+	white-space: -moz-pre-wrap;  /* Mozilla */
+	white-space: -pre-wrap;
+	white-space: -o-pre-wrap;
+	white-space: pre-wrap;
+	word-wrap:   break-word;
+}
+.mypageContents .mypageFeedback .mypageFeedbackInner .fbEvaluation a{
+	color: #00AB95;
+    text-decoration: underline;
+}
+.mypageContents .mypageFeedback .mypageFeedbackInner .fbEvaluation a:hover{
+	color:#F96400;
+}
+.mypageContents .mypageFeedback .mypageFeedbackInner .fbEvaluation textarea{
+	width:100%;
+	height:300px;
+}
+.mypageContents .timelineBlock .innerTL a,
+.mypageContents .timelineBlock .innerTL a:hover{
+	color:#333;
+}
+
+/* account */
+.mypassBlock{
+	margin-bottom:30px;
+}
+.accountTable table{
+}
+.accountTable table.skilltable{
+	width:350px;
+}
+.accountBlock .accountTable table table.skilltable td{
+	vertical-align:middle;
+}
+.accountTable table th{
+	background:#f0f0f0;
+	width:169px;
+	padding:13px 24px;
+	color:#000000;
+	text-align:left;
+	cellpadding:1px;
+	vertical-align:top;
+}
+.accountTable table th em,
+.accountTable table td em,
+.profileTable table th em,
+.profileTable table td em{
+	font-style:normal;
+	font-size:87%;
+	font-weight:normal;
+}
+.accountTable table th .icon_nec,
+.accountTable table td .icon_nec{
+	padding-left:3px;
+	vertical-align:middle;
+}
+.accountTable table td{
+	border-bottom:2px solid #fff;
+	padding:11px 0 11px 24px;
+}
+.accountTable table td ul{
+	padding-top:10px;
+}
+.accountTable02 table{
+	margin:0 auto;
+	border-top:#f0f0f0 solid 2px;
+	border-bottom:#f0f0f0 solid 2px;
+	margin:40px auto;
+}
+.accountTable02 table th{
+	background:#f0f0f0;
+	border-bottom:2px solid #fff;
+	border-top:2px solid #fff;
+	width:169px;
+	padding:13px 24px;
+	color:#000000;
+	text-align:left;
+	cellpadding:1px;
+	vertical-align:top;
+}
+.accountTable02 table td{
+	border-bottom:2px solid #fff;
+	padding:11px 24px;
+}
+.accountTable02 table td ul{
+	padding-top:5px;
+}
+.accountTable02 table td .txtInput1{
+	width:180px;
+	padding:3px;
+}
+.accountTable02 table td .remindpass{
+	margin-top:10px;
+	text-align:center;
+}
+.lostpassBlock .passinfo,
+.accountBlock .passinfo{
+	margin:0 auto 30px;
+}
+.lostpassBlock .passinfo th,
+.accountBlock .passinfo th{
+	float:left;
+	padding-right:15px;
+}
+.lostpassBlock .passinfo td,
+.accountBlock .passinfo td{
+	padding-bottom:3px;
+	font-size:14px;
+	font-weight:bold;
+}
+.lostpassBlock .passinfo p.subtxt,
+.accountBlock .passinfo p.subtxt{
+	font-size:12px;
+	font-weight:normal;
+	padding-left:1em;
+	text-indent:-1em;
+}
+
+.accountTable a:link,
+.accountTable a:visited,
+.accountTable02 a:link,
+.accountTable02 a:visited{ text-decoration:underline; color:#00ab95; }
+.accountTable a:hover,
+.accountTable a:active,
+.accountTable02 a:hover,
+.accountTable02 a:active{ text-decoration:underline; color:#f96400; }
+
+.accountContents{
+	float:left;
+	overflow:hidden;
+	width:607px;
+}
+.accountBlock{
+	overflow:hidden;
+}
+.accountBlock.minmenu{
+	min-height:380px;
+}
+.accountBlock .accountMenuWrapper{
+	float:left;
+	padding-bottom:22px;
+}
+.accountBlock .txtaccount{
+	font-size:14px;
+}
+.accountBlock .accountMenu{
+	width:314px;
+	float:left;
+	background:#f0f0f0;
+	margin-right:38px;
+	position:relative;
+}
+.accountBlock .menuBlock{
+	width:266px;
+	margin:19px 0 20px 20px;
+	font-size:14px;
+}
+.accountBlock .accountMenu li{
+	background:#FFFFFF;
+	padding:12px;
+	border-bottom:#f0f0f0 solid 1px;
+}
+.accountBlock .accountMenu li.act{
+	background:#000000;
+	color:#FFFFFF;
+	font-weight:bold;
+	font-size:16px;
+}
+.accountBlock .accountContents{
+	float:left;
+}
+.accountBlock .accountTable{
+	width:600px;
+	margin-bottom:50px;
+}
+.accountBlock .accountTable.ex{
+	width:100%;
+	margin-bottom:50px;
+}
+.accountBlock .accountTable.sns{
+	margin-bottom:22px;
+}
+.accountTable table.actable{
+	margin:0 auto;
+	background:url(/img/bg_accounttable.gif) 0 100% repeat-x;
+	padding-bottom:5px;
+	_padding-bottom:10px;
+}
+.accountBlock .accountTable table.none{
+	background:none;
+}
+.accountBlock .accountTable table tr{
+}
+.accountTable  table.actable th{
+	text-align:right;
+	background:url(/img/bg_accounttable.gif) 0 0 repeat-x #f0f0f0;
+	font-weight:bold;
+	font-size:14px;
+	width:155px;
+	padding:27px 20px 18px;
+}
+.accountTable.ex table.actable th{
+	width:275px;
+}
+.accountTable table.actable td{
+	background:url(/img/bg_accounttable.gif) 0 0 repeat-x;
+	padding:22px 5px 16px 24px;
+	font-size:14px;
+	vertical-align:top;
+}
+.accountTable table.actable td.none{
+	padding:0 0 0 24px;
+}
+.accountTable table.actable th .required{
+	background:url(/img/icon_necessary.png) 0 0 no-repeat;
+	padding-left:40px;
+	display:block;
+	height:19px;
+}
+.accountTable table th.error{
+	background-color:#ff9999;
+}
+.accountTable table.actable td p.small{
+	padding-top:8px;
+	font-size:12px;
+}
+.account_fin{
+	width:600px;
+	text-align:center;
+	background:url(/img/bg_accounttable.gif) 0 0 repeat-x;
+	font-weight:bold;
+	font-size:14px;
+	padding:30px 20px 30px 0;
+	margin-bottom:50px;
+}
+.account_wrapper_fin{
+	background:url(/img/bg_accounttable.gif) 0 100% repeat-x;
+}
+.mainContent .redtxt{
+	font-weight:bold;
+	color:#FF0000;
+}
+.mainContent .redtxt.font14{
+	font-size:14px;
+}
+.accountBlock .accountTable ul{
+	padding-left:1em;
+}
+.accountBlock .accountTable li{
+	text-indent:-1em;
+	font-size:12px;
+}
+.accountTable table td .txtInput1{
+	width:280px;
+	padding:5px;
+}
+.accountTable table td .txtInput2{
+	width:110px;
+	padding:5px;
+}
+.accountTable table td .txtInput3{
+	width:150px;
+	padding:5px;
+}
+.accountTable table td .txtInput3_2{
+	width:145px;
+	padding:5px;
+}
+.accountTable table td .txtInput4{
+	width:80px;
+	padding:5px;
+}
+.accountTable table td .txtInput4_2{
+	width:70px;
+	padding:5px;
+}
+.accountTable table td .txtInput5{
+	width:200px;
+	padding:5px;
+}
+.accountTable table td .select1{
+	width:262px;
+	padding:3px 0;
+}
+.accountTable table td .select2{
+	width:80px;
+	padding:3px 0;
+}
+.accountTable table td .select4{
+	width:55px;
+	padding:3px 0;
+}
+.accountTable table td .profLeft,
+.accountTable table td .profRight{
+	float:left;
+	overflow:hidden;
+}
+.accountTable table td .profRight{
+	padding-left:10px;
+}
+.accountBlock .accountTable .subtxt{
+	float:right;
+	width:220px;
+	font-size:10px;
+}
+.accountBlock .tomypage{
+	width:100px;
+	height:22px;
+	position:absolute;
+	bottom:-25px;
+	right:18px;
+	font-weight:bold;
+}
+.accountBlock .tomypage a{
+	background:#00ab95;
+	color:#FFFFFF;
+	padding:3px 15px;
+}
+.accountBlock .tomypage a:hover{
+	background:#7bddd8;
+}
+.accountBlock .accountTable table td table.history{
+	background:none;
+	
+}
+
+.accountBlock .accountTable table td table.history ul{
+	clear:both;
+}
+.accountBlock .accountTable table td table.history td{
+	background:none;
+	text-align:left;
+	padding:0 0 20px;
+}
+.accountBlock .accountTable table td table.history td.last{
+	padding:0;
+}
+
+.accountBlock .accountTable ul.pass{
+	padding-top:5px;
+}
+.accountBlock .accountTable ul.pass.ex{
+	padding-top:0px;
+}
+.accountBlock .accountTable ul.pass li,
+.profileTable ul.pass li{
+	padding-bottom:10px;
+}
+.accountTable table td p.subTxt{
+	margin-top:15px;
+	margin-right:10px;
+	font-size:87%;
+}
+.accountTable table td li.subTxt{
+	margin-right:10px;
+	font-size:87%;
+}
+.accountBlock .addHistory{
+	padding-top:15px;
+	font-size:14px;
+}
+.accountBlock .addHistory img{
+	padding-right:5px;
+}
+
+
+.accountTable.sns td{
+	padding:11px 0 11px 0px;
+}
+.accountTable.sns td p{
+	font-size:12px;
+}
+.accountTable.sns td .snsImg{
+	overflow:hidden;
+	float:left;
+}
+.accountTable.sns td .connectBtn{
+	overflow:hidden;
+	float:right;
+}
+.accountTable.sns td .agree{
+	clear:both;
+	padding:13px 0 0 71px;
+	text-indent:-1em;
+}
+.accountTable.sns td .item{
+	clear:both;
+}
+.accountTable.sns td .getItemsImg{
+	float:left;
+	padding:13px 0 13px 57px;
+}
+.accountTable.sns td .getItemsTxt{
+	overflow:hidden;
+	padding-left:10px;
+	padding-top:13px;
+}
+
+
+.accountTable .selectlocal select{
+	margin-bottom:15px;
+	margin-right:15px;
+}
+.accountTable .selectlocal select.last{
+	margin-bottom:0px;
+}
+.accountTable .tit_skil{
+	padding-bottom:10px;
+}
+.accountBlock .accountTable table.actable table th,
+.accountBlock .accountTable table.actable table td{
+	background:none;
+	padding:5px;
+}
+.accountBlock .accountTable table.actable table th{
+	font-weight:bold;
+}
+.accountBlock .accountTable table.actable table td img{
+	float:left;
+	padding-right:5px;
+}
+.accountBlock .accountTable table.actable table td .required{
+	vertical-align:central;
+}
+.accountBlock .accountTable table.actable table td .subTxt{
+	font-weight:normal;
+	padding-left:1em;
+	text-indent:-1em;
+	margin-top:3px;
+	clear:both;
+}
+.accountBlock .accountTable table.actable table td.number{
+	background:url(/img/bg_skill.GIF) 50% 50% no-repeat;
+	width:25px;
+	text-align:center;
+	color:#FFFFFF;
+	padding:0px;
+}
+.accountBlock .accountTable table.actable table td.txtInput{
+	padding-left:15px;
+}
+.accountBlock .accountTable table.actable label{
+	margin-right:30px;
+}
+.icon_nes{
+	display:block;
+	overflow:hidden;
+	padding-top:4px;
+	padding-left:4px;
+}
+.accountBlock .accountTable .delete{
+	margin-top:16px;
+}
+.accountBlock .accountTable .delete a{
+	float:right;
+}
+.accountBlock .accountTable .delete img{
+	margin-top:2px;
+}
+.accountBlock .accountTable .delete a:link,
+.accountBlock .accountTable .delete a:visited{color:#000000; }
+.accountBlock .accountTable .delete a:hover,
+.accountBlock .accountTable .delete a:active{color:#000000; }
+
+/*customer*/
+
+.mainContent .pageTitle h1 em{
+	font-size:20px;
+	font-style:normal;
+	
+}
+
+
+.customerBlock{
+}
+.customerBlock .infoTxt{
+	padding-left:24px;
+	margin-bottom:24px;
+}
+.customerBlock .blocklist li{
+	margin-bottom:15px;
+}
+.customerBlock .cBlockheadWrapper{
+	background:url(/img/bg_fbBlock_01.gif)0 0 no-repeat;
+	padding-top:4px;
+}
+.customerBlock .cBlockhead{
+	background:url(/img/bg_fbBlock_02.gif)0 0 repeat-y;
+}
+.customerBlock .cBlockbottomWrapper{
+	background:url(/img/bg_fbBlock_03.gif)0 100% no-repeat;
+	padding-bottom:6px;
+}
+.customerBlock .cBlockbottom{
+	background:url(/img/bg_fbBlock_02.gif)0 0 repeat-y;
+	padding:0 100px 4px;
+}
+.customerBlock .commentInner{
+	background:url(/img/bg_comment02.gif) 0 0 repeat-y;
+	width:675px;
+	padding:10px;
+}
+.customerBlock .cBlockhead th{
+	width:80px;
+	padding-left:14px;
+}
+.customerBlock .cBlockhead td{
+}
+.customerBlock .cBlockhead h2{
+	font-size:18px;
+	font-weight:bold;
+}
+.customerBlock .cBlockhead table{
+	padding:20px 0 15px;
+}
+.customerBlock .cBlockhead .acBtn{
+	width:50px;
+	padding-right:20px;
+	background:url(/img/btn_goup.gif) 50% 50% no-repeat;
+}
+.customerBlock .cBlockhead.open .acBtn{
+	background:url(/img/btn_godown.gif) 50% 50% no-repeat;
+}
+
+.customerBlock .cBlockbottom.fullwidth{
+	padding:10px 25px;
+}
+
+.customerBlock .cBlockbottom .linkArea{
+	background:#00ab95;
+	padding:10px;
+	color:#ffffff;
+	font-weight:bold;
+	font-size:1.2em;
+}
+.customerBlock .cBlockbottom .linkArea a:link,
+.customerBlock .cBlockbottom .linkArea a:visited{color:#ffffff; }
+.customerBlock .cBlockbottom .linkArea a:hover,
+.customerBlock .cBlockbottom .linkArea a:active{color:#ffffff; }
+
+.customerBlock .cBlockbottom .txt{
+	padding:15px 0 25px;
+}
+.customerBlock .cBlockbottom .centerBtn{
+	text-align:center;
+	padding:15px 0 27px;
+}
+.customerBlock .cBlockbottom .membertable{
+	padding:5px 0 10px;
+}
+
+.customerBlock .cBlockbottom .membertable th{
+	background:url(/img/bg_accounttable.gif) 0 0 repeat-x #f0f0f0;
+	padding:22px 0px 10px;
+}
+.customerBlock .cBlockbottom .membertable td{
+	background:url(/img/bg_accounttable.gif) 0 0 repeat-x;
+	padding:10px;
+	vertical-align:middle;
+	text-align:center;
+}
+.customerBlock .cBlockbottom .membertable td.comment,
+.customerBlock .cBlockbottom .membertable td.empty{
+	background:none;
+	padding:0px;
+	height:0px;
+}
+.customerBlock .cBlockbottom .membertable td.comment{
+	padding:0 0 10px 20px;
+	text-align:left;
+}
+
+.customerBlock .cBlockbottom .membertable .membertable_no{ width:24px; }
+.customerBlock .cBlockbottom .membertable .membertable_name{ width:131px; }
+.customerBlock .cBlockbottom .membertable .membertable_date{ width:154px; }
+.customerBlock .cBlockbottom .membertable .membertable_fb{ width:126px; }
+.customerBlock .cBlockbottom .membertable .membertable_meet{ width:138px; }
+.customerBlock .cBlockbottom .membertable .membertable_memo{ width:200px; }
+
+
+.customerBlock .cBlockbottom .membertable td.membertable_name { text-align:left; font-weight:bold; }
+.customerBlock .cBlockbottom .membertable td.membertable_memo { text-align:left; }
+
+.customerBlock .cBlockbottom .membertable .red{
+	color:#F00;
+	font-size:1em;
+}
+.customerBlock .cBlockhead a:link,
+.customerBlock .cBlockhead a:visited,
+.mypageFeedback a:link,
+.mypageFeedback a:visited{ text-decoration:none; color:#000000; }
+.customerBlock .cBlockhead a:hover,
+.customerBlock .cBlockhead a:active,
+.mypageFeedback a:hover,
+.mypageFeedback a:active{ text-decoration:none; color:#000000;}
+.customerBlock .cBlockbottom .membertable th a:link,
+.customerBlock .cBlockbottom .membertable th a:visited{color:#000000; font-size:0.9em; }
+.customerBlock .cBlockbottom .membertable th a:hover,
+.customerBlock .cBlockbottom .membertable th a:active{color:#000000; font-size:0.9em; }
+
+.customerBlock .cBlockbottom .membertable input{
+	margin:0 5px;
+}
+.customerBlock .cBlockbottom .membertable td .textfield1{
+	width:120px;
+	padding:3px;
+}
+
+.mypageFeedback h2 a:link,
+.mypageFeedback h2 a:visited{ text-decoration:none; color:#ffffff; }
+.mypageFeedback h2 a:hover,
+.mypageFeedback h2 a:active{ text-decoration:none; color:#ffffff;}
+
+
+/* エンジニア詳細画面 */
+
+.engineerLeft{
+	width:645px;
+	float:left;
+}
+.engineerRight{
+	width:315px;
+	float:left;
+}
+.engineerBlock .personList{
+	background:#f0f0f0;
+	width:559px;
+	padding:24px;
+}
+.engineerBlock .personList li{
+	background:url(/img/bg_personline.gif) 0 100% repeat-x #FFFFFF;
+	width:559px;
+}
+.engineerBlock .personList li.last{
+	background:#FFFFFF;
+}
+.engineerBlock .personList .person{
+	overflow:hidden;
+	padding:15px;
+}
+.engineerBlock .personList .personLeft{
+	width:190px;
+	float:left;
+}
+.engineerBlock .personList .personRight{
+	width:335px;
+	float:left;
+}
+
+.engineerBlock .cdata_name{
+	padding-top:10px;
+	font-size:16px;
+	min-height:60px;
+	font-weight:bold;
+	min-height:80px;
+}
+
+
+.engineerBlock a:link,
+.engineerBlock a:visited{ text-decoration:none; color:#000000; }
+.engineerMenu a:link,
+.engineerMenu a:visited{ text-decoration:none; color:#000000; }
+.engineerBlock a:hover,
+.engineerBlock a:active{ text-decoration:none; color:#666666; }
+.engineerMenu a:hover,
+.engineerMenu a:active{ text-decoration:none; color:#666666; }
+.engineerMenu{
+	width:296px;
+	margin-bottom:20px;
+}
+.engineerMenu .title{
+	height:14px;
+	padding:12px;
+	font-size:15px;
+	font-weight:bold;
+}
+.engineertimeline{
+	background:#f0f0f0;
+	padding:15px;
+}
+.engineertimeline li{
+	background:url(/img/bg_personline02.gif) 0 100% no-repeat #FFFFFF;
+	padding:15px;
+	
+}
+.engineertimeline li.last{
+	background:#FFFFFF;
+}
+
+.engineerMenu .dateTL{
+	padding-bottom:5px;
+}
+.engineerMenu .engineerCompany{
+	background:#f0f0f0;
+	padding:15px;
+}
+.engineerMenu .engineerCompany li{
+	background:#FFFFFF;
+	padding-top:15px;
+	text-align:center;
+}
+.engineerMenu .engineerCompany li.last{
+	padding-bottom:30px;
+}
+
+
+.GrayMsg{
+	background:#f0f0f0;
+	padding:25px;
+	margin-bottom:20px;
+}
+.GrayMsg:after {
+  display:block;
+  clear:both;
+} 
+.GrayMsg {zoom:1;} /* clearfix IE6, 7 */
+.GrayMsg:after {content:"";} /* clearfix */
+
+.engineerDetail{
+	background:#FFFFFF;
+	padding:15px;
+	float:left;
+}
+.engineerDetail .detailImage{
+	height:100%;
+	float:left;
+}
+.detailBlock {
+	padding-left:15px;
+	float:left;
+}
+.detailBlock .detailLeft{
+	float:left;
+	width:350px;
+	margin-right:10px;
+}
+.detailBlock .detailLeft h1{
+	padding-top:10px;
+	font-size:16px;
+	font-weight:bold;
+	
+}
+.detailBlock .detailLeft h2{
+	padding-top:10px;
+	font-size:16px;
+	font-weight:bold;
+	
+}
+.detailBlock .detailLeft .subTxt{
+	margin-top:10px;
+	font-size:12px;
+	
+}
+.detailBlock .detailRight{
+	float:right;
+	padding:35px 0 15px 20px;
+}
+.detailBlock .detailBottom{
+	padding-top:10px;
+	clear:both;
+	width:687px;
+}
+.detailBlock .detailBottom .snsbuttons li{
+	float:left;
+	margin-right:4px;
+	margin-top:7px;
+}
+
+.mainContent .detailBottom .blogBtn{
+	float:right;
+}
+
+.cdata_member.ex span.challenger{
+	display:block;
+	float:left;
+	font-size:12px;
+	color:#000;
+	vertical-align:bottom;
+	padding:9px 3px 0 0;
+}
+
+.challengeerr{
+	margin-bottom:10px;
+}
+.challengeerr p{
+	text-align:center;
+}
+
+/* お知らせ画面 */
+
+.infoBlock .InfomationList{
+	background:#f0f0f0;
+	width:912px;
+	padding:24px;
+}
+.infoBlock .InfomationList li{
+	background:url(/img/bg_infomationline.gif) 0 100% no-repeat #FFFFFF;
+	width:912px;
+}
+.infoBlock .InfomationList li.last{
+	background:#FFFFFF;
+}
+.infoBlock .InfomationList .info{
+	overflow:hidden;
+	padding:15px;
+	font-size:14px;
+}
+.infoBlock .InfomationList .infocontents{
+	padding:30px 30px 50px;
+	background:#FFFFFF;
+	font-size:14px;
+	line-height:1.6;
+}
+.infoBlock .InfomationList .infocontents date{
+	margin-bottom:50px;
+}
+.infoBlock .InfomationList .infocontents p{
+	margin-bottom:20px;
+}
+.infoBlock .InfomationList .infoLeft{
+	width:150px;
+	float:left;
+	padding-left:20px;
+}
+.infoBlock .InfomationList .infoRight{
+	width:652px;
+	float:left;
+}
+.infoBlock .InfomationList .infoRight dt{
+	font-weight:bold;
+	margin-bottom:5px;
+}
+
+/* WP用パンクズ追加 */
+.bread{
+	padding:6px 0 15px;
+	font-size:14px;
+}
+
+/* 規約事項 */
+.kiyaku,
+.privacy{
+	margin:20px 0;
+	font-size:14px;
+}
+.kiyaku p{
+	padding:1em 0 5px 0;
+}
+.kiyaku p.spec{
+	padding:1em 0 5px 1em;
+	text-indent:-1em;
+}
+.kiyaku ol li{
+	margin-left:2em;
+	padding-bottom:8px;
+}
+.kiyaku ul{
+	padding-bottom:8px;
+}
+.kiyaku li.spec{
+	padding:0 0 5px 30px;
+	font-size:14px;
+}
+.privacy p{
+	padding:1em 0 5px;
+}
+.privacy .hoshin{
+	padding-top:1em;
+}
+.privacy .hoshin li{
+	text-indent:-4em;
+	padding-left:4em;
+}
+.privacy .ptitle{
+	font-size:20px;
+	font-weight:bold;
+	padding:1em 0 5px;
+}
+.privacy .ptitle2{
+	font-size:20px;
+	font-weight:bold;
+	padding:2em 0 5px;
+}
+.privacy .txtright{
+	text-align:right;
+}
+.privacy li{
+	text-indent:-1em;
+	padding-left:1em;
+}
+.privacy dt{
+	padding-top:1em;
+}
+.privacy dd{
+	padding-left:2em;
+}
+.kiyaku h2{
+	font-size:20px;
+}
+.kiyaku h3,
+.privacy h3{
+	font-weight:bold;
+	padding:1em 0 5px;
+}
+
+
+
+
+
+
+/* 1018追加 */
+.skilltag{
+	background:#fff;
+	border:15px solid #F0F0F0;
+	padding:15px;
+	overflow:hidden;
+	font-size:16px;
+}
+.skilltag a{
+	display:block;
+	float:left;
+	padding:0 10px 0 0;
+}
+
+.infoBlock .InfomationList ul.snsbuttons li {
+background: none;
+width: auto;
+float: left;
+margin-right: 8px;
+margin-top: 7px;
+}
+.infoBlock .InfomationList ul.snsbuttons li.snsfb{
+	width:110px;
+}
+.infoBlock .InfomationList ul.snsbuttons li.snstw{
+	width:95px;
+	position:relative;
+}
+.infoBlock .InfomationList ul.snsbuttons li.snshtn{
+	position:relative;
+}
+.infoBlock .InfomationList ul.snsbuttons li.snsli{
+	width:100px!important;
+	position:relative;
+}
+.infoBlock .InfomationList ul.snsbuttons li.snsgp{
+	width:70px!important;
+	position:relative;
+}			 
+
+/* 3rd */
+.mainContent .subjectBlock{
+	margin-bottom:20px;
+}
+.mainContent .subjectBlock pre{
+	margin:28px 20px 28px 10px;
+	padding-left:1em;
+}
+.mainContent .subjectBlockInner01 .cassetteLeft{
+	margin:17px 0 0;
+	padding-left:20px;
+}
+.mainContent .subjectBlockInner01 .nozokimi{
+	float:left;
+	margin:26px 0 0 20px;
+	height:100px;
+	display:block;
+}
+#inline_content .subject{
+	width:960px;
+}
+#inline_content .colorboxheader{
+	height:25px;
+	background:	#000000;
+	width:950px;
+	padding:5px 0 5px 13px;
+	font-size:18px;
+	font-weight:bold;
+	color:#ffffff;
+}
+#inline_content .mainContent{
+	width:920px;
+}
+#inline_content .subjectInfotable{
+	overflow:hidden;
+	margin:0 0 28px 4px;
+	width:915px;
+	background:#ffffff;
+}
+#inline_content .subjectInfotable table{
+	margin:20px 13px 0;
+}
+#inline_content .subjectInfotable th{
+	padding-bottom:27px;
+    vertical-align: top;
+	text-align: left;
+    width: 215px;
+}
+#inline_content .subjectInfotable td{
+	padding-bottom:27px;
+    vertical-align:central;
+	text-align: left;
+	font-size:14px;
+}
+#inline_content .subjectInfotable td p{
+	text-indent:-1em;
+	padding-left:1em;
+}
+#inline_content .subjectInfotable td pre{
+	/*自動改行*/
+	white-space: -moz-pre-wrap;  /* Mozilla */
+	white-space: -pre-wrap;
+	white-space: -o-pre-wrap;
+	white-space: pre-wrap;
+	word-wrap:   break-word;
+	font-family:"メイリオ", Meiryo, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+#inline_content .btmCenterBtn .btn1.double{
+	width:920px;
+}
+#inline_content .btmCenterBtn{
+	margin-bottom:38px;
+}
+.mainContent .subjectBlockInner01 .cassetteRight02{
+	margin-bottom:10px;
+}
+.mainContent .subjectBlockInner01 .cassetteRight02.coming{
+	margin-bottom:25px;
+}
+.cdata .img_stars{
+	padding-top:8px;
+}
+.mainContent .snsarea{
+	width:550px;
+	display:inline-block;
+	margin:0 0 8px 205px;
+}
+.mainContent .snsarea .share{
+	float:left;
+	width:95px;
+	display:block;
+	padding:3px 0 0 20px;
+}
+.mainContent .snsarea .snsbuttons li{
+	float:left;
+	display:inline-block;
+}
+.mainContent .snsarea .snsbuttons li.snshtn{
+	margin-right:10px;
+}
+
+.btmCenterBtn a:link,
+.btmCenterBtn a:visited{ text-decoration:underline; color:#00ab95; }
+.btmCenterBtn a:hover,
+.btmCenterBtn a:active{ text-decoration:underline; color:#f96400; }
+
+
+/* badgeinfo */
+.mainContent.badgeinfo{
+	margin:0 auto;
+	width:700px;
+}
+.badgeinfo .accountBlock{
+	padding:0;
+	
+}
+.badgeinfo .badgeBlock{
+	margin:40px auto;
+	width:612px;
+	background:#FFFFFF;
+	padding:23px 0;
+}
+.badgeinfo .badgeWrapper{
+	background:#F0F0F0;
+	padding:4px 0;
+}
+.badgeinfo .badgeWrapper .snsbuttons{
+	height:20px;
+}
+.badgeinfo .badgeBlock{
+	margin:40px auto;
+	width:612px;
+	background:#FFFFFF;
+	padding:23px 0;
+}
+.badgeinfo .badgeimg{
+	text-align:center;
+	margin-bottom:23px;
+}
+.badgeinfo .txtCenter{
+	width:35em;
+	margin:0 auto 8px;
+	font-size:16px;
+}
+.badgeinfo .getmember{
+	font-size:26px;
+	font-weight:bold;
+	text-align:center;
+	margin-bottom:10px;
+}
+.badgeinfo .getmember strong{
+	color:#FF0000;
+	font-size:40px;
+}
+.badgeinfo .snsbuttons{
+	margin-left:40px;
+}
+.badgeinfo .snsbuttons li{
+	float:left;
+}
+.badgeinfo .snsbuttons .snsli{
+	padding-left:15px;
+}
+
+/* ruleの下のタイトル */
+h4{
+	margin-bottom:24px;
+}
+.othertitle{
+	background:#f0f0f0;
+	width:960px;
+	margin:60px auto 22px;
+	overflow:hidden;
+}
+.othertitle h5{
+	clear:both;
+	display:block;
+	background:#000000;
+	color:#FFF;
+	font-size:14px;
+	vertical-align:middle;
+	padding:13px 0 0 60px;
+	position:relative;
+	font-weight:bold;
+	width: 299px;
+	margin-bottom:28px;
+	float:left;
+	height:30px;
+}
+.othertitle h5 img{
+	position:absolute;
+	top:-8px;
+	left:-18px;
+}
+.othertitle div.questlevel{
+	height:41px;
+	background:#FFF;
+	overflow:hidden;
+	border-right:#000 dotted 1px;
+	border-top:#000 dotted 1px;
+	border-bottom:#000 dotted 1px;
+}
+
+.othertitle .img_stars{
+	margin:10px 0 0 20px;
+	float:left;
+}
+.othertitle .cdata_title{
+	font-size:13px;
+	font-weight:bold;
+	margin:13px 2px 0 50px;
+	display:block;
+	float:left;
+}
+.othertitle .cdata_text_l{
+	font-size: 16px;
+	font-weight: bold;
+	display:inline-block;
+	padding-top:7px;
+}
+.othertitle .txtred{
+	color:#F00;
+	font-size:22px;
+	font-weight:bold;
+}
+.othertitle .alink{
+	position:relative;
+	width:910px;
+	margin:0 auto;
+	height:43px;
+
+	margin-left:34px;
+	margin-right:20px;
+	margin-bottom:28px;
+}
+.othertitle p.linkarea{
+	text-align:right;
+	text-indent:-9999px;
+}
+.othertitle p.linkarea a{
+	display:block;
+	position:absolute;
+	left:0;
+	top:0;
+	height:100%;
+	width:100%;
+	text-align:left;
+	background:#fff\9;
+	filter:alpha(opacity=0);
+}
+.othertitle .alink:hover div.questlevel{
+	background:#feebdd;
+}
+
+/*--20121129追加--*/
+.mainContent .pageTitle h1.preview_Title {
+    border-left: 6px solid #00AB95;
+    font-size: 27px;
+    font-weight: bold;
+    padding-left: 18px;
+}
+h1 span.red_Text {
+    color: #FF0000;
+}
+#content .content_Box{
+	padding-bottom:50px; 
+}
+
+/*--20121207追加--*/
+h1#preview_Title03{
+	float:left;
+	border-left:none;
+	padding-left:0px;
+	font-size:27px;
+	font-weight:bold;
+}
+h1#preview_Title03{
+	width:300px;
+}
+h1#preview_Title04{
+	width:200px;
+	float:left;
+	border-left:none;
+	padding-left:0px;
+	font-size:27px;
+	font-weight:bold;
+}
+h1#preview_Title span.red_Text{
+	color:#FF0000;
+}
+.pageTitle p.preview_Attention{
+	width:600px;
+	float:left;
+	color:#FF0000;
+	padding-bottom:20px;
+}
+.btn1 {
+    text-align: center;
+	margin:0;
+}
+
+
+/*--20121226追加 U-8 --*/
+.answerCheck{
+	clear:both;
+	overflow:hidden;
+	margin:28px 0 20px;
+	font-size:12px;
+}
+.answerCheck.noneFB{
+	margin-bottom:40px;
+}
+.answerCheck .challengeTime{
+	width:227px;
+	height:16px;
+	float:left;
+	background:url(/img/bg_dashed.gif) repeat-x left top;
+	padding:11px 0;
+}
+.answerCheck .challengeTime img{
+	margin:1px 0 0 0;
+	float:left;
+}
+.answerCheck .challengeTime p{
+	float:right;
+	text-align:right;
+}
+.answerCheck a{
+	float:right;
+}
+
+/*--20121226追加 U-5-my --*/
+.subject .subjectBlock.answer{
+	background:#ffffff;
+	border:1px solid #999999;
+}
+.mainContent .subjectBlock.answer pre{
+	margin:12px 20px 0px 10px;
+	padding-left:1em;
+}
+
+/*--20121226追加 U-6 --*/
+.subjectBlock.questionnaire{
+	background:#FFF;
+	border:1px solid #e5e5e5;
+	padding:31px 0 18px;
+}
+.subjectBlock.questionnaire .questionnaireBox{
+	width:880px;
+	margin:0 auto;
+	text-align:left;
+	overflow:hidden;
+}
+.subjectBlock.questionnaire .questionnaireBox h2{
+	padding:0 0 19px;
+}
+.subjectBlock.questionnaire .questionnaireInner img:first-child{
+	margin:0 0 4px 0px;
+}
+.subjectBlock.questionnaire .questionnaireInner{
+	width:880px;
+	margin:14px 0 0px;
+	overflow:hidden;
+}
+.subjectBlock.questionnaire .questionnaireInner ul{
+	width:979px;
+	overflow:hidden;
+}
+.subjectBlock.questionnaire .questionnaireInner li{
+	float:left;
+	margin:0 40px 0 0;
+	width:264px;
+}
+
+.questionnaireThank2{
+	display:none;
+}
+
+.QArrowBox{
+	position:relative;
+}
+.QArrow{
+	position:absolute;
+	top:335px;
+	left:25px;
+	z-index:9999;
+}
+
+/*--20130614追加 U-13 --*/
+.privacy .indetBlock{
+	padding-left:2em;
+}
+
+
+.btnReturn{
+	
+}
+.btnReturn a{
+	display:block;
+	height:63px;
+	width:322px;
+	margin:0 auto;
+	background:url(../img/btn_returncontent.png) 0 0 no-repeat;
+	text-indent:-9999px;
+	
+}
+.btnReturn a:hover{
+	background:url(../img/btn_returncontent.png) 0 -63px no-repeat;
+}
+
+/*----------------------------------
+	リアル脱出ゲームキャンペーン
+------------------------------------*/
+.cp_escape,
+.cp_escape .account .accountBlock{
+	background:#000;
+}
+.cp_escape .account .accountBlock{
+	border:solid 1px #4dff92;
+}
+.cp_escape .mainContent{
+	color:#FFF;
+}
+.cp_escape .account .entrySns li{
+	margin-right:17px;
+}
+.cp_escape .account .entrySns li.last{
+	margin-right:0;
+}
+.cp_escape .profileTable{
+	border:solid 2px #4dff92;
+	border-bottom:none;
+}
+.cp_escape .profileTable table th{
+	color:#4dff92;
+	border-color:#4dff92;
+	border-right:solid 2px #4dff92;
+}
+.cp_escape .profileTable table td{
+	background:#000;
+	border-color:#4dff92;
+	color:#FFF;
+}
+.cp_escape .profileTable th.required {
+	background:url(/img/icon_necessary.png) 12px 22px no-repeat;
+}
+.cp_escape .ppBox{
+	background:#c1e7c1;
+	color:#666;
+}
+
+.cp_escape .ppBox .kiyakuBox h2,
+.cp_escape .ppBox .privacyBox h2 {
+	color:#4dff92;
+}
+.cp_escape .promotion{
+	background:#333;
+	overflow:hidden;
+	/zoom:1;
+	padding:14px 0 17px 20px;
+}
+.cp_escape .promotion .promtitle{
+	margin-bottom:12px;
+}
+.cp_escape .promotion .steppicture{
+	overflow:hidden;
+	/zoom:1;
+	margin-bottom:17px;
+}
+.cp_escape .promotion .steppicture li{
+	float:left;
+	background:url(../img/cp/ico_prom_arrow.gif) right center no-repeat;
+	padding-right:20px;
+	padding-left:8px;
+}
+.cp_escape .promotion .steppicture li.first{
+	padding-left:none;
+}
+.cp_escape .promotion .steppicture li.last{
+	background:none;
+	padding-right:none;
+}
+.cp_escape .btmCenterBtn .txt1{
+	font-size:14px;
+	font-weight:bold;
+	padding:23px 0 5px
+}
+.cp_escape .account .finBlock{
+	border:solid 2px #4dff92;
+	padding:25px 55px;
+	font-size:18px;
+	font-weight:bold;
+}
+.cp_escape .btmCenterBtn{
+	margin-bottom:40px;
+}
+.dgameInfo{
+	border:#00b7a5 4px solid;
+	padding:18px;
+}
+.dgameInfo p{
+	text-align:center;
+	font-size:12px;
+	font-weight:bold;
+	line-height:1.4;
+}
+.cp_escape .btmCenterBtn .kv{
+	padding:28px 0 27px
+}
+
+
+/* ウチ来る？問題一覧 */
+
+.kvuchikuru{
+	background:url(/img/kv_uchikuru.jpg) 0 0 no-repeat;
+	width:980px;
+	height:243px;
+	position:relative;
+	margin-bottom:10px;
+}
+.kvuchikuru p{
+	display:inline-block;
+	position:absolute;
+	left:30px;
+	bottom:5px;
+	font-size:10px;
+	font-weight:bold;
+	padding:5px 0;
+}
+.kvuchikuru p a{
+	padding:5px 25px 5px 0;
+	background:url(/img/icon_next.gif) right center no-repeat;
+}
+
+.uchiTextArea{
+	padding:5px 22px 25px;
+	margin-bottom:20px;
+	font-size:14px;
+}
+.uchiTitle{
+	font-size:20px;
+	font-weight:bold;
+	margin-bottom:10px;
+}
+.uchiTitle .green{
+	font-size:28px;
+	padding-left:10px;
+}
+.uchiTitle .small{
+	font-size:14px;
+}
+.uchiSubTitle{
+	font-size:14px;
+	margin-bottom:10px;
+	float:left;
+	color:#00AB95;
+	font-weight:bold;
+	display:block;
+	width:130px;
+}
+.uchiTextArea ul{
+	margin-bottom:15px;
+	overflow:hidden;
+}
+.uchiTextArea li{
+	display:inline-block;
+	float:left;
+	font-size:12px;
+	font-weight:bold;
+}
+
+.mypagePagerBox {
+    width: 607px;
+    overflow:hidden;
+}
+/*
+.pagerDescription {
+    float: left;
+}
+.pagerIndex {
+    float: right;
+}
+.pagerIndex li {
+    display: inline;
+    padding: 0px 5px;
+}
+*/
+.pagerIndex {
+	margin:20px 0;
+	text-align:center;
+}
+.pagerIndex a.page,
+.pagerIndex span.page{
+	display:inline-block;
+	width:28px;
+	height:21px;
+	text-align:center;
+	text-decoration:none;
+	padding-top:7px;
+	border:#00ab95 solid 1px;
+	background:#FFF;
+	color:#00ab95;
+	margin-right:10px;
+	margin-bottom:10px;
+}
+.pagerIndex span.current{
+	background:#00ab95;
+	color:#FFF;
+}
+
+
+/* CodePool スカウト */
+.mypageCompanyMessage{
+	border:solid 2px #00ad95;
+	margin-bottom: 30px;
+	margin-top:-2px;
+}
+.mypageCompanyMessage.message03{
+	margin-bottom: 0px;
+}
+.mypageCompanyMessage .head{
+	color:#FFF;
+	font-weight: bold;
+	background: #00ad95;
+	padding:8px 25px 9px;
+	font-size: 14px;
+	
+}
+.mypageCompanyMessage .text{
+	height: 252px;
+	overflow-y:scroll;
+	padding:20px 25px;
+}
+.mypageToMessage{
+	border:solid 1px #666666;
+	margin-bottom: 12px;
+	position:relative;
+}
+.mypageToMessage .toparrow{
+	display:block;
+	position:absolute;
+	height: 11px;
+	width: 21px;
+	top:-11px;
+	left:39px;
+	background:url(/img/bg_ToMessage.png) 0 0 no-repeat;
+}
+.mypageToMessage .head{
+	color:#FFF;
+	font-weight: bold;
+	background: #666666;
+	padding:8px 25px 8px;
+	font-size: 14px;
+}
+.mypageToMessage .error{
+	margin-bottom:5px;
+}
+.mypageToMessage .lead{
+	margin-bottom:5px;
+}
+.mypageToMessage .text{
+	padding:12px 25px;
+}
+.mypageToMessage textarea{
+	height:249px;
+	width:100%;
+	border:none;
+	resize: none;
+}
+.attentionList{
+	margin-bottom: 20px;
+}
+.attentionList li{
+	font-size: 12px;
+	margin-bottom: 5px;
+	letter-spacing: -0.1px;
+}
+.btntwo{
+	overflow:hidden;
+	margin-bottom: 40px;
+}
+.btntwo .btn01{
+	margin-right:24px;
+}
+
+.btmCenterBtn  .btntwo p.btn01{
+	margin-right:28px;
+}
+.stateText{
+	margin-top:20px;
+	padding:9px 25px;
+	background:#f0f0f0;
+	margin-bottom: 40px;
+	font-size: 14px;
+}

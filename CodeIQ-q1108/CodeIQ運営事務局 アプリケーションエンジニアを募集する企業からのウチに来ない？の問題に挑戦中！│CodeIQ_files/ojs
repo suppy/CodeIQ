@@ -1,0 +1,17 @@
+(function() {
+	try {
+		var src = "https://o.advg.jp/ojs2?aid=6139&pid=1";
+		src += (function(isTop) {
+			try {
+				var _doc = (isTop && parent.frames.length > 0) ? top.document : document;
+				return "&_url=" + escape(_doc.URL);
+			} catch(e) {
+			}
+			return "";
+		})(1);
+		src += "&_nocache=" + (new Date).getTime() + Math.floor(Math.random()*100000000);
+		src = "<scr" + "ipt language='javascript' type='text/javascript' src='" + src + "' charset='UTF-8'></scr" + "ipt>";
+		document.write(src);
+	} catch(e) {
+	}
+})();
