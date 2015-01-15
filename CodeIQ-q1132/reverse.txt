@@ -1,0 +1,12 @@
+# Python で再提出
+
+# リストxを逆順にして、リストyはそのままで連結する関数
+def reverse_aux(x, y):
+	if nullp(x):
+		return y
+	else:
+		return reverse_aux( cdr(x), cons( car( x ), y ) )
+
+# リストの項目を逆順にする関数
+def reverse2(x):
+	return reverse_aux( x, [] )

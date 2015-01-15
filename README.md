@@ -186,6 +186,8 @@
 * [@nkawagashira  川頭 信之さん](https://codeiq.jp/ace/kawagashira_nobuyuki/)
   - [アッカーマンの呪い](https://codeiq.jp/ace/kawagashira_nobuyuki/q348)([q348](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q348))
     + [「アッカーマンの呪い」問題解説～進撃の巨人みたいに爆発的な大きな数字は案外簡単な式で実現できます #ackermann #python](http://codeiq.hatenablog.com/entry/2013/09/02/173213)
+  - [再帰関数で逆順並べ替え](https://codeiq.jp/ace/kawagashira_nobuyuki/q1132)([q1132](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1132))
+    + [[解説]「再帰関数で逆順並べ替え」](https://dataflight.wordpress.com/2015/01/05/%E8%A7%A3%E8%AA%AC%E3%80%8C%E5%86%8D%E5%B8%B0%E9%96%A2%E6%95%B0%E3%81%A7%E9%80%86%E9%A0%86%E4%B8%A6%E3%81%B9%E6%9B%BF%E3%81%88%E3%80%8D/)
 
 * [増井技術士事務所  今週のアルゴリズムの@masuipeoさん](https://codeiq.jp/ace/thisweek_masuipeo/)
   - [今週のお題：飛車と角の利きを考えて！](https://codeiq.jp/ace/thisweek_masuipeo/q666)(q666) [-](https://codeiq.jp/my_feedback.php?challenge_log_id=83624) [第12回 正解者発表](https://codeiq.jp/magazine/2014/01/5382/)

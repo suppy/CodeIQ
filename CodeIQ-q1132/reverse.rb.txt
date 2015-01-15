@@ -1,0 +1,13 @@
+# すみません。
+# Ruby で書きました。
+
+# リストxを逆順にして、リストyはそのままで連結する関数
+def reverse_aux(x, y)
+  return y if nullp(x)
+  reverse_aux( cdr(x), cons( car( x ), y ) )
+end
+
+# リストの項目を逆順にする関数
+def reverse2(x)
+  return reverse_aux( x, [] )
+end
