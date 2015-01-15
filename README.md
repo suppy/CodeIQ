@@ -351,6 +351,7 @@
 * [@iskmsy　井関 正也さん](https://codeiq.jp/ace/iseki_masaya/)
   - [ゲームに勝つ確率は？](https://codeiq.jp/ace/iseki_masaya/q970)([q970](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q970))
   - [割れる数の個数は？](https://codeiq.jp/ace/iseki_masaya/q1209)[(q1209](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1209)[)](https://codeiq.jp/my_feedback.php?challenge_log_id=174536)
+  - [組み合わせの数は？](https://codeiq.jp/ace/iseki_masaya/q1210)[(q1210](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1210)[)](https://codeiq.jp/my_feedback.php?challenge_log_id=176824)
 
 * [@stakemura　stakemuraさん](https://codeiq.jp/ace/stakemura/)
   - [オーバーフローを防げ！](https://codeiq.jp/ace/stakemura/q976)([q976](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q976))
