@@ -1,0 +1,56 @@
+D:\Users\suyama.ikuo\Dropbox\business\CodeIQ\CodeIQ-q1103>ruby CodeIQ-q1103.rb
+処理開始時刻：2014-11-13 16:02:12 +0900
+
+{{1,3,2,4,1},13.07768723046357}
+
+処理終了時刻：2014-11-13 16:02:12 +0900
+処理時間：0.013014 sec
+
+D:\Users\suyama.ikuo\Dropbox\business\CodeIQ\CodeIQ-q1103>ruby CodeIQ-q1103.rb
+処理開始時刻：2014-11-13 16:00:50 +0900
+
+{{1,3,2,5,7,6,4,8,1},3.7019616215102024e+16}
+
+処理終了時刻：2014-11-13 16:00:50 +0900
+処理時間：0.157323 sec
+
+D:\Users\suyama.ikuo\Dropbox\business\CodeIQ\CodeIQ-q1103>
+
+
+
+
+
+D:\Users\suyama.ikuo\Dropbox\business\CodeIQ\CodeIQ-q1103>ruby CodeIQ-q1103.rb
+処理開始時刻：2014-11-13 15:43:22 +0900
+
+{{1,3,4,8,9,7,2,6,5,10,1},7.731001749995507e+16}
+
+処理終了時刻：2014-11-13 15:43:29 +0900
+処理時間：6.297352 sec
+
+D:\Users\suyama.ikuo\Dropbox\business\CodeIQ\CodeIQ-q1103>ruby CodeIQ-q1103.rb
+処理開始時刻：2014-11-13 15:44:49 +0900
+
+{{1,7,5,3,9,10,4,8,2,6,11,12,1},8.773575157375089e+17}
+
+処理終了時刻：2014-11-13 15:58:25 +0900
+処理時間：816.000044 sec
+
+D:\Users\suyama.ikuo\Dropbox\business\CodeIQ\CodeIQ-q1103>
+
+
+
+BigDecimal
+
+D:\Users\suyama.ikuo\Dropbox\business\CodeIQ\CodeIQ-q1103>ruby CodeIQ-q1103-2.rb
+処理開始時刻：2014-11-13 16:48:24 +0900
+
+{{1,3,2,4,1},0.13077687230463569E2}
+{{1,4,6,7,5,2,3,8,1},0.3701961621510202782842712474619E17}
+{{1,3,4,8,9,7,2,6,10,5,1},0.7731001749995506382842712474619E17}
+{{1,7,5,3,9,10,4,8,2,6,11,12,1},0.87735751573750877282842712474619E18}
+
+処理終了時刻：2014-11-13 18:51:37 +0900
+処理時間：7393.293282 sec
+
+D:\Users\suyama.ikuo\Dropbox\business\CodeIQ\CodeIQ-q1103>

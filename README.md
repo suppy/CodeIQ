@@ -381,3 +381,4 @@
 
 * [@yabuki　矢吹 太朗さん](https://codeiq.jp/ace/yabuki_taro/)
   - [基本の確認　2列の合計値比較](https://codeiq.jp/ace/yabuki_taro/q1123)[(q1123](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1123)[)](https://codeiq.jp/my_feedback.php?challenge_log_id=170418)
+  - [最短経路を探そう](https://codeiq.jp/ace/yabuki_taro/q1103)[(q1103](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1103)[)](https://codeiq.jp/my_feedback.php?challenge_log_id=172042)
