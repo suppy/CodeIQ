@@ -192,6 +192,7 @@
   - [プリッとアンサー「こいのぼり」Java](https://codeiq.jp/ace/shoji_shinichi/q829)(q829)
   - [プリッとアンサー「1年○組」](https://codeiq.jp/ace/shoji_shinichi/q831)(q831)
   - [プリッとアンサー「潮干狩り」](https://codeiq.jp/ace/shoji_shinichi/q882)([q882](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q882))
+  - [プリッとアンサー「絵画コンクール」](https://codeiq.jp/ace/shoji_shinichi/q1151)([q1151](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1151))
 
 * [@nkawagashira  川頭 信之さん](https://codeiq.jp/ace/kawagashira_nobuyuki/)
   - [アッカーマンの呪い](https://codeiq.jp/ace/kawagashira_nobuyuki/q348)([q348](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q348))
