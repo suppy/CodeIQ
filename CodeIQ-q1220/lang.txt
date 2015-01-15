@@ -1,0 +1,35 @@
+Ada
+Assembler (gcc-4.8.1)
+#AWK (gawk) (63)
+○AWK (mawk) (63)
+bc
+#C++ 4.8.1 (69)
+#C99 strict (68)
+CLIPS
+#Clojure (127)
+COBOL
+COBOL 85
+Common Lisp (clisp)
+D (dmd)
+Erlang
+F#
+Factor
+#Falcon (54)
+○Forth (78)
+#Go (109)
+Intercal
+#Lua (94)
+Nemerle
+Nice
+○Nimrod (112)
+Objective-C
+Ocaml
+Oz
+#PARI/GP (67)
+#Pascal (gpc) (130)
+#Pike (75)
+Prolog (gnu)
+Prolog (swi)
+Scheme (guile)
+Tcl
+Unlambda

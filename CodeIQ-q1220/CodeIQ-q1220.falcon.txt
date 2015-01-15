@@ -1,0 +1,4 @@
+for i in[0:25]
+for j in[0:25]:>>i!=j?"A":chr(66+j)
+>
+end

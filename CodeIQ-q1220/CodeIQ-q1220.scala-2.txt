@@ -1,0 +1,2 @@
+for(i<-0 to 24)printf("%s%c%s\n","A"*i,66+i,"A"*(24-i))
+for(i<-0 to 24)println("A"*i+(66+i).toChar+"A"*(24-i))

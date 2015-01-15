@@ -1,0 +1,15 @@
+: @
+( --)25 0 DO
+25 0 DO
+I J =
+IF
+66 J +
+EMIT
+ELSE
+." A"
+THEN
+LOOP
+CR
+LOOP
+;
+@

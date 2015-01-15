@@ -1,0 +1,5 @@
+for i=0,24 do
+for j=0,25 do
+io.write(string.char(j==25 and 13 or i==j and 66+i or 65))
+end
+end

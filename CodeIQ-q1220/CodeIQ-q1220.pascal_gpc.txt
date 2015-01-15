@@ -1,0 +1,10 @@
+var i,j:integer;
+begin
+for i:=0 to 24 do
+begin
+for j:=0 to 24 do
+if i = j then write(chr(66+i))
+else write("A");
+write("\n")
+end
+end

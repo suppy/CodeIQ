@@ -1,0 +1,15 @@
+for i=[0:24]puts(['' blanks(i)+33 66+i blanks(24-i)+33 "\n"]);end
+for i=[0:24]disp(['' blanks(i)+33 66+i blanks(24-i)+33]);end
+for i=0:24disp(['' blanks(i)+33 66+i blanks(24-i)+33]);end
+printf("%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c%c\n",diag([1:25])+65*ones(25))
+disp(['' diag([1:25])+65*ones(25)])
+disp(['' diag(1:25)+65*ones()])
+disp(['' 65*ones()+diag(1:25)])
+disp(char(65*ones()+diag(1:25)))
+disp(char(65*ones()+diag(1:25)))
+disp(['' 65*ones+diag(1:25)])
+disp(char(65*ones+diag(1:25)))
+disp(["" 65*ones+diag(1:25)])
+disp(["" 65+diag(1:25)])
+disp(['' 65+diag(1:25)])
+disp(['' diag(1:25)+65])

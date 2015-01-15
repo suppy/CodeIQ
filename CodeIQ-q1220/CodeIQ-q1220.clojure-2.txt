@@ -1,0 +1,1 @@
+((fn[](doseq[j(range 1 26)](print(apply str(map(fn[i](if(= i 26)(char 13)(if(= i j)(char(+ 65 i))(char 65))))(range 1 27)))))))

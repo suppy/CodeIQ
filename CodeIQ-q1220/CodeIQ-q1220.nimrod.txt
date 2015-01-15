@@ -1,0 +1,9 @@
+var c:int
+for i in 1..25:
+ for j in 1..25:
+  if i==j:
+   c=65+j
+  else:
+   c=65
+  write(stdout,chr(c))
+ echo("")

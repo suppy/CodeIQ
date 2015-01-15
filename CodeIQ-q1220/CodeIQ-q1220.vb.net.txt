@@ -1,0 +1,6 @@
+Dim i,j As Integer
+For i=1 to 25
+For j=1 to 26
+System.Console.Write(IIf(j=26,vbCr,IIf(i=j,Chr(65+j),"A")))
+Next
+Next

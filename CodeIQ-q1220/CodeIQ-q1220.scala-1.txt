@@ -1,0 +1,6 @@
+for(i<-1 to 25){
+for(j<-1 to 25){
+if(i==j)printf("%c",65+i) else printf("A")
+}
+println("")
+}

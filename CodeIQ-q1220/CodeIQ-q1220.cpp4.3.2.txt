@@ -1,0 +1,12 @@
+int i=0,j;for(;i<25;printf("\n"),i++)for(j=0;j<25;j++)printf((i==j)?"%c":"A",'B'+j);
+int i=0,j;for(;i<25;printf("\n"),i++)for(j=0;j<25;)printf((i==j++)?"%c":"A",'B'+j);
+int i=0,j;for(;i<25;printf("\n"),i++)for(j=0;j<25;)printf((i-j++)?"A":"%c",'B'+j);
+int i,j;for(;i<25;printf("\n"),i++)for(j=0;j<25;)printf((i-j++)?"A":"%c",'B'+j);
+int i,j;for(;i++<25;printf("\n"))for(j=0;j<25;)printf((i-++j)?"A":"%c",'B'+j);
+int i,j;for(;i++<25;cout<<"\n")for(j=0;j<25;)printf((i-++j)?"A":"%c",'B'+j);
+int i,j;for(;i++<25;cout<<"\n")for(j=0;j<25;)printf((i-++j)?"A":"%c",66+j);
+int i=0,j;for(;i++<25;cout<<"\n")for(j=0;j++<25;)cout.put((i-j)?65:65+j);
+int i=0,j;for(;i++<25;cout<<"\n")for(j=0;j++<25;)cout.put(65+((i-j)?0:j));
+int i=0,j;for(;i++<25;cout<<"\n")for(j=0;j++<25;)cout.put(i-j?65:65+j);
+int i=0,j;for(;i++<25;)for(j=0;j++<26;)cout.put(26-j?i-j?65:65+j:13);
+int i=0,j;for(;i++<25;)for(j=0;j++<26;)putchar(26-j?i-j?65:65+j:13);

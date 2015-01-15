@@ -1,0 +1,2 @@
+for i:=0;i<25;i++{for j:=0;j<25;j++{if i==j{fmt.Printf("%c",66+i)}else{fmt.Printf("%c",65)}};fmt.Println("")}
+for i:=0;i<25;i++{var s string="";for j:=0;j<25;j++{if i==j{s+=fmt.Sprintf("%c",66+i)}else{s+="A"}};fmt.Printf("%s\n",s)}

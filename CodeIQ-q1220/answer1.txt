@@ -1,0 +1,9 @@
+言語:C
+Team:LGS
+解答コード:
+i;main(j){for(;i<25;printf("\n"),i++)for(j=0;j<25;j++)printf((i==j)?"%c":"A",'B'+j);}
+補足:
+１回目提出
+言語:C
+ideoneのtemplateは使いません。
+いつもは一回目提出はRubyですが、Cでちょっと頑張ってみました。

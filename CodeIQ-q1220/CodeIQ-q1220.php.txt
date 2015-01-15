@@ -1,0 +1,13 @@
+for($i=0;$i<25;print("\n"),$i++)for($j=0;$j<25;$j++)print(($i!=$j)?"A":chr(66+$j));
+for($i=0;$i<25;print("\n"),$i++)for($j=0;$j<25;$j++)print(($i-$j)?"A":chr(66+$j));
+for(;$i<25;print("\n"),$i++)for($j=0;$j<25;$j++)print(($i-$j)?"A":chr(66+$j));
+for(;$i<25;print"\n",$i++)for($j=0;$j<25;$j++)print(($i-$j)?"A":chr(66+$j));
+for(;$i<25;print"\n",$i++)for($j=0;$j<25;$j++)print($i-$j)?"A":chr(66+$j);
+for(;$i<25;print"\n",$i++)for($j=0;$j<25;)print($i-$j++)?"A":chr(65+$j);
+for(;$i<25;print"\n",$i++)for($j=0;$j<25;)echo($i-$j++)?"A":chr(65+$j);
+for(;$i<25;$i++,print"\n")for($j=0;$j<25;)echo($i-$j++)?"A":chr(66+$i);
+for(;$i++<25;print"\n")for($j=1;$j<26;)echo($i-$j++)?"A":chr(65+$i);
+for(;$i++<25;print"\n")for($j=0;$j++<25;)echo($i-$j)?"A":chr(65+$i);
+for(;$i++<25;print"\n")for($j=0;$j++<25;)echo chr(($i-$j)?65:65+$i);
+for(;$i++<25;print"\n")for($j=0;$j++<25;)echo chr($i-$j?65:65+$i);
+for(;$i++<25;)for($j=0;$j++<26;)echo chr(26-$j?$i-$j?65:65+$i:13);

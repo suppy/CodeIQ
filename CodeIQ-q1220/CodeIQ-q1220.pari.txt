@@ -1,0 +1,4 @@
+for(i=0,24,for(j=0,i-1,print1("A"));print1(Strchr(66+i));for(k=0,23-i,print1("A"));print(""))
+for(i=0,24,for(j=1,i,print1("A"));print1(Strchr(66+i));for(k=1,24-i,print1("A"));print(""))
+for(i=0,24,for(j=0,24,if(i-j,print1("A"),print1(Strchr(66+i))));print(""))
+for(i=0,24,for(j=0,25,print1(Strchr(if(25-j,if(i-j,65,66+i),13)))))
