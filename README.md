@@ -87,6 +87,9 @@
   - [デバック地獄脱出「あるあるバグ」退治](https://codeiq.jp/ace/yanai_masakazu/q1156)([q1156](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1156))
   - [時限爆弾コードを解除せよ！4](https://codeiq.jp/ace/yanai_masakazu/q1202)([q1202](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1202))
     + [赤・緑・青の文字を削除し、時限爆弾コードを解除せよ！4 問題解説 #javascript](https://codeiq.jp/magazine/2014/12/20220/)
+  - [そろばんのダンジョン - LV1](https://codeiq.jp/ace/yanai_masakazu/q1203)([q1203](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1203))
+  - [そろばんのダンジョン - LV2](https://codeiq.jp/ace/yanai_masakazu/q1204)([q1204](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1204))
+    + [大人気ダンジョンシリーズ！そろばんのダンジョンLV1～LV2の解説+最短コード発表 #javascript](https://codeiq.jp/magazine/2014/12/20368/)
 
 * [CodeIQちょこっとプログラミング　クロノス・クラウン合同会社 代表社員 柳井 政和さん](https://codeiq.jp/ace/chocopro_yanai/)
   - [5分で挑戦！3つのコードで完成させて](https://codeiq.jp/ace/chocopro_yanai/q718)([q718](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q718))
