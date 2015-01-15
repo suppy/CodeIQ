@@ -285,6 +285,7 @@
   - [独創的にHubotを動かす](https://codeiq.jp/ace/tbpgr_badge/q1113)([q1113](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1113))
     + [「独創的にHubotを動かす」問題の優秀解答発表 #hubot](https://codeiq.jp/magazine/2014/12/18969/)
   - [GitHub入門](https://codeiq.jp/ace/tbpgr_badge/q1196)
+  - [GitHub素数Userは何人](https://codeiq.jp/ace/tbpgr_badge/q1197)([q1197](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1197))
 
 * [@tbpgr　tbpgrさん](https://codeiq.jp/ace/tbpgr/)
   - [呪いの右仮面](https://codeiq.jp/ace/tbpgr/q1026)([q1026](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1026))
