@@ -170,6 +170,8 @@
     + [「中学入試から：正三角形？二等辺？」の、解説・解題](http://nabetani.hatenablog.com/entry/codeiq_clatri_q1097)
   - [中学入試から：数字の個数](https://codeiq.jp/ace/nabetani_takenori/q1138)([q1138](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1138))
     + [「中学入試から：数字の個数」の 解説・解題](http://nabetani.hatenablog.com/entry/codeiq_digicount_q1138)
+  - [中学入試から：図形と場合の数](https://codeiq.jp/ace/nabetani_takenori/q1188)([q1188](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1188))
+    + [「中学入試から：図形と場合の数」の 解説・解題](http://nabetani.hatenablog.com/entry/codeiq_countri_q1188)[.](https://codeiq.jp/my_feedback.php?challenge_log_id=172686)
 
 * [CodeIQ運営事務局　アプリケーションエンジニアを募集する企業さん](https://codeiq.jp/ace/joboffer_apli/)
   - [PHP：兵士と巨人の川渡り](https://codeiq.jp/ace/joboffer_apli/q636)(q636)
