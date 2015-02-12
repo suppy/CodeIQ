@@ -1,0 +1,1 @@
+r=j=z=+false;for(;j++<b;)for(k=z;k++<c;)r+=a

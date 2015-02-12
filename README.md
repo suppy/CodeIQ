@@ -92,6 +92,9 @@
     + [大人気ダンジョンシリーズ！そろばんのダンジョンLV1～LV2の解説+最短コード発表 #javascript](https://codeiq.jp/magazine/2014/12/20368/)
   - [時限爆弾コードを解除せよ！5](https://codeiq.jp/ace/yanai_masakazu/q1255)([q1255](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1255))
     + [赤・緑・青の文字を削除し、時限爆弾コードを解除せよ！5 問題解説 #javascript](https://codeiq.jp/magazine/2015/01/21034/)
+  - [2015のダンジョン - LV1](https://codeiq.jp/ace/yanai_masakazu/q1256)([q1256](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1256))
+  - [2015のダンジョン - LV2](https://codeiq.jp/ace/yanai_masakazu/q1257)([q1257](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1257))
+    + [大人気ダンジョンシリーズ！2015のダンジョンの解説+最短コード発表 #javascript](https://codeiq.jp/magazine/2015/01/21072/)
 
 * [CodeIQちょこっとプログラミング　クロノス・クラウン合同会社 代表社員 柳井 政和さん](https://codeiq.jp/ace/chocopro_yanai/)
   - [5分で挑戦！3つのコードで完成させて](https://codeiq.jp/ace/chocopro_yanai/q718)([q718](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q718))
