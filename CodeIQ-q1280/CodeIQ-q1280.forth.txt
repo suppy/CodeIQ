@@ -1,0 +1,13 @@
+: @
+( --)208 0 DO
+I 8 MOD
+IF
+97
+ELSE
+65
+THEN
+I 26 MOD +
+EMIT
+LOOP
+;
+@

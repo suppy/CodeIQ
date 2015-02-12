@@ -1,0 +1,1 @@
+for(i=s='';i<208;)s+=String.fromCharCode(i%26+(i++%8?97:65));print(s)

@@ -1,0 +1,1 @@
+for(int i;i<208;)write(int2char(i%26+(i++%8?97:65)));

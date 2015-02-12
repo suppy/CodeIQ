@@ -1,0 +1,1 @@
+for(int i=0;i<208;)System.out.print((char)(i%26+(i++%8==0?65:97)));

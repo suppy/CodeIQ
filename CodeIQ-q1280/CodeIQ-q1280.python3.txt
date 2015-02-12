@@ -1,0 +1,2 @@
+for i in range(208):print(chr(i%26+(65 if i%8==0 else 97)),end="")
+for i in range(208):print(chr(i%26+(97 if i%8 else 65)),end="")

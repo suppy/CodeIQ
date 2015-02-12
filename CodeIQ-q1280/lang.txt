@@ -1,0 +1,68 @@
+29Œ¾Œê
+http://ideone.com/WB9eJN
+
+Ada
+Assembler (nasm-2.11.05)
+Assembler (gcc-4.9.2)
+›AWK (gawk)(41)
+AWK (mawk)
+Bash
+bc
+Brainf**k
+›C#(65)
+›C++ 4.3.2(45)
+›C++ 4.9.2(51)
+›C++14(51)
+›C99 strict(48)
+›C(46)
+CLIPS
+›Clojure(85)
+COBOL
+COBOL 85
+Common Lisp (clisp)
+D
+›D (dmd)(46)
+Erlang
+F#
+Factor
+›Falcon(39)
+›Forth(69)
+Fortran
+›Go(65)
+Groovy
+Icon
+Intercal
+›Java(67)
+›Java7(67)
+JavaScript (rhino)
+›JavaScript (spidermonkey)(69)
+›Lua(68)
+Nemerle
+Nice
+›Nimrod(94)
+›Node.js(75)
+Objective-C
+Ocaml
+Octave
+›PARI/GP(44)
+Pascal (fpc)
+›Pascal (gpc)(113)
+›Perl(38)
+Perl 6
+›PHP(44)
+›Pike(53)
+Prolog (gnu)
+Prolog (swi)
+›Python(64)
+›Python 3(63)
+Python (Pypy)
+›R(44)
+›Ruby(38)
+›Scala(56)
+Scheme (chicken)
+Scheme (guile)
+Smalltalk
+Tcl
+Unlambda
+›VB.NET(75)
+Whitespace

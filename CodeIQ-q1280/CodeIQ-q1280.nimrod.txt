@@ -1,0 +1,7 @@
+var c:int
+for i in 0..207:
+ if i mod 8==0:
+  c=65
+ else:
+  c=97
+ write(stdout,chr(c+i mod 26))

@@ -1,0 +1,3 @@
+For i As Integer=0 to 207
+Console.Write(Chr(IIf(i Mod 8,65,97)+i Mod 26))
+Next

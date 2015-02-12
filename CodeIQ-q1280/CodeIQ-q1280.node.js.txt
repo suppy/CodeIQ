@@ -1,0 +1,2 @@
+s="";for(i=0;i<208;)s+=String.fromCharCode(i%26+(i++%8?97:65));console.log(s)
+for(s=i="";i<208;)s+=String.fromCharCode(i%26+(i++%8?97:65));console.log(s)
