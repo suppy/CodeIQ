@@ -98,6 +98,7 @@
   - [世界の秘宝をゲットせよ！～その1～](https://codeiq.jp/ace/yanai_masakazu/q1276)([q1276](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1276))
     + [世界の秘宝をゲットせよ！～その1～ 問題解説 #javascript](https://codeiq.jp/magazine/2015/02/21448/)
   - [世界の秘宝をゲットせよ！～その2～](https://codeiq.jp/ace/yanai_masakazu/q1277)([q1277](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1277))
+    + [世界の秘宝をゲットせよ！～その2～ 問題解説 #javascript](https://codeiq.jp/magazine/2015/02/21580/)
   - [世界の秘宝をゲットせよ！～その3～](https://codeiq.jp/ace/yanai_masakazu/q1278)([q1278](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1278))
   - [世界の秘宝をゲットせよ！～その4～](https://codeiq.jp/ace/yanai_masakazu/q1279)([q1279](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1279))
 
