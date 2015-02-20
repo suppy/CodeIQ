@@ -1,0 +1,93 @@
+◆タイトル（必須）
+RubyでASCII文字は扱いづらいわ
+◆使用言語（必須）
+Ruby
+◆プログラム（必須）
+inp=gets
+len=0
+i=0
+while inp[i]!=nil do
+	i+=1
+end
+len=i
+str=""
+for i in (1..len) do
+	str+=inp[len-i]
+end
+
+code={}
+code["a"]=97
+code["b"]=98
+code["c"]=99
+code["d"]=100
+code["e"]=101
+code["f"]=102
+code["g"]=103
+code["h"]=104
+code["i"]=105
+code["j"]=106
+code["k"]=107
+code["l"]=108
+code["m"]=109
+code["n"]=110
+code["o"]=111
+code["p"]=112
+code["q"]=113
+code["r"]=114
+code["s"]=115
+code["t"]=116
+code["u"]=117
+code["v"]=118
+code["w"]=119
+code["x"]=120
+code["y"]=121
+code["z"]=122
+
+char={}
+char[65]="A"
+char[66]="B"
+char[67]="C"
+char[68]="D"
+char[69]="E"
+char[70]="F"
+char[71]="G"
+char[72]="H"
+char[73]="I"
+char[74]="J"
+char[75]="K"
+char[76]="L"
+char[77]="M"
+char[78]="N"
+char[79]="O"
+char[80]="P"
+char[81]="Q"
+char[82]="R"
+char[83]="S"
+char[84]="T"
+char[85]="U"
+char[86]="V"
+char[87]="W"
+char[88]="X"
+char[89]="Y"
+char[90]="Z"
+
+for i in (0..len-1) do
+	if code[str[i]] != nil
+		str[i]=char[code[str[i]]-32]
+	end
+end
+str1=""
+for i in (0..len-1) do
+	str1+=str[i]
+	if i!=len-1
+		str1+=" "
+	end
+end
+print str1
+
+◆ポイント（必須）
+・ぴったり1000文字
+
+◆フリーコメント（任意）
+問題の感想などあればコメントいただけると幸いです
+Rubyの強力さを改めて実感しました。

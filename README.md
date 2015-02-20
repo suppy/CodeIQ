@@ -319,6 +319,8 @@
     + [「独創的にHubotを動かす」問題の優秀解答発表 #hubot](https://codeiq.jp/magazine/2014/12/18969/)
   - [GitHub入門](https://codeiq.jp/ace/tbpgr_badge/q1196)
   - [GitHub素数Userは何人](https://codeiq.jp/ace/tbpgr_badge/q1197)([q1197](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1197))
+  - [コードを汚く逆リファクタリング](https://codeiq.jp/ace/tbpgr_badge/q1249)([q1249](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1249))
+    + [汚コードグランプリ！秀逸な汚コードにまみれた解答臭をご覧あれ #逆リファクタリング](https://codeiq.jp/magazine/2015/02/21347/)
 
 * [@tbpgr　tbpgrさん](https://codeiq.jp/ace/tbpgr/)
   - [呪いの右仮面](https://codeiq.jp/ace/tbpgr/q1026)([q1026](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1026))
