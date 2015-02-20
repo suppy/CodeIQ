@@ -100,6 +100,7 @@
   - [世界の秘宝をゲットせよ！～その2～](https://codeiq.jp/ace/yanai_masakazu/q1277)([q1277](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1277))
     + [世界の秘宝をゲットせよ！～その2～ 問題解説 #javascript](https://codeiq.jp/magazine/2015/02/21580/)
   - [世界の秘宝をゲットせよ！～その3～](https://codeiq.jp/ace/yanai_masakazu/q1278)([q1278](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1278))
+    + [世界の秘宝をゲットせよ！～その3～ 問題解説 #javascript](https://codeiq.jp/magazine/2015/02/21603/)
   - [世界の秘宝をゲットせよ！～その4～](https://codeiq.jp/ace/yanai_masakazu/q1279)([q1279](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1279))
 
 * [CodeIQちょこっとプログラミング　クロノス・クラウン合同会社 代表社員 柳井 政和さん](https://codeiq.jp/ace/chocopro_yanai/)
