@@ -147,6 +147,8 @@
     + [最短コード＆ランキング発表！「ショートコーディング～神になりたい～」解説 #codegolf #c](https://codeiq.jp/magazine/2014/09/15848/)
   - [プログラミング言語★裏選挙―愛の風車](https://codeiq.jp/ace/ozy4dm/q1105)([q1105](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1105))
     + [裏選挙キャラクターも擬人化してみた『CodeIQ プログラミング言語★裏選挙―愛の風車』解説記事 #CodeIQ #JavaScript](https://codeiq.jp/magazine/2014/10/18235/)
+  - [わんにゃんキャッスル](https://codeiq.jp/ace/ozy4dm/q1022)([q1022](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1022))
+    + [書籍発刊記念問題（プレゼント付）！「わんにゃんキャッスル」解説 #プログラミング #ruby](https://codeiq.jp/magazine/2015/02/21755/)[.](https://codeiq.jp/my_feedback.php?challenge_log_id=188816)
 
 * [Short Coder @ozy4dm　Ozy@彦星さん](https://codeiq.jp/ace/ozy_hikoboshi/)
   - [七夕問題☆牽牛 彦星 牛を飼う](https://codeiq.jp/ace/ozy_hikoboshi/q959)([q959](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q959))

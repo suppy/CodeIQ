@@ -1,0 +1,67 @@
+(1)・(2)は必ずご記入ください
+
+(1)出力例に従って、map1000.txtを入力とした出力結果をご記入ください【必須】
+W: 95
+N: 99
+
+
+(2)使用したプログラミング言語を教えてください【必須】
+Ruby
+
+
+(3)ソースコードを貼り付けてください（任意）
+@map = ""
+@map_size = 0
+while line = gets
+	@map += line.strip
+	@map_size = line.strip.length
+end
+ 
+@map = @map.gsub(/W/, "0").gsub(/N/, "1").gsub(/\n/, "")
+ 
+max = [1, 1]
+(0...(@map_size-1)).each do |y|
+  break if y + max.min > @map_size
+  (0...(@map_size-1)).each do |x|
+    wan_nyan = @map[x + y * @map_size].to_i
+    break if x + max[wan_nyan] > @map_size
+    # (x, y)を左上の頂点とする正方形のサイズの最大値を求める
+    count = 1
+    (2..@map_size).each do |n|
+      break if x + n > @map_size || y + n > @map_size
+      # 右隣りの列
+      (y...(y+n)).each do |j|
+        break if wan_nyan != @map[(x + n - 1) + j * @map_size].to_i
+        count += 1
+      end
+      # 一段下の列
+      (x...(x+n)).each do |i|
+        break if wan_nyan != @map[i + (y + n - 1) * @map_size].to_i
+        count += 1
+      end
+      # 右下は重複して数えているので１減らす
+      count -= 1 if wan_nyan == @map[(x + n - 1) + (y + n - 1) * @map_size].to_i
+      break if count != n * n
+      if n > max[wan_nyan]
+        max[wan_nyan] = n
+        #print "#{x},#{y}:#{max[wan_nyan]}*#{max[wan_nyan]} #{wan_nyan} #{max}\n"
+      end
+    end
+  end  
+end
+print "W: #{max[0]}\n"
+print "N: #{max[1]}\n"  
+
+(4)差し支えなければ、次のアンケートにお答えください（任意）
+・AOJ（Aizu Online Judge）というオンラインジャッジシステムを利用したことがありますか？
+ - いいえ
+
+・イヌ派ですか？それともネコ派ですか？
+ - ネコ派
+
+・「こんなプログラミング本があったらうれしい！」みたいなものがあったら教えてください
+
+
+(5)その他　ご意見・ご感想など（任意）
+
+
