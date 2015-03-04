@@ -414,6 +414,7 @@
   - [プリッとアンサー「お年玉GET作戦」](https://codeiq.jp/ace/fox_platoon/q1274)([q1274](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1274))
   - [プリッとアンサー「お餅を焼くぞ」](https://codeiq.jp/ace/fox_platoon/q1292)([q1292](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1292))
   - [プリッとアンサー「恵方巻を求めて」](https://codeiq.jp/ace/fox_platoon/q1293)([q1293](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1293))
+  - [プリッとアンサー「鬼の順番決め」](https://codeiq.jp/ace/fox_platoon/q1294)([q1294](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1294))
 
 * [@makotoo2　大津 真さん](https://codeiq.jp/ace/ohtsu_makoto/)
   - [Swiftに挑戦 その1](https://codeiq.jp/ace/ohtsu_makoto/q1014)([q1014](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1014))
