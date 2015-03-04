@@ -1,0 +1,65 @@
+http://ideone.com/CpwZxy
+
+http://ideone.com/R5Jn2x
+
+http://ideone.com/nmFybs (提出版)
+
+
+体力が最小の敵
+        """
+        min_HP = 200
+        for monster in foes:
+        	if min_HP > monster.HP:
+        		min_HP = monster.HP
+        		target = monster
+        # => 11%
+        """
+
+体力が最大の敵
+        """
+        max_HP = 0
+        for monster in foes:
+        	if max_HP < monster.HP:
+        		max_HP = monster.HP
+        		target = monster
+        # => 0%
+        """
+
+
+ダメージが最大になる敵
+        """
+        max_damage = 0
+        for monster in foes:
+            if self.ATK/2 - monster.DEF/4.0 > max_damage:
+            	max_damage = self.ATK/2 - monster.DEF/4.0
+            	target = monster
+        # => 12%            
+        """
+
+受けるダメージが最大になる敵
+	max_damage = 0
+        for monster in foes:
+            if monster.ATK/2 - self.DEF/4.0 > max_damage:
+            	max_damage = monster.ATK/2 - self.DEF/4.0
+            	target = monster
+        # => 17%      
+     
+攻撃力が最大の敵
+        """
+        max_ATK = 0
+        for monster in foes:
+            if monster.ATK > max_ATK:
+                max_ATK = monster.ATK
+                target = monster
+                #print(monster.ATK)
+        # => 18%
+
+行動順序が先頭
+        """
+        target = foes[0] # => 22%
+
+ランダム
+        #target = random.choice(foes) # => 1%
+
+
+

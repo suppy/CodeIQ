@@ -1,0 +1,211 @@
+・使用したプログラミング言語
+Python 3
+
+・ソースコード
+# -*- coding: utf-8 -*-
+
+from __future__ import division, unicode_literals
+import logging
+import random
+
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.INFO)
+ch = logging.StreamHandler()
+ch.setLevel(logging.INFO)
+logger.addHandler(ch)
+
+
+class Act:
+    """
+    行動を抽象化したクラス
+    """
+    def do(self, actor):
+        pass
+
+
+class Attack(Act):
+    """
+    攻撃
+    """
+    def __init__(self, target):
+        self.target = target
+
+    def do(self, actor):
+        damage = actor.calc_damage(self.target)
+        logger.debug("%8s -> %8s HP:%5d" % (str(actor), str(self.target), -damage))
+        self.target.HP = max(0, self.target.HP-damage)
+
+
+class Unit:
+    """
+    ユニット
+    """
+    def __init__(self, team, name, HP, ATK, DEF, SPD):
+        self.team = team
+        self.name = name
+        self.HP = HP
+        self.ATK = ATK
+        self.DEF = DEF
+        self.SPD = SPD
+
+    def is_active(self):
+        """ 行動可能か """
+        return self.HP>0
+
+    def is_player(self):
+        """ プレイヤーか """
+        return self.team==0
+
+    def is_monster(self):
+        """ モンスターか """
+        return self.team!=0
+
+    def calc_action_priority(self):
+        """ 行動の優先順位を求める """
+        var = random.uniform(0.75, 1.0)
+        return self.SPD * var
+
+    def calc_damage(self, target):
+        """ ダメージを計算する """
+        var = random.uniform(1-1/16.0, 1+1/16.0)
+        return int(max(self.ATK/2 - target.DEF/4.0, 0) * var)
+
+    def think_as_player(self, units, order):
+        """
+        プレイヤーAI。このアルゴリズムを改良しましょう
+
+        2015/2/14
+        行動に相当する処理をAttackクラスに移しました。
+        本関数では、行動内容（現状は攻撃のみの一択）を返してください。
+        """
+        # 行動可能な敵ユニットの抽出
+        foes = list(filter(Unit.is_active, filter(Unit.is_monster, units)))
+        """
+        # 攻撃対象をランダムに選択
+        target = random.choice(foes)
+        """
+        """
+        # 体力が最小の敵
+        min_HP = 200
+        for monster in foes:
+        	if min_HP > monster.HP:
+        		min_HP = monster.HP
+        		target = monster
+        # => 11%
+        """
+        """
+        # 体力が最大の敵
+        max_HP = 0
+        for monster in foes:
+        	if max_HP < monster.HP:
+        		max_HP = monster.HP
+        		target = monster
+        # => 0%
+        """
+        """
+        # 与えるダメージが最大になる敵
+        max_damage = 0
+        for monster in foes:
+            if self.ATK/2 - monster.DEF/4.0 > max_damage:
+                max_damage = self.ATK/2 - monster.DEF/4.0
+                target = monster
+        # => 12%            
+        """
+        """
+        # 受けるダメージが最大になる敵
+        """
+        max_damage = 0
+        for monster in foes:
+            if monster.ATK/2 - self.DEF/4.0 > max_damage:
+            	max_damage = monster.ATK/2 - self.DEF/4.0
+            	target = monster
+        # => 17%
+        """
+        # 攻撃力が最大の敵
+        max_ATK = 0
+        for monster in foes:
+            if monster.ATK > max_ATK:
+                max_ATK = monster.ATK
+                target = monster
+                #print(monster.ATK)
+        # => 18%
+        """
+        """
+        # 行動順序が先頭
+        target = foes[0]
+        # => 22%      
+        """
+        return Attack(target)
+
+    def think_as_monster(self, units, order):
+        """
+        モンスターAI。
+        """
+        # 行動可能な敵ユニットの抽出
+        foes = list(filter(Unit.is_active, filter(Unit.is_player, units)))
+        # 攻撃対象をランダムに選択
+        target = random.choice(foes)
+        return Attack(target)
+
+    def __str__(self):
+        return self.name
+
+
+def do_battle(players, monsters):
+    """
+    バトルのシミュレーション
+    """
+    teams = [players, monsters]
+
+    while(1):
+        # 行動可能なユニットを求める
+        active_units = filter(Unit.is_active, players+monsters)
+
+        # 行動が早い順にユニットソート
+        active_units = sorted(active_units, key=Unit.calc_action_priority,
+                              reverse=True)
+
+        for order, me in enumerate(active_units):
+            # 行動可能かチェック
+            if not me.is_active():
+                continue
+
+            if me.team==0:
+                # プレイヤーの行動
+                action = me.think_as_player(active_units, order)
+                action.do(me)
+            else:
+                # モンスターの行動
+                action = me.think_as_monster(active_units, order)
+                action.do(me)
+
+            # 戦闘終了の判定
+            if not any(filter(Unit.is_active, teams[1-me.team])):
+                return me.team
+
+
+if __name__ == '__main__':
+    win = [0, 0]
+
+    # 1000回バトルをシミュレーションする
+    for n in range(0, 1000):
+        logger.debug("--- Battle No.%d ---" % n)
+        players = [
+            Unit(0, "knight", 124, 55, 65, 32),
+            Unit(0, "archer", 96, 85, 35, 40),
+            Unit(0, "thief", 139, 37, 41, 68),
+        ]
+
+        monsters = [
+            Unit(1, "goblin", 88, 49, 21, 38),
+            Unit(1, "raven", 96, 112, 52, 75),
+            Unit(1, "ogre", 198, 60, 68, 39),
+        ]
+
+        win[do_battle(players, monsters)] += 1
+    
+    # プレイヤーの勝率を100分率で表示
+    print("Player win rate %7.5f%%" % (100.0 * win[0] / sum(win),))
+
+・出力結果
+Player win rate 19.60000%
