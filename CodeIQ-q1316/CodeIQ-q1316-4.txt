@@ -1,0 +1,11 @@
+m=0
+for(i=0;i<8;i++){
+a=f.concat()
+if(!f[i]){
+a[i]=2
+a[i-1]=2*f[i-1]
+a[i+1]=2*f[i+1] 
+}
+for(n=0,j=0;j<8;)if(a[j++]>=2)n++
+if(m<n)m=n
+}r=m

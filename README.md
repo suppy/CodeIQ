@@ -103,6 +103,9 @@
     + [世界の秘宝をゲットせよ！～その3～ 問題解説 #javascript](https://codeiq.jp/magazine/2015/02/21603/)
   - [世界の秘宝をゲットせよ！～その4～](https://codeiq.jp/ace/yanai_masakazu/q1279)([q1279](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1279))
     + [世界の秘宝をゲットせよ！～その4～ 問題解説 #javascript](https://codeiq.jp/magazine/2015/02/21628/)
+  - [ゾンビのダンジョン - LV1](https://codeiq.jp/ace/yanai_masakazu/q1316)[(q1316](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1316)[)](https://codeiq.jp/my_feedback.php?challenge_log_id=189830)
+  - [ゾンビのダンジョン - LV2](https://codeiq.jp/ace/yanai_masakazu/q1317)[(q1317](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1317)[)](https://codeiq.jp/my_feedback.php?challenge_log_id=189831)
+    + [大人気ダンジョンシリーズ！ゾンビのダンジョンの解説+最短コード発表 #javascript](https://codeiq.jp/magazine/2015/03/21703/)
 
 * [CodeIQちょこっとプログラミング　クロノス・クラウン合同会社 代表社員 柳井 政和さん](https://codeiq.jp/ace/chocopro_yanai/)
   - [5分で挑戦！3つのコードで完成させて](https://codeiq.jp/ace/chocopro_yanai/q718)([q718](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q718))

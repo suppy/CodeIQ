@@ -1,0 +1,10 @@
+m=Math
+x=0
+for(i=0;i<8;i++){
+a=f.concat()
+a[i]=m.abs(f[i]-1)+1
+a[i-1]+=(t=1-f[i]/2)*m.sign(f[i-1])
+a[i+1]+=t*m.sign(f[i+1])
+for(n=0,j=0;j<8;)n+=m.floor(a[j++]/2)
+x=m.max(x,n)
+}r=x
