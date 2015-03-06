@@ -1,0 +1,7 @@
+言語:Ruby
+Team:LGS
+解答コード:
+88.times{|i|$><<%w(moon fire water tree gold)["2cbykiwf8y50f2ravhct940ud6yo64rivae4u1jb5vx81e1a829vtrjk8".to_i(36).to_s[i].to_i]}
+補足:
+moon→0,fire→1,water→2,tree→3,gold→4
+36進数化

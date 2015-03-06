@@ -1,0 +1,7 @@
+言語:Ruby
+Team:LGS
+解答コード:
+w=%w(moon fire water tree gold);44.times{|i|c="B@LBCCCCCBLLBLB7B9LLLLLCCBCB/K$$MAMBMB#M9B%I"[i].ord;$><<w[c/10-3]+w[c%10-3]}
+補足:
+moon→3,fire→4,water→5,tree→6,gold→7
+2文字ずつに区切り、その2文字をASCIIコードと考えて、文字に変換

@@ -1,0 +1,7 @@
+88.times{|i|$><<%w(moon fire water tree gold)["3331433334343434343343433343332233244343434343343433343314420303443244334433024424330440"[i].to_i]}
+88.times{|i|$><<%w(moon fire water tree gold)["2cbykiwf8y50f2ravhct940ud6yo64rivae4u1jb5vx81e1a829vtrjk8".to_i(36).to_s[i].to_i]}
+88.times{|i|$><<%w(water tree gold moon fire)["s7e0427obm3njbf1w7dqx9rhtn6w17exuznkkki83sn8bn65p5yjtrrb".to_i(36).to_s[i].to_i]}
+w=%w(0 0 0 0 moon fire water tree gold);44.times{|i|c="MKWMNNNNNMWWMWMBMDWWWWWNNMNM:V//XLXMXM.XDM0T"[i].ord;$><<w[c/10]+w[c%10]}
+w=%w(0 0 0 moon fire water tree gold);44.times{|i|c="B@LBCCCCCBLLBLB7B9LLLLLCCBCB/K$$MAMBMB#M9B%I"[i].ord;$><<w[c/10]+w[c%10]}
+w=%w(moon fire water tree gold);44.times{|i|c="B@LBCCCCCBLLBLB7B9LLLLLCCBCB/K$$MAMBMB#M9B%I"[i].ord;$><<w[c/10-3]+w[c%10-3]}
+88.times{|i|$><<%w(moon fire water tree gold)["4v35qchn0wer41j78k9hbsf2kyzjengcur5pqr9x".to_i(36).to_s(5)[i].to_i]}
