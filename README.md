@@ -460,6 +460,7 @@
   - [「ピッキング・カード」問題](https://codeiq.jp/ace/kawazoe/q1219)[(q1219](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1219)[)](https://codeiq.jp/my_feedback.php?challenge_log_id=178660)
   - [「パワー・オブ・フィボナッチ」問題](https://codeiq.jp/q/1284)[(q1284](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1284)[)](https://codeiq.jp/my_feedback/188566)
   - [「ブラック・ブロック」問題](https://codeiq.jp/q/1339)[(q1339](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1339)[)](https://codeiq.jp/my_feedback/193645)
+  - [「フィーバー・ナンバー」問題](https://codeiq.jp/q/1355)[(q1355](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1355)[)](https://codeiq.jp/my_feedback/198517)
 
 * [株式会社ソニックガーデン　伊藤 淳一さん](https://codeiq.jp/ace/ito_junichi/)
   - [Rubyでビンゴカードを作ろう！](https://codeiq.jp/ace/ito_junichi/q1326)[(q1326](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1326)[)](https://codeiq.jp/my_feedback.php?challenge_log_id=192430)
