@@ -463,3 +463,6 @@
   - [Rubyでビンゴカードを作ろう！](https://codeiq.jp/ace/ito_junichi/q1326)[(q1326](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1326)[)](https://codeiq.jp/my_feedback.php?challenge_log_id=192430)
     + [Ruby -「ビンゴカード作成問題」の優秀作品ベスト3を発表します！ #codeiq](http://blog.jnito.com/entry/2015/03/06/085433)
     + [Ruby初心者必見！？「ビンゴカード作成問題」のリファクタリング風景をお見せします #codeiq](http://blog.jnito.com/entry/2015/03/06/090106)
+
+* 惑星オルフェウス　プロフェッサー シミズさん
+  - [ブラックホールからの脱出](https://codeiq.jp/q/1131)[(q1131](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1131)[)](https://codeiq.jp/my_feedback/167931)
