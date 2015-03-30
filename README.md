@@ -466,3 +466,4 @@
 
 * 惑星オルフェウス　プロフェッサー シミズさん
   - [ブラックホールからの脱出](https://codeiq.jp/q/1131)[(q1131](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1131)[)](https://codeiq.jp/my_feedback/167931)
+  - [天地創造 - 産めよ増えよ地に満ちよ](https://codeiq.jp/q/1268)[(q1268](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1268)[)](https://codeiq.jp/my_feedback/185710)
