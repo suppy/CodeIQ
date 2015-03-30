@@ -330,6 +330,8 @@
   - [GitHub素数Userは何人](https://codeiq.jp/ace/tbpgr_badge/q1197)([q1197](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1197))
   - [コードを汚く逆リファクタリング](https://codeiq.jp/ace/tbpgr_badge/q1249)([q1249](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1249))
     + [汚コードグランプリ！秀逸な汚コードにまみれた解答臭をご覧あれ #逆リファクタリング](https://codeiq.jp/magazine/2015/02/21347/)
+  - [Emoji-サザンイマジネーション](https://codeiq.jp/q/1323)[(q1323](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1323)[)](https://codeiq.jp/my_feedback/192506)
+    + [エモいEmojiで感情豊かに、楽しく開発 #emoji](https://codeiq.jp/magazine/2015/03/22425/)
 
 * [@tbpgr　tbpgrさん](https://codeiq.jp/ace/tbpgr/)
   - [呪いの右仮面](https://codeiq.jp/ace/tbpgr/q1026)([q1026](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1026))
