@@ -472,3 +472,6 @@
 * 惑星オルフェウス　プロフェッサー シミズさん
   - [ブラックホールからの脱出](https://codeiq.jp/q/1131)[(q1131](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1131)[)](https://codeiq.jp/my_feedback/167931)
   - [天地創造 - 産めよ増えよ地に満ちよ](https://codeiq.jp/q/1268)[(q1268](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1268)[)](https://codeiq.jp/my_feedback/185710)
+
+* エクスペリンクマーケティング株式会社　城下愛子さん
+  - [データマイニングの基礎　グループ分け](https://codeiq.jp/q/1136)[(q1136](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1136)[)](https://codeiq.jp/my_feedback/173123)
