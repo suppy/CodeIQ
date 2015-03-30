@@ -1,0 +1,33 @@
+（１）答え
+25
+
+（２）どの言語で書いたか
+C
+
+（３）ソースコード説明
+2 から 100 までのそれぞれの整数について、1 より大きくその数未満の数で割った余りが 0 であれば、
+割り切れることになり、素数ではないことになる。
+
+
+（４）ソースコード
+#include <stdio.h>
+
+int main(void) {
+	int i, j;
+	int count = 0;
+	int prime;
+	for(i = 2;i <= 100;i++) {
+		prime = 1;
+		for(j = 2;j < i;j++) {
+			if(i % j == 0) {
+				prime = 0;
+				break;
+			}
+		}
+		if(prime == 1) {
+			count++;
+		}
+	}
+	printf("%d\n", count);
+	return 0;
+}
