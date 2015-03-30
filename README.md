@@ -475,4 +475,5 @@
 
 * エクスペリンクマーケティング株式会社　城下愛子さん
   - [データマイニングの基礎　グループ分け](https://codeiq.jp/q/1136)[(q1136](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1136)[)](https://codeiq.jp/my_feedback/173123)
+  - [本のレコメンド機能をつくる](https://codeiq.jp/q/1187)[(q1187](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1187)[)](https://codeiq.jp/my_feedback/180621)
   - [素数ゲームに勝って柿をゲットせよ！](https://codeiq.jp/q/1193)[(q1193](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1193)[)](https://codeiq.jp/my_feedback/176128)
