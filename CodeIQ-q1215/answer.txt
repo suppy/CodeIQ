@@ -1,0 +1,59 @@
+V406435859539156181269150751031
+V1101943557675920722238136981003
+ENV: Ruby
+POINT:
+■データベース 1
+キーの K の後の数字は、インデクスとともに増加しているようなので、
+インデクスを二分探索して求めました。
+
+ソースコード
+
+def access_salvageon(db, index)
+  url = URI.parse('http://salvageon.textfile.org/')
+  res = Net::HTTP.start(url.host, url.port) do |http|
+    http.get("/?db=#{db}&index=#{index}")
+  end
+  return res.body
+end
+
+# db 1
+
+db = 1
+index = 0
+
+res = access_salvageon(db, index)
+size = res.split(' ')[4].to_i
+
+sleep 1
+
+key_data = "K208050656559285601386927895421059705239114932023754"
+start_index = 0
+end_index = size - 1
+loop do
+  index = (end_index - start_index) / 2 + start_index
+
+  res = access_salvageon(db, index)
+  key = res.split(' ')[2]
+  print "#{index}:#{key}\n"
+  if key == key_data
+    value = res.split(' ')[3]
+    puts value
+    break
+  elsif key[1..-1].to_i < key_data[1..-1].to_i
+    start_index = index
+  else
+    end_index = index
+  end
+  sleep 1
+end
+
+
+■データベース 2
+インデクスがデータベースのサイズの 1/2 の値から数個分調べてみると、
+キーの K の後の数字が、1 から始まる奇数になっていることが予想されました。
+探すべきデータのキーの K の後の数字も奇数になっているので、
+第何項目の奇数かを求め、インデクスを計算して、バリューを得ました。
+
+
+
+

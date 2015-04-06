@@ -134,6 +134,8 @@
     + [《スペーストーキー問題》挑戦者コード集](http://togetter.com/li/660437)
   - [チケットゴブル社の旅行プランを作れ！](https://codeiq.jp/ace/yuki_hiroshi/q863)([q863](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q863))
     + [《チケットゴブル問題》挑戦者コード集](http://togetter.com/li/669617)
+  - [サルベジオン社で宇宙船のデータを救え](https://codeiq.jp/q/1215)([q1215](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1215))
+    + [CodeIQサルベジオン問題、解答コードまとめ](http://togetter.com/li/758302)
 
 * [Short Coder @ozy4dm  Ozyさん](https://codeiq.jp/ace/ozy4dm/)
   - [ショートコーディング：パスカルの△](https://codeiq.jp/ace/ozy4dm/q310)([q310](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q310))
