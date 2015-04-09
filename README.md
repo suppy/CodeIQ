@@ -200,6 +200,9 @@
     + [CodeIQ に出した「中学入試から：概数と計算」の 解説解題](http://nabetani.hatenablog.com/entry/codeiq_round_q1282)
   - [中学入試から：対称軸の本数を数えよう](https://codeiq.jp/ace/nabetani_takenori/q1318)([q1318](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1318))
     + [CodeIQ に出した「中学入試から：対称軸の本数を数えよう」の 解説・解題](http://nabetani.hatenablog.com/entry/codeiq_symmet_q1318)[.](https://codeiq.jp/my_feedback.php?challenge_log_id=189327)
+  - [対戦型 hello, world!](https://codeiq.jp/q/1356)[(q1356](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1356)[)](https://codeiq.jp/my_feedback/199639)
+    + [対戦型 hello, world! の解説・解題](http://nabetani.hatenablog.com/entry/codeiq_hwbattle_q1356)
+    + [対戦型 hello, world! ( CodeIQ ) 全結果](http://nabetani.sakura.ne.jp/codeiq/hwbattle/all.html)
 
 * [CodeIQ運営事務局　アプリケーションエンジニアを募集する企業さん](https://codeiq.jp/ace/joboffer_apli/)
   - [PHP：兵士と巨人の川渡り](https://codeiq.jp/ace/joboffer_apli/q636)(q636)
