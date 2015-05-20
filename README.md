@@ -354,6 +354,10 @@
   - [呪いの右仮面](https://codeiq.jp/ace/tbpgr/q1026)([q1026](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1026))
   - [PIの中にRaspberryはいくつ](https://codeiq.jp/ace/tbpgr/q1056)([q1056](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1056))
 
+* @tbpgr   tbpgr（Rubictionary変酋長）さんからの問題
+  - [第1回 Rubictionary](https://codeiq.jp/q/1343)
+    + [割とあるサンプルコード書く機会。第1回Rubictionary問題結果発表です！ #rubictionary](https://codeiq.jp/magazine/2015/04/22508/)[.](https://codeiq.jp/my_feedback/196794)
+
 * [株式会社Branding Engineer  勅使瓦 悠太さん](https://codeiq.jp/ace/teshi/)
   - [より良いコードに書き換えろ！](https://codeiq.jp/ace/teshi/q750)([q750](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q750))
 
