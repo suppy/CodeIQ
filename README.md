@@ -478,6 +478,8 @@
   - [「パワー・オブ・フィボナッチ」問題](https://codeiq.jp/q/1284)[(q1284](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1284)[)](https://codeiq.jp/my_feedback/188566)
   - [「ブラック・ブロック」問題](https://codeiq.jp/q/1339)[(q1339](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1339)[)](https://codeiq.jp/my_feedback/193645)
   - [「フィーバー・ナンバー」問題](https://codeiq.jp/q/1355)[(q1355](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1355)[)](https://codeiq.jp/my_feedback/198517)
+  - [「バイナリ・カウント」問題](https://codeiq.jp/q/1539)[(q1539](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1539)[)](https://codeiq.jp/my_feedback/204861)
+    + [CodeIQ「バイナリ・カウント」問題 みんなのコード](http://togetter.com/li/823763)
 
 * [株式会社ソニックガーデン　伊藤 淳一さん](https://codeiq.jp/ace/ito_junichi/)
   - [Rubyでビンゴカードを作ろう！](https://codeiq.jp/ace/ito_junichi/q1326)[(q1326](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1326)[)](https://codeiq.jp/my_feedback.php?challenge_log_id=192430)
