@@ -480,6 +480,8 @@
   - [「フィーバー・ナンバー」問題](https://codeiq.jp/q/1355)[(q1355](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1355)[)](https://codeiq.jp/my_feedback/198517)
   - [「コモン・マルチプル」問題](https://codeiq.jp/q/1382)[(q1382](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1382)[)](https://codeiq.jp/my_feedback/200250)
     + [CodeIQ「コモン・マルチプル」問題 みんなのコード](http://togetter.com/li/803755)
+  - [コード・トライアスロン](https://codeiq.jp/q/1383)[(q1383](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1383)[)](https://codeiq.jp/my_feedback/199802)
+    + [CodeIQ「コード・トライアスロン」問題 みんなのコード](http://togetter.com/li/809602)
   - [「バイナリ・カウント」問題](https://codeiq.jp/q/1539)[(q1539](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1539)[)](https://codeiq.jp/my_feedback/204861)
     + [CodeIQ「バイナリ・カウント」問題 みんなのコード](http://togetter.com/li/823763)
 
