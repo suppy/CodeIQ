@@ -405,6 +405,7 @@
   - [1～7の数字を式にあてはめよう 中級](https://codeiq.jp/ace/stakemura/q1211)[(q1211](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1211)[)](https://codeiq.jp/my_feedback.php?challenge_log_id=180617)
   - [1～8の数字を式にあてはめよう 上級](https://codeiq.jp/ace/stakemura/q1190)[(q1190](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1190)[)](https://codeiq.jp/my_feedback.php?challenge_log_id=180623)
   - [最強のAIでモンスターを殲滅せよ](https://codeiq.jp/ace/stakemura/q1303)[(q1303](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1303)[)](https://codeiq.jp/my_feedback.php?challenge_log_id=189833)
+  - [キュラゲの辺の数を求めよう](https://codeiq.jp/q/1525)[(q1525](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1525)[)](https://codeiq.jp/my_feedback/202519)
 
 * [@antimon2　antimon2さん](https://codeiq.jp/ace/antimon2/)
   - [yieldのお勉強 Lv.1(Ruby編)](https://codeiq.jp/ace/antimon2/q1001)([q1001](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1001))
