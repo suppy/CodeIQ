@@ -230,6 +230,7 @@
   - [プリッとアンサー「1年○組」](https://codeiq.jp/ace/shoji_shinichi/q831)(q831)
   - [プリッとアンサー「潮干狩り」](https://codeiq.jp/ace/shoji_shinichi/q882)([q882](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q882))
   - [プリッとアンサー「絵画コンクール」](https://codeiq.jp/ace/shoji_shinichi/q1151)([q1151](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1151))
+  - [プリッとアンサー「Pからの挑戦状」](https://codeiq.jp/q/1325)[(q1325](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1325)[)](https://codeiq.jp/my_feedback/190971)
   - [プリッとアンサー「山ガールの挑戦」](https://codeiq.jp/q/1341)[(q1341](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1341)[)](https://codeiq.jp/my_feedback/193781)
 
 * [@nkawagashira  川頭 信之さん](https://codeiq.jp/ace/kawagashira_nobuyuki/)

@@ -1,0 +1,5 @@
+http://ideone.com/vnn9sh
+
+
+PHP: Iterator - Manual
+http://php.net/manual/ja/class.iterator.php
