@@ -110,6 +110,8 @@
     + [世界の秘宝をゲットせよ！～その5～ 問題解説 #javascript](https://codeiq.jp/magazine/2015/04/21995/)
   - [世界の秘宝をゲットせよ！～その6～](https://codeiq.jp/q/1337)[(q1337](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1337)[)](https://codeiq.jp/my_feedback/192178)
     + [世界の秘宝をゲットせよ！～その6～ 問題解説 #javascript](https://codeiq.jp/magazine/2015/04/23289/)
+  - [世界の秘宝をゲットせよ！～その7～](https://codeiq.jp/q/1338)[(q1338](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1338)[)](https://codeiq.jp/my_feedback/193475)
+    + [世界の秘宝をゲットせよ！～その7～ 問題解説 #javascript](https://codeiq.jp/magazine/2015/04/23320/)
 
 * [CodeIQちょこっとプログラミング　クロノス・クラウン合同会社 代表社員 柳井 政和さん](https://codeiq.jp/ace/chocopro_yanai/)
   - [5分で挑戦！3つのコードで完成させて](https://codeiq.jp/ace/chocopro_yanai/q718)([q718](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q718))
