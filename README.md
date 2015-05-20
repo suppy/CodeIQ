@@ -357,6 +357,8 @@
 * @tbpgr   tbpgr（Rubictionary変酋長）さんからの問題
   - [第1回 Rubictionary](https://codeiq.jp/q/1343)
     + [割とあるサンプルコード書く機会。第1回Rubictionary問題結果発表です！ #rubictionary](https://codeiq.jp/magazine/2015/04/22508/)[.](https://codeiq.jp/my_feedback/196794)
+  - [第2回 Rubictionary](https://codeiq.jp/q/1350)([q1350](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1350)[)](https://codeiq.jp/my_feedback/198528)
+    + [割とあるサンプルコード書く機会 。第2回Rubictionary問題結果発表です！ #rubictionary](https://codeiq.jp/magazine/2015/04/23081/)
 
 * [株式会社Branding Engineer  勅使瓦 悠太さん](https://codeiq.jp/ace/teshi/)
   - [より良いコードに書き換えろ！](https://codeiq.jp/ace/teshi/q750)([q750](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q750))
