@@ -345,6 +345,8 @@
     + [汚コードグランプリ！秀逸な汚コードにまみれた解答臭をご覧あれ #逆リファクタリング](https://codeiq.jp/magazine/2015/02/21347/)
   - [Emoji-サザンイマジネーション](https://codeiq.jp/q/1323)[(q1323](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1323)[)](https://codeiq.jp/my_feedback/192506)
     + [エモいEmojiで感情豊かに、楽しく開発 #emoji](https://codeiq.jp/magazine/2015/03/22425/)
+  - [不適切な FizzBuzz の世界](https://codeiq.jp/q/1357)([q1357](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1357)[)](https://codeiq.jp/my_feedback/198337)
+    + [不適切の、不適切による、不適切のための『FizzBuzz』結果発表！](https://codeiq.jp/magazine/2015/04/22840/)
 
 * [@tbpgr　tbpgrさん](https://codeiq.jp/ace/tbpgr/)
   - [呪いの右仮面](https://codeiq.jp/ace/tbpgr/q1026)([q1026](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1026))
