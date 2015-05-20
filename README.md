@@ -440,6 +440,7 @@
   - [プリッとアンサー「恵方巻を求めて」](https://codeiq.jp/ace/fox_platoon/q1293)([q1293](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1293))
   - [プリッとアンサー「鬼の順番決め」](https://codeiq.jp/ace/fox_platoon/q1294)([q1294](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1294))
   - [プリッとアンサー「三つ子の雪遊び」](https://codeiq.jp/ace/fox_platoon/q1324)([q1324](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1324))
+  - [プリッとアンサー「ひな人形を飾ろう」](https://codeiq.jp/q/1340)[(q1340](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1340)[)](https://codeiq.jp/my_feedback/192485)
   - [プリッとアンサー「三回まわってワン」](https://codeiq.jp/q/1377)[(q1377](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1377)[)](https://codeiq.jp/my_feedback/196846)
   - [プリッとアンサー「ヤマコー金融２」](https://codeiq.jp/q/1379)[(q1379](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1379)[)](https://codeiq.jp/my_feedback/200248)
   - [プリッとアンサー「三つ子の花粉症」](https://codeiq.jp/q/1523)[(q1523](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1523)[)](https://codeiq.jp/my_feedback/201991)
