@@ -517,6 +517,8 @@
     + [CodeIQ「コード・トライアスロン」問題 みんなのコード](http://togetter.com/li/809602)
   - [「バイナリ・カウント」問題](https://codeiq.jp/q/1539)[(q1539](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1539)[)](https://codeiq.jp/my_feedback/204861)
     + [CodeIQ「バイナリ・カウント」問題 みんなのコード](http://togetter.com/li/823763)
+  - [「フィズ・バズ・エクストリーム」問題](https://codeiq.jp/q/1560)[(q1560](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1560)[)](https://codeiq.jp/my_feedback/222644)
+    + [CodeIQ「フィズ・バズ・エクストリーム」問題 みんなのコード](http://togetter.com/li/840836)
 
 * [株式会社ソニックガーデン　伊藤 淳一さん](https://codeiq.jp/ace/ito_junichi/)
   - [Rubyでビンゴカードを作ろう！](https://codeiq.jp/ace/ito_junichi/q1326)[(q1326](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1326)[)](https://codeiq.jp/my_feedback.php?challenge_log_id=192430)
