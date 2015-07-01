@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>加減・ビット・シフト演算のみで乗算を実装する</title>
+<meta charset="utf-8"/>
+</head>
+<body>
+  <article id="article">
+    <header id="header">
+      <h1>問題:加減・ビット・シフト演算のみで乗算を実装する</h1>
+      <time>2014-10-21</time>
+    </header>
+    <section id="section">
+      <h3>
+        昔の8ビットCPUで行っていた乗算処理をJavaScriptで実装してみましょう。
+      </h3>
+      <h3>問題</h3>
+      <p>1970後半から80年初頭に一世を風靡した8ビットCPU Z-80/6800/8080はCPUに乗算機能がありませんでした。乗算はすべてソフトウェア処理で実現していました。単純に被乗数を乗数回分ループして足すと乗数が大きくなるとループ回数が増え演算に時間がかかるため、乗算を高速に効率的に行うためにアルゴリズムに工夫が必要でした。</p>
+      <p>実は加減算とビット演算とシフト演算をうまく組み合わせることで、8ビットの乗算であればこのループを8回以内に収めることができます。今回はこのアルゴリズムをJavaScriptで実装するというのが問題です。</p>
+      <h3>解答方法</h3>
+      <p>このHTMLファイル中にある&lt;script&gt;タグ中の<code>function mul(x,y)</code>にコードを追加し乗算の実装を完成させてください。ただし、</p><ol>
+        <li>加減算・ビット演算・シフト演算(乗除算演算子は使用しない)で乗算を実装してください。</li>
+        <li> x,yの値の取る範囲は 0から255の整数とします。</li>
+        <li>単純にxをy回足す(またはyをx回足す)という計算は対象外とします。</li>
+      </ol>
+      <form>
+        <p><input type="text" value="0" id="x" />&nbsp;×&nbsp;<input type="text" value="0" id="y" />&nbsp;=&nbsp;<input type="text" id="result" value="0" disabled="disabled" />&nbsp;<button id="doCalc" type="button">計算!</button></p>
+      </form>
+      <p>
+        上記フォームの「計算!」ボタンをクリックすることで計算結果が表示されます。
+      </p>
+    </section>
+    <footer id="footer">
+      <p>問題作成者:SFPGMR</p>
+    </footer>
+  </article>
+<script type="text/javascript">
+  window.addEventListener('load',function(){
+    document.getElementById('doCalc').addEventListener('click', function () {
+      var x = parseInt(document.getElementById('x').value,10);
+      var y = parseInt(document.getElementById('y').value,10);
+      if(x < 0 || x > 255 || y < 0 || y > 255) {
+        alert('Error!');
+        return;
+      }
+      document.getElementById('result').value = mul(x,y);
+    })
+  });
+
+  function mul(x,y){
+    var result = 0;
+    // ここに実装してください。//
+    for(i = 0;i < 8;i++) {
+      if(y & 1 == 1) {
+        result += x;
+      }
+      x = x << 1;
+      y = y >> 1;
+    }
+
+    return result;
+  }
+</script>
+</body>
+</html>

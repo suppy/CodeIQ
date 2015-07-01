@@ -490,6 +490,7 @@
 * [@sfpgmr　sfpgmrさん](https://codeiq.jp/ace/sfpgmr/)
   - [XHTML5を知っていますか？](https://codeiq.jp/ace/sfpgmr/q1098)([q1098](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1098))
   - [セマンティックタグを使おう！](https://codeiq.jp/ace/sfpgmr/q1124)([q1124](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1124))
+  - [加減算・ビット演算による乗算の実装](https://codeiq.jp/q/1140)[(q1140)](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1140)
 
 * [CodeIQちょこっとプログラミング　@doradora09 さん](https://codeiq.jp/ace/chocopro_doradora09/)
   - [irisデータを使ったRの基礎](https://codeiq.jp/ace/chocopro_doradora09/q922)([q922](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q922))
