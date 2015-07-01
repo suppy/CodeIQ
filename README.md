@@ -470,6 +470,7 @@
   - [プリッとアンサー「三回まわってワン」](https://codeiq.jp/q/1377)[(q1377](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1377)[)](https://codeiq.jp/my_feedback/196846)
   - [プリッとアンサー「ヤマコー金融２」](https://codeiq.jp/q/1379)[(q1379](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1379)[)](https://codeiq.jp/my_feedback/200248)
   - [プリッとアンサー「三つ子の花粉症」](https://codeiq.jp/q/1523)[(q1523](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1523)[)](https://codeiq.jp/my_feedback/201991)
+  - [プリッとアンサー「出生届を受理しよう！」](https://codeiq.jp/q/1541)[(q1541](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1541)[)](https://codeiq.jp/my_feedback/204076)
 
 * [@makotoo2　大津 真さん](https://codeiq.jp/ace/ohtsu_makoto/)
   - [Swiftに挑戦 その1](https://codeiq.jp/ace/ohtsu_makoto/q1014)([q1014](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1014))
