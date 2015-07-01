@@ -1,0 +1,1 @@
+n,f,i,j,k,p,m[10000];main(){int d=1;scanf("%d",&n);for(;i<n;)m[i++]=1;for(;j<n;j++){f=0;while(0<=p&&p<n){if(m[p])m[p]=f=!f;p+=d;}p+=d=-d;}for(;k<n;)if(m[k++])printf("%d",k);}

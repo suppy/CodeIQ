@@ -1,0 +1,1 @@
+main(n,k,a){scanf("%d",&n);a=1;n--;for(k=2;k<8193;k*=4)a+=n%(k*2)/k*k;printf("%d",a);}
