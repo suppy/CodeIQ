@@ -1,0 +1,1 @@
+t=(typeof q)[0];r=(t=="n"||t=="s")?q+q+q:(t=="o")?q.concat(q,q):!q

@@ -1,0 +1,4 @@
+switch(typeof q){case"number":r=3*q;break
+case"string":r=q+q+q;break
+case"boolean":r=!!!q;break
+default:if(q instanceof Array)r=q.concat(q.concat(q))}

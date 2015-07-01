@@ -1,0 +1,1 @@
+switch((typeof q)[0]){case"n":case"s":return q+q+q;case"o":return q.concat(q,q);case"b":return!q}
