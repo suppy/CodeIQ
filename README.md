@@ -552,3 +552,7 @@
   - [データマイニングの基礎　グループ分け](https://codeiq.jp/q/1136)[(q1136](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1136)[)](https://codeiq.jp/my_feedback/173123)
   - [本のレコメンド機能をつくる](https://codeiq.jp/q/1187)[(q1187](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1187)[)](https://codeiq.jp/my_feedback/180621)
   - [素数ゲームに勝って柿をゲットせよ！](https://codeiq.jp/q/1193)[(q1193](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1193)[)](https://codeiq.jp/my_feedback/176128)
+
+* SNS株式会社   堀江貴文さんからの問題
+  - [【3周年特別企画】ホリエモンからの挑戦状](https://codeiq.jp/q/1618)[(q1618)](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1618)
+    + [総勢986名の方が挑戦！ホリエモンからの挑戦状【解説編】 #C++ #Ruby #Python #JavaScript](https://codeiq.jp/magazine/2015/07/26213/)
