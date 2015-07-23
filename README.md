@@ -390,6 +390,8 @@
     + [エモいEmojiで感情豊かに、楽しく開発 #emoji](https://codeiq.jp/magazine/2015/03/22425/)
   - [不適切な FizzBuzz の世界](https://codeiq.jp/q/1357)([q1357](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1357)[)](https://codeiq.jp/my_feedback/198337)
     + [不適切の、不適切による、不適切のための『FizzBuzz』結果発表！](https://codeiq.jp/magazine/2015/04/22840/)
+  - CodeIQ3周年のお祝いコード[(CodeIQ-3rd-anniversary)](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-3rd-anniversary)
+    + [CodeIQが3周年だよ！“お祝いコード”全員集合 #hb3codeiq #codeiq](https://codeiq.jp/magazine/2015/07/25627/)
 
 * [@tbpgr　tbpgrさん](https://codeiq.jp/ace/tbpgr/)
   - [呪いの右仮面](https://codeiq.jp/ace/tbpgr/q1026)([q1026](https://github.com/suppy/CodeIQ/tree/master/CodeIQ-q1026))
