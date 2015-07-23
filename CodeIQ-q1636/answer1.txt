@@ -1,0 +1,1 @@
+for(i=0;i-7;)r[i]=(q[i++]==4)+0;r[i=q.join('').search(/0/)]=Math.floor((q[i-1]+q[i+1])/6)
