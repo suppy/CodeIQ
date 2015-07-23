@@ -1,0 +1,74 @@
+----------------------------CDEFGH---------------------------
+----------------------------LMNOPQ---------------------------
+----------------------------UVWXYZ---------------------------
+---------------QRSTUVWXYZABCDEFGHIJKLMNOPQRSTUV--------------
+--------------YZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEF-------------
+--------------HIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNO-------------
+--------------QRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWX-------------
+--------------ZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFG-------------
+--------------IJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNO--------------
+---------------STUVWXYZABCDEFGHIJKLMNOPQRSTUVW---------------
+----------------------------OPQRST---------------------------
+----------------------------XYZABC---------------------------
+----------------------------GHIJKL---------------------------
+----------------------------PQRSTU---------------------------
+----------------------------YZABC----------------------------
+
+
+-- 正解です！ 秘宝を入手しました！ --
+
+経過時間 29.506 sec
+
+確認回数 2 回
+
+// ANSWER_START
+[2, 1, 0]
+// ANSWER_END
+
+// CODE_START
+(function () { 
+    // 変数の初期化 
+    var txtW = 61, txtH = 15, arr = []; 
+ 
+    // 元画像 
+    var imgW = 13, imgH = 7; 
+    var imgA = [0,0,0,0,0,0,1,0,0,0,0,0,0]; 
+    var imgB = [0,0,0,1,1,1,1,1,1,1,0,0,0]; 
+    var img = [].concat  // 連結した配列を作成 
+        (imgA, imgB, imgB, imgB, imgA, imgA, imgA); 
+ 
+    var imgP = function(x, y) { 
+        var x2 = x / txtW * imgW | 0; 
+        var y2 = y / txtH * imgH | 0; 
+        // 配列imgの範囲外（undefined）の時は0を戻す 
+        return img[x2 + y2 * imgW] | 0; 
+    }; 
+ 
+    // 拡大 
+    for (var i = 0; i < txtW * txtH; i ++) { 
+        var x = i % txtW, y = i / txtW | 0; 
+        var p =  
+          imgP(x-1, y-1) + imgP(x, y-1) + imgP(x+1, y-1) 
+        + imgP(x-1, y  ) + imgP(x, y  ) + imgP(x+1, y  ) 
+        + imgP(x-1, y+1) + imgP(x, y+1) + imgP(x+1, y-1); 
+ 
+        if (p < 3) { 
+            // 文字ハイフンを配列に格納 
+            arr[i] = "-"; 
+        } else { 
+            // 文字コードから文字を生成して配列に格納 
+            arr[i] = String.fromCharCode 
+                (i % 26 + 65); 
+        } 
+    } 
+ 
+    // 文字列の整形 
+    var re = new RegExp("(.{" + txtW + "})", "g"); 
+    var res = arr.join("").replace(re, "$1\n"); 
+ 
+    // 戻り値を戻して終了 
+    return res; 
+})(); 
+// CODE_END
+
+// {{2015/6/26 11:19:17}}
