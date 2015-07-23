@@ -1,0 +1,7 @@
+言語:Ruby
+require 'prime';114.times{|i|i.to_s.each_char{|c|b='brainfuck';b[c.to_i]='*';$><<b}if i.prime?}
+Team:LGS
+補足:
+伏せ字は素数でしたか。
+100文字切りました。
+面白い問題です。
