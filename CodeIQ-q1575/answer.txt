@@ -1,0 +1,1 @@
+for(j=i=0;i<36;i++)if(q[i]!="mother"[j])r+='_';else{r+=q[i];j++}

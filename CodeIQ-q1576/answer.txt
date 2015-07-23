@@ -1,0 +1,1 @@
+j=0;function f(s){c="mother"[j];if(!s)return"";if(s.indexOf(c))a="_";else{a=c;j++}return a+f(s.slice(1))}r=f(q)

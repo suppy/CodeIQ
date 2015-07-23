@@ -1,0 +1,1 @@
+function f(s,j){c="mother "[j];if(!s)return"";if(c.charCodeAt(0)^s.charCodeAt(0))a="_";else{a=c;j++}return a+f(s.slice(1),j)}r=f(q,0)
